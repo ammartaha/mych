@@ -2632,11 +2632,11 @@
     <title lang="en">Match 4/D3 - World Feed</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20250527183000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
+  <programme start="20250527183000 +0000" stop="20250527210000 +0000" channel="beINSportsXtra1.qa">
     <title lang="en">Match 5/D3 - World Feed</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20250527183000 +0000" stop="20250527210000 +0000" channel="beINSportsXtra1.qa">
+  <programme start="20250527183000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
     <title lang="en">Match 5/D3 - World Feed</title>
     <category lang="en">Tennis</category>
   </programme>
@@ -2876,6 +2876,11 @@
   </channel>
   <channel id="VSport3.no">
     <display-name>V sport 3 HD (N) (T)</display-name>
+    <url>https://allente.no</url>
+  </channel>
+  <channel id="VSportUltraHD.se">
+    <display-name>V sport ultra HD (T)</display-name>
+    <icon src="https://i.imgur.com/17OHnMi.png" />
     <url>https://allente.no</url>
   </channel>
   <programme start="20250527040000 +0000" stop="20250527080000 +0000" channel="TV2_S_P1.NO">
@@ -4331,6 +4336,59 @@
     <episode-num system="onscreen">S2025E02</episode-num>
     <image>https://source-file-distribution-cdn.clipsource.com/58ff3fc55f899/mtg-5900b62c09f26/2025/01/28/6798ddd7499ae.jpg</image>
   </programme>
+  <programme start="20250527080000 +0000" stop="20250527163000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">RedBull TV</title>
+    <desc lang="no">RedBull TV</desc>
+    <category lang="no">sport</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527190000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">Ingen sending</title>
+    <desc lang="no">Ingen sending</desc>
+    <category lang="no">sport</category>
+    <episode-num system="xmltv_ns">0.67.0/1</episode-num>
+    <episode-num system="onscreen">S01E68</episode-num>
+    <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg</image>
+  </programme>
+  <programme start="20250527190000 +0000" stop="20250527213000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">Ingen sending</title>
+    <desc lang="no">Ingen sending</desc>
+    <category lang="no">sport</category>
+    <episode-num system="xmltv_ns">0.69.0/1</episode-num>
+    <episode-num system="onscreen">S01E70</episode-num>
+    <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2018/09/05/5b8ffb0dee224.jpg</image>
+  </programme>
+  <programme start="20250527213000 +0000" stop="20250528080000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">Sendeopphold</title>
+    <desc lang="no">Fra . Sendeopphold</desc>
+    <category lang="no">sport</category>
+    <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg</image>
+  </programme>
+  <programme start="20250528080000 +0000" stop="20250528163000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">RedBull TV</title>
+    <desc lang="no">RedBull TV</desc>
+    <category lang="no">sport</category>
+  </programme>
+  <programme start="20250528163000 +0000" stop="20250528185500 +0000" channel="VSportUltraHD.se">
+    <title lang="no">Ingen sending</title>
+    <desc lang="no">Ingen sending</desc>
+    <category lang="no">sport</category>
+    <episode-num system="xmltv_ns">0.69.0/1</episode-num>
+    <episode-num system="onscreen">S01E70</episode-num>
+    <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2025/05/02/681491a57bea4.jpg</image>
+  </programme>
+  <programme start="20250528185500 +0000" stop="20250528230000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">No broadcast</title>
+    <desc lang="no">No broadcast</desc>
+    <category lang="no">sport</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme start="20250528230000 +0000" stop="20250529080000 +0000" channel="VSportUltraHD.se">
+    <title lang="no">Sendeopphold</title>
+    <desc lang="no">Fra . Sendeopphold</desc>
+    <category lang="no">sport</category>
+    <image>https://source-file-distribution-cdn.clipsource.com/55632ffdb04e0/mtg-562a0e865934e/2020/06/02/5ed683c0c8598.jpg</image>
+  </programme>
   <channel id="nowSports1.hk">
     <display-name>Now Sports 1</display-name>
     <icon src="https://i.imgur.com/3BbhTQX.png" />
@@ -4394,6 +4452,10 @@
   <channel id="nowSportsPremierLeague6.hk">
     <display-name>Now Sports Premier League 6</display-name>
     <icon src="https://i.imgur.com/q2GQzb9.png" />
+    <url>https://nowplayer.now.com</url>
+  </channel>
+  <channel id="nowSportsPremierLeague7.hk">
+    <display-name>Now Sports Premier League 7</display-name>
     <url>https://nowplayer.now.com</url>
   </channel>
   <channel id="nowSportsPremierLeagueTV.hk">
@@ -5181,6 +5243,33 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague6.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527160000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527200000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527200000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250528000000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250528000000 +0000" stop="20250528040000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528080000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250528080000 +0000" stop="20250528120000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250528120000 +0000" stop="20250528160000 +0000" channel="nowSportsPremierLeague7.hk">
+    <title lang="en">Stay tuned for the next broadcast</title>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="nowSportsPremierLeagueTV.hk">
