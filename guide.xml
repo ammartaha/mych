@@ -1,5 +1,1667 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="HubPremier1.sg">
+    <display-name>Hub Premier 1</display-name>
+    <icon src="https://i.imgur.com/C25KgW9.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier2.sg">
+    <display-name>Hub Premier 2 (HD)</display-name>
+    <icon src="https://i.imgur.com/mrZwamR.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier3.sg">
+    <display-name>Hub Premier 3</display-name>
+    <icon src="https://i.imgur.com/0A6bP0g.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier4.sg">
+    <display-name>Hub Premier 4</display-name>
+    <icon src="https://i.imgur.com/RTgyfAe.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier5.sg">
+    <display-name>Hub Premier 5</display-name>
+    <icon src="https://i.imgur.com/XhX3oUI.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier6.sg">
+    <display-name>Hub Premier 6</display-name>
+    <icon src="https://i.imgur.com/9F7wNgI.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier7.sg">
+    <display-name>Hub Premier 7</display-name>
+    <icon src="https://i.imgur.com/bVOyKEV.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier8.sg">
+    <display-name>Hub Premier 8</display-name>
+    <icon src="https://i.imgur.com/stYijJ1.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier9.sg">
+    <display-name>Hub Premier 9</display-name>
+    <icon src="https://i.imgur.com/TN8HGea.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier10.sg">
+    <display-name>Hub Premier 10</display-name>
+    <icon src="https://i.imgur.com/h1jaQqc.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <channel id="HubPremier11.sg">
+    <display-name>Hub Premier 11</display-name>
+    <icon src="https://i.imgur.com/l0rGLan.png" />
+    <url>https://starhubtvplus.com</url>
+  </channel>
+  <programme start="20250527000000 +0000" stop="20250527003000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Fulham v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527010000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Manchester United v Aston Villa</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527010000 +0000" stop="20250527020000 +0000" channel="HubPremier1.sg">
+    <title lang="en">FANZONE - MON 26 MAY</title>
+    <desc lang="en">This is the show that puts international fans at the heart of the Premier League conversation. A phone-in for the digital generation, fans from around the world join our studio discussion via camera phones and weblinks to have their say about their teams and their favourite players.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/fan_zone_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527023000 +0000" stop="20250527033000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527040000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527043000 +0000" channel="HubPremier1.sg">
+    <title lang="en">FANTASY SHOW - MON 26 MAY</title>
+    <desc lang="en">Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/fantasy_show_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/fantasy_show_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527043000 +0000" stop="20250527053000 +0000" channel="HubPremier1.sg">
+    <title lang="en">KELLY &amp; WRIGHTY - MON 26 MAY</title>
+    <desc lang="en">Michael Owen and Darren Lewis are in the studio alongside Kelly Cates and Ian Wright to reflect on the end of the 2024/25 Premier League season.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527053000 +0000" stop="20250527063000 +0000" channel="HubPremier1.sg">
+    <title lang="en">REVIEW - MON 26 MAY</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527063000 +0000" stop="20250527073000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MASTERCLASS</title>
+    <desc lang="en">Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Milos Kerkez, Thomas Frank, Adam Wharton and Cole Palmer.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527093000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527093000 +0000" stop="20250527100000 +0000" channel="HubPremier1.sg">
+    <title lang="en">FANTASY SHOW - MON 26 MAY</title>
+    <desc lang="en">Saka or Salah? Foden or Fernandes? Wilson or Watkins? Picking your Fantasy team is never easy but this season the Fantasy Show is on hand to help you with those big decisions. Fantasy experts will crunch the numbers and give their opinion on which Premier League stars you should be selecting ahead of each FPL Gameweek.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/fantasy_show_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/fantasy_show_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527120000 +0000" channel="HubPremier1.sg">
+    <title lang="en">REVIEW - MON 26 MAY</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MASTERCLASS</title>
+    <desc lang="en">Some of the Premier League's biggest stars take us onto the pitch to discuss the techniques and thought processes that allow them to perform at the highest level. Featuring Rodri, Chris Wood, Enzo Maresca, Cameron Archer with Maxwel Cornet and James Tarkowski.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_pl_masterclass.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527143000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527163000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Southampton v Arsenal</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Wolverhampton Wanderers v Brentford</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527180000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527183000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Nottingham Forest v Chelsea</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527193000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527200000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527210000 +0000" channel="HubPremier1.sg">
+    <title lang="en">KELLY &amp; WRIGHTY - MON 26 MAY</title>
+    <desc lang="en">Michael Owen and Darren Lewis are in the studio alongside Kelly Cates and Ian Wright to reflect on the end of the 2024/25 Premier League season.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527210000 +0000" stop="20250527213000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Tottenham Hotspur v Brighton and Hove Albion</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527213000 +0000" stop="20250527220000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Newcastle United v Everton</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NEWvEVE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NEWvEVE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="HubPremier1.sg">
+    <title lang="en">REVIEW - MON 26 MAY</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527230000 +0000" stop="20250528000000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528000000 +0000" stop="20250528010000 +0000" channel="HubPremier1.sg">
+    <title lang="en">KELLY &amp; WRIGHTY - MON 26 MAY</title>
+    <desc lang="en">Michael Owen and Darren Lewis are in the studio alongside Kelly Cates and Ian Wright to reflect on the end of the 2024/25 Premier League season.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528010000 +0000" stop="20250528013000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Nottingham Forest v Chelsea</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528013000 +0000" stop="20250528020000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Southampton v Arsenal</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528020000 +0000" stop="20250528023000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528023000 +0000" stop="20250528030000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Tottenham Hotspur v Brighton &amp; Hove Albion</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528030000 +0000" stop="20250528040000 +0000" channel="HubPremier1.sg">
+    <title lang="en">REVIEW - MON 26 MAY</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528050000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528050000 +0000" stop="20250528053000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Fulham v Manchester City</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528053000 +0000" stop="20250528063000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528063000 +0000" stop="20250528070000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Wolverhampton Wanderers v Brentford</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528070000 +0000" stop="20250528073000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Nottingham Forest v Chelsea</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528073000 +0000" stop="20250528080000 +0000" channel="HubPremier1.sg">
+    <title lang="en">UNDER THE SKIN - NOTTINGHAM FOREST</title>
+    <desc lang="en">This documentary celebrates the incredible, rollercoaster ride of Nottingham Forest Showcasing the club's fans, culture and traditions, we see how Forest's return to European football was achieved by reconnecting with the legacy of Brian Clough.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_generic_premier_league_yellow9.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_generic_premier_league_yellow9.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528080000 +0000" stop="20250528083000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528083000 +0000" stop="20250528090000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528090000 +0000" stop="20250528100000 +0000" channel="HubPremier1.sg">
+    <title lang="en">KELLY &amp; WRIGHTY - MON 26 MAY</title>
+    <desc lang="en">Michael Owen and Darren Lewis are in the studio alongside Kelly Cates and Ian Wright to reflect on the end of the 2024/25 Premier League season.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/kelly_wright_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528103000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Manchester United v Aston Villa</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528103000 +0000" stop="20250528110000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Ipswich Town v West Ham United</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_IPSvWHU_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_IPSvWHU_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528110000 +0000" stop="20250528120000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528120000 +0000" stop="20250528123000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528123000 +0000" stop="20250528130000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Nottingham Forest v Chelsea</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528130000 +0000" stop="20250528140000 +0000" channel="HubPremier1.sg">
+    <title lang="en">REVIEW - MON 26 MAY</title>
+    <desc lang="en">Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_review_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="HubPremier1.sg">
+    <title lang="en">THE CATCH-UP SHOW</title>
+    <desc lang="en">All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.40.0/1</episode-num>
+    <episode-num system="onscreen">S01E41</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528150000 +0000" stop="20250528153000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528153000 +0000" stop="20250528160000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Tottenham Hotspur v Brighton and Hove Albion</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_TOTvBHA_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528163000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528163000 +0000" stop="20250528170000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528170000 +0000" stop="20250528180000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We dive into the fiercest rivalry in English football-Manchester United and Liverpool. As Liverpool draw level with United's record haul of top-flight titles, this is a story of history, pride, and the relentless pursuit of greatness. With insight from icons on both sides-Ian Rush, Lou Macari, Brian Kidd, Michael Owen, Phil Thompson, and new Liverpool boss Arne Slot, we unpack the moments that have defined generations, split families, and lit up the Premier League.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.51.0/1</episode-num>
+    <episode-num system="onscreen">S01E52</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528180000 +0000" stop="20250528190000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL MOMENTS</title>
+    <desc lang="en">Steve McManaman revisits ten standout moments from his Premier League career, from his breakthrough at Anfield to unforgettable solo goals and Merseyside derby magic. With flair, humour and personal insight, PL Moments takes you inside the story of one of the Premier League's most creative and entertaining players.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
+    <episode-num system="onscreen">S01E15</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/PL_Moments_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528190000 +0000" stop="20250528200000 +0000" channel="HubPremier1.sg">
+    <title lang="en">THE CATCH-UP SHOW</title>
+    <desc lang="en">All the very best of the week's programming and digital content from another action-packed Premier League match round.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.40.0/1</episode-num>
+    <episode-num system="onscreen">S01E41</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/the_catch_up_show_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528200000 +0000" stop="20250528203000 +0000" channel="HubPremier1.sg">
+    <title lang="en">NETBUSTERS</title>
+    <desc lang="en">Relive the best action from the Premier League with this fast-paced ISO angle highlights show, featuring every game and every goal from each matchround.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.37.0/1</episode-num>
+    <episode-num system="onscreen">S01E38</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/netbusters_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528203000 +0000" stop="20250528213000 +0000" channel="HubPremier1.sg">
+    <title lang="en">GENERATION xG - MON 26 MAY</title>
+    <desc lang="en">A deep dive into the tactical trends and statistical insights of modern football with input from players, managers and data experts from the 'fanalyst' community. This programme will analyse the on-field action in forensic detail and give hard core Premier League fans a new insight into what is happening on the pitch and why.</desc>
+    <category lang="en">Magazine Show</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/generation_xg_V2.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528213000 +0000" stop="20250528223000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We dive into the fiercest rivalry in English football-Manchester United and Liverpool. As Liverpool draw level with United's record haul of top-flight titles, this is a story of history, pride, and the relentless pursuit of greatness. With insight from icons on both sides-Ian Rush, Lou Macari, Brian Kidd, Michael Owen, Phil Thompson, and new Liverpool boss Arne Slot, we unpack the moments that have defined generations, split families, and lit up the Premier League.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.51.0/1</episode-num>
+    <episode-num system="onscreen">S01E52</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528223000 +0000" stop="20250528230000 +0000" channel="HubPremier1.sg">
+    <title lang="en">MATCH HIGHLIGHTS 24/25 MW38 Liverpool v Crystal Palace</title>
+    <desc lang="en">Each Premier League game from the 2024/25 season condensed into an individual 26-minute highlights show.</desc>
+    <category lang="en">Matches</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528230000 +0000" stop="20250528233000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We look back on the extraordinary career of Mohamed Salah, tracing his rise from a small village in Egypt to global football stardom. We speak to those closest to him to highlight his early years, struggles, and determination, shedding light on the pivotal moments that shaped his journey to becoming a Premier League legend with Liverpool.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
+    <episode-num system="onscreen">S01E47</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="HubPremier1.sg">
+    <title lang="en">PL STORIES</title>
+    <desc lang="en">We follow New Zealand striker Chris Wood during a crucial World Cup Qualifier on home soil, at the peak of one of the most impressive seasons of his career. Back in his hometown, we meet the family, coaches and friends who helped shape the player and the person he's become. From humble beginnings to Premier League mainstay, Wood reflects on the pressures he's faced, the pride of leading his country, and the mindset that's driven him every step of the way.</desc>
+    <category lang="en">Magazine Show</category>
+    <episode-num system="xmltv_ns">0.49.0/1</episode-num>
+    <episode-num system="onscreen">S01E50</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/pl_stories_V2.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527020000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Liverpool vs Crystal Palace (MW38)</sub-title>
+    <desc lang="en">When finishing the season at home, the Premier League champions have won their final match on 13 out of the last 14 occasions. The only exception was Manchester United losing against West Ham in 2006-07.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.373.0/1</episode-num>
+    <episode-num system="onscreen">S01E374</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_LIVvCRY_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527040000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Southampton vs Arsenal (MW38)</sub-title>
+    <desc lang="en">Southampton have lost 29 Premier League games this season. Defeat here would see them become the first team to lose 30 times in a single campaign in the competitionâ€™s history, while also the first team to do so in a 38-game top-flight season.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.377.0/1</episode-num>
+    <episode-num system="onscreen">S01E378</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_SOUvARS_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527060000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea (MW38)</sub-title>
+    <desc lang="en">Nottingham Forest have won 19 Premier League matches this season, more than they did in 2022-23 and 2023-24 combined (18). They last won 20+ games in 1994-95 (22), while theyâ€™ve never done so in a 38-game top-flight season.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.376.0/1</episode-num>
+    <episode-num system="onscreen">S01E377</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527080000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Wolverhampton Wanderers vs Brentford (MW38)</sub-title>
+    <desc lang="en">Brentford have scored 65 Premier League goals this season, their most in a top-flight campaign since 1937-38 (69). Their conversion rate in 2024-25 is 15.2%, the best of any side.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.379.0/1</episode-num>
+    <episode-num system="onscreen">S01E380</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_WOLvBRE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527100000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Newcastle United vs Everton (MW38)</sub-title>
+    <desc lang="en">Victory for Newcastle will guarantee them qualification for next seasonâ€™s UEFA Champions League, the second time in the last three seasons theyâ€™ll have done so having only done so twice previously (1997-98 and 2002-03).</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.375.0/1</episode-num>
+    <episode-num system="onscreen">S01E376</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NEWvEVE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NEWvEVE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Manchester United vs Aston Villa (MW38)</sub-title>
+    <desc lang="en">Manchester United will finish this Premier League campaign without winning two matches in a row all season - itâ€™s only the third time in the club's history that they've gone an entire league season without winning back-to-back games.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.374.0/1</episode-num>
+    <episode-num system="onscreen">S01E375</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_MUNvAVL_25.jpg?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Nottingham Forest vs Chelsea (MW38)</sub-title>
+    <desc lang="en">Nottingham Forest have won 19 Premier League matches this season, more than they did in 2022-23 and 2023-24 combined (18). They last won 20+ games in 1994-95 (22), while theyâ€™ve never done so in a 38-game top-flight season.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.376.0/1</episode-num>
+    <episode-num system="onscreen">S01E377</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_NFOvCHE_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527160000 +0000" channel="HubPremier2.sg">
+    <title lang="en">Premier League 2024/25</title>
+    <sub-title lang="en">Fulham vs Manchester City (MW38)</sub-title>
+    <desc lang="en">Fulham are winless in 19 Premier League meetings with Man City (D3 L16), losing the last 14 in a row. Their last victory was in April 2009 at the Etihad Stadium under Roy Hodgson.</desc>
+    <category lang="en">Matches</category>
+    <episode-num system="xmltv_ns">0.371.0/1</episode-num>
+    <episode-num system="onscreen">S01E372</episode-num>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/poster/ch221_MW38_FULvMCI_25.jpg?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier2.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier3.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier4.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/224_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier6.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/226_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier7.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/227_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier8.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/228_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier9.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/229_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier10.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=341&amp;h=192</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/230_1920x1080_HTV.png?w=960&amp;h=540</image>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527040000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527100000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527160000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527220000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250528040000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528040000 +0000" stop="20250528100000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528100000 +0000" stop="20250528160000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528160000 +0000" stop="20250528220000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
+  <programme start="20250528220000 +0000" stop="20250529040000 +0000" channel="HubPremier11.sg">
+    <title lang="en">End of Transmission</title>
+    <category lang="en">General</category>
+    <rating>
+      <value>UNRATED</value>
+    </rating>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=960&amp;h=540</image>
+    <image>https://poster.starhubgo.com/Linear_Channels2/231_1920x1080_HTV.png?w=341&amp;h=192</image>
+  </programme>
   <channel id="beIN4K.qa">
     <display-name>15</display-name>
     <icon src="https://i.imgur.com/TTxh9tZ.png" />
@@ -4528,9 +6190,6 @@
   <programme start="20250528160000 +0000" stop="20250528184500 +0000" channel="nowSports1.hk">
     <title lang="en">FIE 24/25 -Grand Prix Du Qatar</title>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="nowSports2.hk">
-    <title lang="en">LaLiga Hypermotion Highlights 2024/2025 E41</title>
-  </programme>
   <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="nowSports2.hk">
     <title lang="en">LaLiga News 2024/2025[Live]</title>
   </programme>
@@ -4605,9 +6264,6 @@
   </programme>
   <programme start="20250528160000 +0000" stop="20250528163000 +0000" channel="nowSports2.hk">
     <title lang="en">LaLiga Chronicles 2024/2025 E38</title>
-  </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS Highlights 24/25 E38</title>
   </programme>
   <programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="nowSports3.hk">
     <title lang="en">ROSHN Saudi League 24/25 -Al Ittihad vs Damac</title>
@@ -4945,9 +6601,6 @@
   <programme start="20250528160000 +0000" stop="20250528174500 +0000" channel="nowSports6.hk">
     <title lang="en">ATP 25 Mutua Madrid Open -QF (4)</title>
   </programme>
-  <programme start="20250527103000 +0000" stop="20250527130000 +0000" channel="nowSports7.hk">
-    <title lang="en">World Snooker Championship 2025 -R16 - Wakelin vs Allen</title>
-  </programme>
   <programme start="20250527130000 +0000" stop="20250527153000 +0000" channel="nowSports7.hk">
     <title lang="en">World Snooker Championship 2025 -R16 - O'Sullivan vs Pang / Hossein vs Williams</title>
   </programme>
@@ -5025,9 +6678,6 @@
   </programme>
   <programme start="20250528160000 +0000" stop="20250528183000 +0000" channel="nowSports7.hk">
     <title lang="en">Tour Championship 2025 -Semi-Finals(3) - Selby vs Ding</title>
-  </programme>
-  <programme start="20250527110000 +0000" stop="20250527130000 +0000" channel="nowSportsPremierLeague1.hk">
-    <title lang="en">Premier League 24/25 -Newcastle United vs Everton</title>
   </programme>
   <programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="nowSportsPremierLeague1.hk">
     <title lang="en">Premier League 24/25 -Manchester United vs Aston Villa</title>
@@ -5272,9 +6922,6 @@
   <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="nowSportsPremierLeagueTV.hk">
-    <title lang="en">MASTERCLASS SPECIAL E1</title>
-  </programme>
   <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="nowSportsPremierLeagueTV.hk">
     <title lang="en">NETBUSTERS E38</title>
   </programme>
@@ -5397,9 +7044,6 @@
   </programme>
   <programme start="20250528160000 +0000" stop="20250528163000 +0000" channel="nowSportsPremierLeagueTV.hk">
     <title lang="en">MATCH HIGHLIGHTS -LIV v CRY MW38</title>
-  </programme>
-  <programme start="20250527110000 +0000" stop="20250527130000 +0000" channel="nowSportsPrime.hk">
-    <title lang="en">Premier League 24/25 -Everton vs Southampton</title>
   </programme>
   <programme start="20250527130000 +0000" stop="20250527150000 +0000" channel="nowSportsPrime.hk">
     <title lang="en">NBA Playoffs Presented by Google Pixel 2025 -W. Conf. Finals Game 3 - Oklahoma City Thunder vs Minnesota Timberwolves</title>
