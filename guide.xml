@@ -15,703 +15,903 @@
     <icon src="https://i.imgur.com/UYSMao3.png" />
     <url>https://bein.com</url>
   </channel>
-  <channel id="beINSports4.qa">
-    <display-name>6</display-name>
-    <icon src="https://i.imgur.com/vwAgJNi.png" />
+  <channel id="beINSports.qa">
+    <display-name>2</display-name>
+    <icon src="https://i.imgur.com/RLrMBlm.png" />
     <url>https://bein.com</url>
   </channel>
-  <channel id="beINSports5.qa">
-    <display-name>7</display-name>
-    <icon src="https://i.imgur.com/2Rha5aY.png" />
+  <channel id="beINSportsNews.qa">
+    <display-name>1</display-name>
+    <icon src="https://i.imgur.com/ZNjQzR5.png" />
     <url>https://bein.com</url>
   </channel>
-  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports1.qa">
-    <title lang="en">La Liga World 2024/25 Ep.41 -</title>
-    <category lang="en">Sports General</category>
-  </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports1.qa">
     <title lang="ar">La Liga World 2024/25 Ep.41</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526221500 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga 2024/25 - Goals of Barcelona</title>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports1.qa">
+    <title lang="en">La Liga World 2024/25 Ep.41 -</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250526210000 +0000" stop="20250526221500 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga 2024/25 - Goals of Barcelona</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526221500 +0000" stop="20250527001000 +0000" channel="beINSports1.qa">
-    <title lang="en">Rayo Vallecano vs Mallorca - LaLiga 2024/25 Week 38</title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
+  <programme start="20250526210000 +0000" stop="20250526221500 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga 2024/25 - Goals of Barcelona</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250526221500 +0000" stop="20250527001000 +0000" channel="beINSports1.qa">
     <title lang="ar">Rayo Vallecano vs Mallorca - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527001000 +0000" stop="20250527020000 +0000" channel="beINSports1.qa">
-    <title lang="en">Villarreal vs Sevilla - LaLiga 2024/25 Week 38</title>
+  <programme start="20250526221500 +0000" stop="20250527001000 +0000" channel="beINSports1.qa">
+    <title lang="en">Rayo Vallecano vs Mallorca - LaLiga 2024/25 Week 38</title>
     <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527001000 +0000" stop="20250527020000 +0000" channel="beINSports1.qa">
     <title lang="ar">Villarreal vs Sevilla - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga BEST 11 - Luis GarcÃ­a</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250527001000 +0000" stop="20250527020000 +0000" channel="beINSports1.qa">
+    <title lang="en">Villarreal vs Sevilla - LaLiga 2024/25 Week 38</title>
+    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga BEST 11 - Luis GarcÃ­a</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527023000 +0000" stop="20250527030000 +0000" channel="beINSports1.qa">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.34 -</title>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga BEST 11 - Luis GarcÃ­a</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250527023000 +0000" stop="20250527030000 +0000" channel="beINSports1.qa">
     <title lang="ar">La Liga Chronicles 2024/25 Ep.34</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527030000 +0000" stop="20250527050000 +0000" channel="beINSports1.qa">
-    <title lang="en">Girona vs AtlÃ©tico Madrid - LaLiga 2024/25 Week 38</title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
+  <programme start="20250527023000 +0000" stop="20250527030000 +0000" channel="beINSports1.qa">
+    <title lang="en">La Liga Chronicles 2024/25 Ep.34 -</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250527030000 +0000" stop="20250527050000 +0000" channel="beINSports1.qa">
     <title lang="ar">Girona vs AtlÃ©tico Madrid - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527050000 +0000" stop="20250527070000 +0000" channel="beINSports1.qa">
-    <title lang="en">Getafe vs Celta de Vigo - LaLiga 2024/25 Week 38</title>
+  <programme start="20250527030000 +0000" stop="20250527050000 +0000" channel="beINSports1.qa">
+    <title lang="en">Girona vs AtlÃ©tico Madrid - LaLiga 2024/25 Week 38</title>
     <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527050000 +0000" stop="20250527070000 +0000" channel="beINSports1.qa">
     <title lang="ar">Getafe vs Celta de Vigo - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527070000 +0000" stop="20250527084500 +0000" channel="beINSports1.qa">
-    <title lang="en">Belgium vs Italy - UEFA European Under 17 Championship</title>
-    <category lang="en">UEFA U17 Championship</category>
+  <programme start="20250527050000 +0000" stop="20250527070000 +0000" channel="beINSports1.qa">
+    <title lang="en">Getafe vs Celta de Vigo - LaLiga 2024/25 Week 38</title>
+    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527070000 +0000" stop="20250527084500 +0000" channel="beINSports1.qa">
     <title lang="ar">Belgium vs Italy - UEFA European Under 17 Championship - 2025</title>
     <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
   </programme>
-  <programme start="20250527084500 +0000" stop="20250527103000 +0000" channel="beINSports1.qa">
-    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
+  <programme start="20250527070000 +0000" stop="20250527084500 +0000" channel="beINSports1.qa">
+    <title lang="en">Belgium vs Italy - UEFA European Under 17 Championship</title>
     <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250527084500 +0000" stop="20250527103000 +0000" channel="beINSports1.qa">
     <title lang="ar">Czechia vs England - UEFA European Under 17 Championship - 2025</title>
     <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
   </programme>
-  <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga BEST 11 - Luis GarcÃ­a</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250527084500 +0000" stop="20250527103000 +0000" channel="beINSports1.qa">
+    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
+    <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga BEST 11 - Luis GarcÃ­a</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527110000 +0000" stop="20250527124500 +0000" channel="beINSports1.qa">
-    <title lang="en">Real Madrid vs Real Sociedad - LaLiga 2024/25 Week 38</title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
+  <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga BEST 11 - Luis GarcÃ­a</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250527110000 +0000" stop="20250527124500 +0000" channel="beINSports1.qa">
     <title lang="ar">Real Madrid vs Real Sociedad - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527124500 +0000" stop="20250527143000 +0000" channel="beINSports1.qa">
-    <title lang="en">Athletic Bilbao vs Barcelona - LaLiga 2024/25 Week 38</title>
+  <programme start="20250527110000 +0000" stop="20250527124500 +0000" channel="beINSports1.qa">
+    <title lang="en">Real Madrid vs Real Sociedad - LaLiga 2024/25 Week 38</title>
     <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527124500 +0000" stop="20250527143000 +0000" channel="beINSports1.qa">
     <title lang="ar">Athletic Bilbao vs Barcelona - LaLiga 2024/25 Week 38</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ù‚Ø¯Ù…</category>
   </programme>
-  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga 2024/25 - Goals of Atletico Madrid</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250527124500 +0000" stop="20250527143000 +0000" channel="beINSports1.qa">
+    <title lang="en">Athletic Bilbao vs Barcelona - LaLiga 2024/25 Week 38</title>
+    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
   </programme>
   <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga 2024/25 - Goals of Atletico Madrid</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527150000 +0000" stop="20250527164500 +0000" channel="beINSports1.qa">
-    <title lang="en">Belgium vs Italy - UEFA European Under 17 Championship</title>
-    <category lang="en">UEFA U17 Championship</category>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga 2024/25 - Goals of Atletico Madrid</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527164500 +0000" channel="beINSports1.qa">
     <title lang="ar">Belgium vs Italy - UEFA European Under 17 Championship - 2025</title>
     <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
   </programme>
-  <programme start="20250527164500 +0000" stop="20250527184500 +0000" channel="beINSports1.qa">
-    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
+  <programme start="20250527150000 +0000" stop="20250527164500 +0000" channel="beINSports1.qa">
+    <title lang="en">Belgium vs Italy - UEFA European Under 17 Championship</title>
     <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250527164500 +0000" stop="20250527184500 +0000" channel="beINSports1.qa">
     <title lang="ar">Czechia vs England - UEFA European Under 17 Championship - 2025</title>
     <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
   </programme>
-  <programme start="20250527184500 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga 2024/25 - Goals of Barcelona</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250527164500 +0000" stop="20250527184500 +0000" channel="beINSports1.qa">
+    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
+    <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250527184500 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga 2024/25 - Goals of Barcelona</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
-    <title lang="en">LaLiga Highlights - Week 38</title>
+  <programme start="20250527184500 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga 2024/25 - Goals of Barcelona</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
     <title lang="ar">LaLiga Highlights - Week 38</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports2.qa">
-    <title lang="en">Ligue 1 Highlights 2024/25 Week 34 -</title>
-    <category lang="en">Leagues Summary</category>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports1.qa">
+    <title lang="en">LaLiga Highlights - Week 38</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports2.qa">
     <title lang="ar">Ligue 1 Highlights 2024/25 Week 34</title>
     <category lang="ar">Ø­ØµÙŠÙ„Ø© Ø§Ù„Ø¯ÙˆØ±ÙŠØ§Øª</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSports2.qa">
-    <title lang="en">In The Footsteps of Beraldo -</title>
-    <category lang="en">French League - Ligue 1</category>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports2.qa">
+    <title lang="en">Ligue 1 Highlights 2024/25 Week 34 -</title>
+    <category lang="en">Leagues Summary</category>
   </programme>
   <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSports2.qa">
     <title lang="ar">In The Footsteps of Beraldo</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250526213000 +0000" stop="20250526215000 +0000" channel="beINSports2.qa">
-    <title lang="en">French Ligue 1 2024/25 - Best Goals of Ligue 1</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSports2.qa">
+    <title lang="en">In The Footsteps of Beraldo -</title>
+    <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250526213000 +0000" stop="20250526215000 +0000" channel="beINSports2.qa">
     <title lang="ar">French Ligue 1 2024/25 - Best Goals of Ligue 1</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526215000 +0000" stop="20250526233500 +0000" channel="beINSports2.qa">
-    <title lang="en">Olympique Marseille vs Rennes - French Ligue 1 2024/25 Week 34</title>
-    <category lang="en">French League - Ligue 1</category>
+  <programme start="20250526213000 +0000" stop="20250526215000 +0000" channel="beINSports2.qa">
+    <title lang="en">French Ligue 1 2024/25 - Best Goals of Ligue 1</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250526215000 +0000" stop="20250526233500 +0000" channel="beINSports2.qa">
     <title lang="ar">Olympique Marseille vs Rennes - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250526233500 +0000" stop="20250527013000 +0000" channel="beINSports2.qa">
-    <title lang="en">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
+  <programme start="20250526215000 +0000" stop="20250526233500 +0000" channel="beINSports2.qa">
+    <title lang="en">Olympique Marseille vs Rennes - French Ligue 1 2024/25 Week 34</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250526233500 +0000" stop="20250527013000 +0000" channel="beINSports2.qa">
     <title lang="ar">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527013000 +0000" stop="20250527023000 +0000" channel="beINSports2.qa">
-    <title lang="en">In The Footsteps of Marquinhos - Ligue 1 Documentary 2024/25</title>
+  <programme start="20250526233500 +0000" stop="20250527013000 +0000" channel="beINSports2.qa">
+    <title lang="en">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527013000 +0000" stop="20250527023000 +0000" channel="beINSports2.qa">
     <title lang="ar">In The Footsteps of Marquinhos - Ligue 1 Documentary 2024/25</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527023000 +0000" stop="20250527041500 +0000" channel="beINSports2.qa">
-    <title lang="en">Nice vs Brest - French Ligue 1 2024/25 Week 34</title>
+  <programme start="20250527013000 +0000" stop="20250527023000 +0000" channel="beINSports2.qa">
+    <title lang="en">In The Footsteps of Marquinhos - Ligue 1 Documentary 2024/25</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527023000 +0000" stop="20250527041500 +0000" channel="beINSports2.qa">
     <title lang="ar">Nice vs Brest - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports2.qa">
-    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
-    <category lang="en">UEFA U17 Championship</category>
+  <programme start="20250527023000 +0000" stop="20250527041500 +0000" channel="beINSports2.qa">
+    <title lang="en">Nice vs Brest - French Ligue 1 2024/25 Week 34</title>
+    <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports2.qa">
     <title lang="ar">Czechia vs England - UEFA European Under 17 Championship - 2025</title>
     <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
   </programme>
-  <programme start="20250527060000 +0000" stop="20250527063000 +0000" channel="beINSports2.qa">
-    <title lang="en">In The Footsteps of Beraldo -</title>
-    <category lang="en">French League - Ligue 1</category>
+  <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports2.qa">
+    <title lang="en">Czechia vs England - UEFA European Under 17 Championship</title>
+    <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250527060000 +0000" stop="20250527063000 +0000" channel="beINSports2.qa">
     <title lang="ar">In The Footsteps of Beraldo</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527063000 +0000" stop="20250527081500 +0000" channel="beINSports2.qa">
-    <title lang="en">Lens vs Monaco - French Ligue 1 2024/25 Week 34</title>
+  <programme start="20250527060000 +0000" stop="20250527063000 +0000" channel="beINSports2.qa">
+    <title lang="en">In The Footsteps of Beraldo -</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527063000 +0000" stop="20250527081500 +0000" channel="beINSports2.qa">
     <title lang="ar">Lens vs Monaco - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527081500 +0000" stop="20250527100200 +0000" channel="beINSports2.qa">
-    <title lang="en">Lille vs Reims - French Ligue 1 2024/25 Week 34</title>
+  <programme start="20250527063000 +0000" stop="20250527081500 +0000" channel="beINSports2.qa">
+    <title lang="en">Lens vs Monaco - French Ligue 1 2024/25 Week 34</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527081500 +0000" stop="20250527100200 +0000" channel="beINSports2.qa">
     <title lang="ar">Lille vs Reims - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527100200 +0000" stop="20250527103000 +0000" channel="beINSports2.qa">
-    <title lang="en">Marseille vs Rennes - Mini Match</title>
-    <category lang="en">Mini Matches</category>
+  <programme start="20250527081500 +0000" stop="20250527100200 +0000" channel="beINSports2.qa">
+    <title lang="en">Lille vs Reims - French Ligue 1 2024/25 Week 34</title>
+    <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527100200 +0000" stop="20250527103000 +0000" channel="beINSports2.qa">
     <title lang="ar">Marseille vs Rennes - Mini Match - French Ligue 1 2024/25</title>
     <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports2.qa">
-    <title lang="en">Dijion vs Rennes - Coupe Gambardella</title>
-    <category lang="en">French Cup</category>
+  <programme start="20250527100200 +0000" stop="20250527103000 +0000" channel="beINSports2.qa">
+    <title lang="en">Marseille vs Rennes - Mini Match</title>
+    <category lang="en">Mini Matches</category>
   </programme>
   <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports2.qa">
     <title lang="ar">Dijion vs Rennes - Coupe Gambardella - 2025</title>
     <category lang="ar">ÙƒØ£Ø³ ÙØ±Ù†Ø³Ø§</category>
   </programme>
-  <programme start="20250527123000 +0000" stop="20250527143000 +0000" channel="beINSports2.qa">
-    <title lang="en">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
-    <category lang="en">French League - Ligue 1</category>
+  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports2.qa">
+    <title lang="en">Dijion vs Rennes - Coupe Gambardella</title>
+    <category lang="en">French Cup</category>
   </programme>
   <programme start="20250527123000 +0000" stop="20250527143000 +0000" channel="beINSports2.qa">
     <title lang="ar">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527143000 +0000" stop="20250527161500 +0000" channel="beINSports2.qa">
-    <title lang="en">Nantes vs Montpellier - French Ligue 1 2024/25 Week 34</title>
+  <programme start="20250527123000 +0000" stop="20250527143000 +0000" channel="beINSports2.qa">
+    <title lang="en">Strasbourg vs Le Havre - French Ligue 1 2024/25 Week 34</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527143000 +0000" stop="20250527161500 +0000" channel="beINSports2.qa">
     <title lang="ar">Nantes vs Montpellier - French Ligue 1 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527161500 +0000" stop="20250527180000 +0000" channel="beINSports2.qa">
-    <title lang="en">Metz vs Reims - French Ligue 1 2024/25 Playoffs</title>
+  <programme start="20250527143000 +0000" stop="20250527161500 +0000" channel="beINSports2.qa">
+    <title lang="en">Nantes vs Montpellier - French Ligue 1 2024/25 Week 34</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527161500 +0000" stop="20250527180000 +0000" channel="beINSports2.qa">
     <title lang="ar">Metz vs Reims - French Ligue 1 2024/25 Playoffs</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527180000 +0000" stop="20250527182000 +0000" channel="beINSports2.qa">
-    <title lang="en">In The Footsteps of Donnarumma -</title>
+  <programme start="20250527161500 +0000" stop="20250527180000 +0000" channel="beINSports2.qa">
+    <title lang="en">Metz vs Reims - French Ligue 1 2024/25 Playoffs</title>
     <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527180000 +0000" stop="20250527182000 +0000" channel="beINSports2.qa">
     <title lang="ar">In The Footsteps of Donnarumma</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
   </programme>
-  <programme start="20250527182000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
-    <title lang="en">Eintracht Braunschweig vs FC SaarbrÃ¼cken - Bundesliga 2</title>
-    <category lang="en">German League - Bundesliga 2nd Divsion</category>
+  <programme start="20250527180000 +0000" stop="20250527182000 +0000" channel="beINSports2.qa">
+    <title lang="en">In The Footsteps of Donnarumma -</title>
+    <category lang="en">French League - Ligue 1</category>
   </programme>
   <programme start="20250527182000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
     <title lang="ar">Eintracht Braunschweig vs FC SaarbrÃ¼cken - Bundesliga 2 - 2024/25 Play-Offs</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø«Ø§Ù†ÙŠØ©</category>
   </programme>
-  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
-    <title lang="en">The Final Story: Champions League -</title>
-    <category lang="en">Sports General</category>
+  <programme start="20250527182000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
+    <title lang="en">Eintracht Braunschweig vs FC SaarbrÃ¼cken - Bundesliga 2</title>
+    <category lang="en">German League - Bundesliga 2nd Divsion</category>
   </programme>
   <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
     <title lang="ar">The Final Story: Champions League</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports3.qa">
-    <title lang="en">Bundesliga - Special 2024/2025</title>
-    <category lang="en">Handball - Bundesliga</category>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports2.qa">
+    <title lang="en">The Final Story: Champions League -</title>
+    <category lang="en">Sports General</category>
   </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports3.qa">
     <title lang="ar">Bundesliga - Special 2024/2025 - Roots: Kane, Schick &amp; Ekitike</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSports3.qa">
-    <title lang="en">Bundesliga 2024/25 - Goals of Bayern Munich</title>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports3.qa">
+    <title lang="en">Bundesliga - Special 2024/2025</title>
     <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSports3.qa">
     <title lang="ar">Bundesliga 2024/25 - Goals of Bayern Munich</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250526220000 +0000" stop="20250526223000 +0000" channel="beINSports3.qa">
-    <title lang="en">Bundesliga - Special 2024/2025</title>
+  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSports3.qa">
+    <title lang="en">Bundesliga 2024/25 - Goals of Bayern Munich</title>
     <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250526220000 +0000" stop="20250526223000 +0000" channel="beINSports3.qa">
     <title lang="ar">Bundesliga - Special 2024/2025 - Roots: Kane, Schick &amp; Ekitike</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250526223000 +0000" stop="20250527014500 +0000" channel="beINSports3.qa">
-    <title lang="en">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY -</title>
-    <category lang="en">Padel</category>
+  <programme start="20250526220000 +0000" stop="20250526223000 +0000" channel="beINSports3.qa">
+    <title lang="en">Bundesliga - Special 2024/2025</title>
+    <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250526223000 +0000" stop="20250527014500 +0000" channel="beINSports3.qa">
     <title lang="ar">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527014500 +0000" stop="20250527034500 +0000" channel="beINSports3.qa">
-    <title lang="en">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
+  <programme start="20250526223000 +0000" stop="20250527014500 +0000" channel="beINSports3.qa">
+    <title lang="en">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY -</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527014500 +0000" stop="20250527034500 +0000" channel="beINSports3.qa">
     <title lang="ar">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527034500 +0000" stop="20250527041500 +0000" channel="beINSports3.qa">
-    <title lang="en">Bundesliga - Special 2024/2025</title>
-    <category lang="en">Handball - Bundesliga</category>
+  <programme start="20250527014500 +0000" stop="20250527034500 +0000" channel="beINSports3.qa">
+    <title lang="en">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
+    <category lang="en">Padel</category>
   </programme>
   <programme start="20250527034500 +0000" stop="20250527041500 +0000" channel="beINSports3.qa">
     <title lang="ar">Bundesliga - Special 2024/2025 - Roots: Kane, Schick &amp; Ekitike</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports3.qa">
-    <title lang="en">St. Pauli vs Bochum - Bundesliga 2024/25 Week 34</title>
+  <programme start="20250527034500 +0000" stop="20250527041500 +0000" channel="beINSports3.qa">
+    <title lang="en">Bundesliga - Special 2024/2025</title>
     <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports3.qa">
     <title lang="ar">St. Pauli vs Bochum - Bundesliga 2024/25 Week 34</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250527060000 +0000" stop="20250527064500 +0000" channel="beINSports3.qa">
-    <title lang="en">Bundesliga 2024/25 - Goals of Dortmund</title>
+  <programme start="20250527041500 +0000" stop="20250527060000 +0000" channel="beINSports3.qa">
+    <title lang="en">St. Pauli vs Bochum - Bundesliga 2024/25 Week 34</title>
     <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250527060000 +0000" stop="20250527064500 +0000" channel="beINSports3.qa">
     <title lang="ar">Bundesliga 2024/25 - Goals of Dortmund</title>
     <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù„Ù…Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
   </programme>
-  <programme start="20250527064500 +0000" stop="20250527100000 +0000" channel="beINSports3.qa">
-    <title lang="en">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY -</title>
-    <category lang="en">Padel</category>
+  <programme start="20250527060000 +0000" stop="20250527064500 +0000" channel="beINSports3.qa">
+    <title lang="en">Bundesliga 2024/25 - Goals of Dortmund</title>
+    <category lang="en">Handball - Bundesliga</category>
   </programme>
   <programme start="20250527064500 +0000" stop="20250527100000 +0000" channel="beINSports3.qa">
     <title lang="ar">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="beINSports3.qa">
-    <title lang="en">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
+  <programme start="20250527064500 +0000" stop="20250527100000 +0000" channel="beINSports3.qa">
+    <title lang="en">Claudia FERNANDEZ SANCHEZ ESP Beatriz GONZALEZ FERNANDEZ ESP vs Delfina BREA SENESI ARG Gemma TRIAY -</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="beINSports3.qa">
     <title lang="ar">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527120000 +0000" stop="20250527133000 +0000" channel="beINSports3.qa">
-    <title lang="en">Ramiro Jesus VALENZUELA ARG Pol HERNANDEZ ALVAREZ ESP vs Matias Damian GONZALEZ ARG Tomas LUCO ARG -</title>
+  <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="beINSports3.qa">
+    <title lang="en">Pablo CARDONA ESP Leandro AUGSBURGER ARG vs Alejandro Galan (ESP)Federico Chingotto (ARG) - Final Me</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527120000 +0000" stop="20250527133000 +0000" channel="beINSports3.qa">
     <title lang="ar">Ramiro Jesus VALENZUELA ARG Pol HERNANDEZ ALVAREZ ESP vs Matias Damian GONZALEZ ARG Tomas LUCO ARG -</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527133000 +0000" stop="20250527150000 +0000" channel="beINSports3.qa">
-    <title lang="en">Naim Horacio DIAZ ARG Antonio GRAUPERA ARG vs Martin ABUD PAR Mariano Agustin GONZALEZ SAN MARTIN PA -</title>
+  <programme start="20250527120000 +0000" stop="20250527133000 +0000" channel="beINSports3.qa">
+    <title lang="en">Ramiro Jesus VALENZUELA ARG Pol HERNANDEZ ALVAREZ ESP vs Matias Damian GONZALEZ ARG Tomas LUCO ARG -</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527133000 +0000" stop="20250527150000 +0000" channel="beINSports3.qa">
     <title lang="ar">Naim Horacio DIAZ ARG Antonio GRAUPERA ARG vs Martin ABUD PAR Mariano Agustin GONZALEZ SAN MARTIN PA</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527150000 +0000" stop="20250527163000 +0000" channel="beINSports3.qa">
-    <title lang="en">Andres FERNANDEZ LANCHA ESP Enzo JENSEN SIRVENT ITA vs Ignacio PIOTTO ALBORNOZ ARG Mario DEL CASTILL -</title>
+  <programme start="20250527133000 +0000" stop="20250527150000 +0000" channel="beINSports3.qa">
+    <title lang="en">Naim Horacio DIAZ ARG Antonio GRAUPERA ARG vs Martin ABUD PAR Mariano Agustin GONZALEZ SAN MARTIN PA -</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527150000 +0000" stop="20250527163000 +0000" channel="beINSports3.qa">
     <title lang="ar">Andres FERNANDEZ LANCHA ESP Enzo JENSEN SIRVENT ITA vs Ignacio PIOTTO ALBORNOZ ARG Mario DEL CASTILL</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527163000 +0000" stop="20250527180000 +0000" channel="beINSports3.qa">
-    <title lang="en">Ramiro MOYANO ARG Francisco CABEZA TERES ESP vs Javier MARTINEZ ESP Miguel BENITEZ LARA ESP - Men's</title>
+  <programme start="20250527150000 +0000" stop="20250527163000 +0000" channel="beINSports3.qa">
+    <title lang="en">Andres FERNANDEZ LANCHA ESP Enzo JENSEN SIRVENT ITA vs Ignacio PIOTTO ALBORNOZ ARG Mario DEL CASTILL -</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527163000 +0000" stop="20250527180000 +0000" channel="beINSports3.qa">
     <title lang="ar">Ramiro MOYANO ARG Francisco CABEZA TERES ESP vs Javier MARTINEZ ESP Miguel BENITEZ LARA ESP - Men's</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527180000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
-    <title lang="en">Daniela BANCHERO ARG Irene JIMENEZ ARG vs Lucia SAINZ PELEGRI ESP Patricia LLAGUNO ZIELINSKI ESP - W</title>
+  <programme start="20250527163000 +0000" stop="20250527180000 +0000" channel="beINSports3.qa">
+    <title lang="en">Ramiro MOYANO ARG Francisco CABEZA TERES ESP vs Javier MARTINEZ ESP Miguel BENITEZ LARA ESP - Men's</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527180000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
     <title lang="ar">Daniela BANCHERO ARG Irene JIMENEZ ARG vs Lucia SAINZ PELEGRI ESP Patricia LLAGUNO ZIELINSKI ESP - W</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250527193000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
-    <title lang="en">Daniel SANTIGOSA SASTRE ESP Emilio SANCHEZ CHAMERO ESP vs Pablo LIJÃ“ ESP Juan Cruz BELLUATI ARG - Me</title>
+  <programme start="20250527180000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
+    <title lang="en">Daniela BANCHERO ARG Irene JIMENEZ ARG vs Lucia SAINZ PELEGRI ESP Patricia LLAGUNO ZIELINSKI ESP - W</title>
     <category lang="en">Padel</category>
   </programme>
   <programme start="20250527193000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
     <title lang="ar">Daniel SANTIGOSA SASTRE ESP Emilio SANCHEZ CHAMERO ESP vs Pablo LIJÃ“ ESP Juan Cruz BELLUATI ARG - Me</title>
     <category lang="ar">Ø¨Ø§Ø¯ÙŠÙ„</category>
   </programme>
-  <programme start="20250526185400 +0000" stop="20250526210000 +0000" channel="beINSports4.qa">
-    <title lang="en">Netherlands vs Norway - Final</title>
-    <category lang="en">UEFA U17 Championship</category>
+  <programme start="20250527193000 +0000" stop="20250527193000 +0000" channel="beINSports3.qa">
+    <title lang="en">Daniel SANTIGOSA SASTRE ESP Emilio SANCHEZ CHAMERO ESP vs Pablo LIJÃ“ ESP Juan Cruz BELLUATI ARG - Me</title>
+    <category lang="en">Padel</category>
   </programme>
-  <programme start="20250526185400 +0000" stop="20250526210000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
-    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports.qa">
+    <title lang="ar">Fiorentina vs Betis - Mini Match - UEFA Conference League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526224900 +0000" channel="beINSports4.qa">
-    <title lang="en">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League</title>
-    <category lang="en">CAF Champions league</category>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports.qa">
+    <title lang="en">Fiorentina vs Betis - Mini Match</title>
+    <category lang="en">Mini Matches</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526224900 +0000" channel="beINSports4.qa">
-    <title lang="ar">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League - Final 1ST LEG</title>
-    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø£Ø¨Ø·Ø§Ù„ Ø£ÙØ±ÙŠÙ‚ÙŠØ§</category>
-  </programme>
-  <programme start="20250526224900 +0000" stop="20250527003500 +0000" channel="beINSports4.qa">
-    <title lang="en">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250526224900 +0000" stop="20250527003500 +0000" channel="beINSports4.qa">
-    <title lang="ar">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527003500 +0000" stop="20250527013000 +0000" channel="beINSports4.qa">
-    <title lang="en">Asia is Painted Maroon -</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527003500 +0000" stop="20250527013000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Asia is Painted Maroon</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527013000 +0000" stop="20250527034700 +0000" channel="beINSports4.qa">
-    <title lang="en">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
-    <category lang="en">African Cup of Nations</category>
-  </programme>
-  <programme start="20250527013000 +0000" stop="20250527034700 +0000" channel="beINSports4.qa">
-    <title lang="ar">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
-    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø£Ù…Ù… Ø§Ù„Ø£ÙØ±ÙŠÙ‚ÙŠØ©</category>
-  </programme>
-  <programme start="20250527034700 +0000" stop="20250527055600 +0000" channel="beINSports4.qa">
-    <title lang="en">Netherlands vs Norway - Final</title>
-    <category lang="en">UEFA U17 Championship</category>
-  </programme>
-  <programme start="20250527034700 +0000" stop="20250527055600 +0000" channel="beINSports4.qa">
-    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
-    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
-  </programme>
-  <programme start="20250527055600 +0000" stop="20250527062600 +0000" channel="beINSports4.qa">
-    <title lang="en">The Nashama of Asia -</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527055600 +0000" stop="20250527062600 +0000" channel="beINSports4.qa">
-    <title lang="ar">The Nashama of Asia</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527062600 +0000" stop="20250527081500 +0000" channel="beINSports4.qa">
-    <title lang="en">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League</title>
-    <category lang="en">CAF Champions league</category>
-  </programme>
-  <programme start="20250527062600 +0000" stop="20250527081500 +0000" channel="beINSports4.qa">
-    <title lang="ar">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League - Final 1ST LEG</title>
-    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø£Ø¨Ø·Ø§Ù„ Ø£ÙØ±ÙŠÙ‚ÙŠØ§</category>
-  </programme>
-  <programme start="20250527081500 +0000" stop="20250527100000 +0000" channel="beINSports4.qa">
-    <title lang="en">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527081500 +0000" stop="20250527100000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSports4.qa">
-    <title lang="en">CAF Confederation Cup 2024/25 - Best Goals</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSports4.qa">
-    <title lang="ar">CAF Confederation Cup 2024/25 - Best Goals</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports4.qa">
-    <title lang="en">Simba (TAN) vs RS Berkane (MAR) - CAF Confederation Cup 2024/25</title>
-    <category lang="en">CAF Confederation Cup</category>
-  </programme>
-  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Simba (TAN) vs RS Berkane (MAR) - CAF Confederation Cup 2024/25 - Final 2ND LEG</title>
-    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø¥ØªØ­Ø§Ø¯ Ø§Ù„Ø£ÙØ±ÙŠÙ‚Ù‰</category>
-  </programme>
-  <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="beINSports4.qa">
-    <title lang="en">Asian Qualifiers to World Cup 2026 Best Goals MD7 &amp; MD8 -</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Asian Qualifiers to World Cup 2026 Best Goals MD7 &amp; MD8</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527151600 +0000" channel="beINSports4.qa">
-    <title lang="en">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
-    <category lang="en">African Cup of Nations</category>
-  </programme>
-  <programme start="20250527130000 +0000" stop="20250527151600 +0000" channel="beINSports4.qa">
-    <title lang="ar">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
-    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø£Ù…Ù… Ø§Ù„Ø£ÙØ±ÙŠÙ‚ÙŠØ©</category>
-  </programme>
-  <programme start="20250527151600 +0000" stop="20250527153000 +0000" channel="beINSports4.qa">
-    <title lang="en">Top Players -</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527151600 +0000" stop="20250527153000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Top Players</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527153000 +0000" stop="20250527173200 +0000" channel="beINSports4.qa">
-    <title lang="en">Netherlands vs Norway - Final</title>
-    <category lang="en">UEFA U17 Championship</category>
-  </programme>
-  <programme start="20250527153000 +0000" stop="20250527173200 +0000" channel="beINSports4.qa">
-    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
-    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
-  </programme>
-  <programme start="20250527173200 +0000" stop="20250527180000 +0000" channel="beINSports4.qa">
-    <title lang="en">HL â€“ What Gravity Menâ€™s &amp; Womens 2025 -</title>
-    <category lang="en">Athletics</category>
-  </programme>
-  <programme start="20250527173200 +0000" stop="20250527180000 +0000" channel="beINSports4.qa">
-    <title lang="ar">HL â€“ What Gravity Menâ€™s &amp; Womens 2025</title>
-    <category lang="ar">Ø£Ù„Ø¹Ø§Ø¨ Ø§Ù„Ù‚ÙˆÙ‰</category>
-  </programme>
-  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSports4.qa">
-    <title lang="en">HL â€“ Grand Slam Athletics 2025â€“Miami Round -</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSports4.qa">
-    <title lang="ar">HL â€“ Grand Slam Athletics 2025â€“Miami Round</title>
-    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
-  </programme>
-  <programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
-    <title lang="en">Libertadores Magazine - Group Stage</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
+  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSports.qa">
     <title lang="ar">Libertadores Magazine -Group Stage -M5</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
-    <title lang="en">Sudamericana Magazine2025 Magazine - Group Stage M5</title>
+  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSports.qa">
+    <title lang="en">Libertadores Magazine - Group Stage</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
-    <title lang="ar">Sudamericana Magazine2025 Magazine-Group Stage M5</title>
+  <programme start="20250526220000 +0000" stop="20250527000800 +0000" channel="beINSports.qa">
+    <title lang="ar">AFC Wimbledon vs Wallsall - EFL - Playoff English Football League Two 2024/25 - Final</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø«Ø§Ù„Ø«Ø©</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250527000800 +0000" channel="beINSports.qa">
+    <title lang="en">AFC Wimbledon vs Wallsall - EFL</title>
+    <category lang="en">English League - League Two</category>
+  </programme>
+  <programme start="20250527000800 +0000" stop="20250527020000 +0000" channel="beINSports.qa">
+    <title lang="ar">Charlton Athletic vs Leyton Orient - EFL - English Football League One 2024/25 Playoff Final's</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø«Ø§Ù†ÙŠØ©</category>
+  </programme>
+  <programme start="20250527000800 +0000" stop="20250527020000 +0000" channel="beINSports.qa">
+    <title lang="en">Charlton Athletic vs Leyton Orient - EFL</title>
+    <category lang="en">English League - League One</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527025500 +0000" channel="beINSports.qa">
+    <title lang="ar">Libertadores Magazine -Group Stage -M5</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526180000 +0000" stop="20250526210000 +0000" channel="beINSports5.qa">
-    <title lang="en">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Philippe</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527020000 +0000" stop="20250527025500 +0000" channel="beINSports.qa">
+    <title lang="en">Libertadores Magazine - Group Stage</title>
+    <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250526180000 +0000" stop="20250526210000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Philippe-Chatrier Court - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527025500 +0000" stop="20250527044000 +0000" channel="beINSports.qa">
+    <title lang="ar">AFC Bournemouth vs Leicester City - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSports5.qa">
-    <title lang="en">Aryna SABALENKA vs Kamilla RAKHIMOVA - Mini Matches Roland Garros 2025</title>
-    <category lang="en">Tennis - Grand Slam</category>
+  <programme start="20250527025500 +0000" stop="20250527044000 +0000" channel="beINSports.qa">
+    <title lang="en">AFC Bournemouth vs Leicester City - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Aryna SABALENKA vs Kamilla RAKHIMOVA - Mini Matches Roland Garros 2025</title>
-    <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
+  <programme start="20250527044000 +0000" stop="20250527063100 +0000" channel="beINSports.qa">
+    <title lang="ar">Newcastle United vs Everton - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250526213000 +0000" stop="20250526231100 +0000" channel="beINSports5.qa">
-    <title lang="en">Rebecca SRAMKOVA (SVK) vs Iga SWIATEK (POL) - Philippe</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527044000 +0000" stop="20250527063100 +0000" channel="beINSports.qa">
+    <title lang="en">Newcastle United vs Everton - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250526213000 +0000" stop="20250526231100 +0000" channel="beINSports5.qa">
-    <title lang="ar">Rebecca SRAMKOVA (SVK) vs Iga SWIATEK (POL) - Philippe-Chatrier Court - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527063100 +0000" stop="20250527065800 +0000" channel="beINSports.qa">
+    <title lang="ar">UEFA UCL Magazine 2024/2025 - MD17 Preview Inter Milan</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
   </programme>
-  <programme start="20250526231100 +0000" stop="20250527015300 +0000" channel="beINSports5.qa">
-    <title lang="en">Naomi OSAKA (JPN) vs Paula BADOSA (ESP) - Philippe</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527063100 +0000" stop="20250527065800 +0000" channel="beINSports.qa">
+    <title lang="en">UEFA UCL Magazine 2024/2025 - MD17 Preview Inter Milan</title>
+    <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250526231100 +0000" stop="20250527015300 +0000" channel="beINSports5.qa">
-    <title lang="ar">Naomi OSAKA (JPN) vs Paula BADOSA (ESP) - Philippe-Chatrier Court - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527065800 +0000" stop="20250527084500 +0000" channel="beINSports.qa">
+    <title lang="ar">Liverpool vs Crystal Palace - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250527015300 +0000" stop="20250527043000 +0000" channel="beINSports5.qa">
-    <title lang="en">Terence ATMANE (FRA) vs Richard GASQUET (FRA) - Philippe</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527065800 +0000" stop="20250527084500 +0000" channel="beINSports.qa">
+    <title lang="en">Liverpool vs Crystal Palace - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250527015300 +0000" stop="20250527043000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Terence ATMANE (FRA) vs Richard GASQUET (FRA) - Philippe-Chatrier Court - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527084500 +0000" stop="20250527103400 +0000" channel="beINSports.qa">
+    <title lang="ar">Southampton vs Arsenal - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250527043000 +0000" stop="20250527073000 +0000" channel="beINSports5.qa">
-    <title lang="en">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Philippe</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527084500 +0000" stop="20250527103400 +0000" channel="beINSports.qa">
+    <title lang="en">Southampton vs Arsenal - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250527043000 +0000" stop="20250527073000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Philippe-Chatrier Court - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527103400 +0000" stop="20250527110000 +0000" channel="beINSports.qa">
+    <title lang="ar">Chelsea vs Djurgarden - Mini Match - UEFA Conference League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250527073000 +0000" stop="20250527094500 +0000" channel="beINSports5.qa">
-    <title lang="en">Mayar SHERIF (EGY) vs Liudmila SAMSONOVA - Court 12</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527103400 +0000" stop="20250527110000 +0000" channel="beINSports.qa">
+    <title lang="en">Chelsea vs Djurgarden - Mini Match</title>
+    <category lang="en">Mini Matches</category>
   </programme>
-  <programme start="20250527073000 +0000" stop="20250527094500 +0000" channel="beINSports5.qa">
-    <title lang="ar">Mayar SHERIF (EGY) vs Liudmila SAMSONOVA - Court 12 - Roland Garros - 2025</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527110000 +0000" stop="20250527112700 +0000" channel="beINSports.qa">
+    <title lang="ar">Fiorentina vs Betis - Mini Match - UEFA Conference League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250527094500 +0000" stop="20250527123000 +0000" channel="beINSports5.qa">
-    <title lang="en">Varvara GRACHEVA (FRA) vs Sofia KENIN (USA) - Women's Single</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527110000 +0000" stop="20250527112700 +0000" channel="beINSports.qa">
+    <title lang="en">Fiorentina vs Betis - Mini Match</title>
+    <category lang="en">Mini Matches</category>
   </programme>
-  <programme start="20250527094500 +0000" stop="20250527123000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Varvara GRACHEVA (FRA) vs Sofia KENIN (USA) - Women's Single - Philippe-Chatrier Court - Roland Garr</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527112700 +0000" stop="20250527115500 +0000" channel="beINSports.qa">
+    <title lang="ar">Tottenham vs Man Utd - Final - Mini Match - UEFA Europa League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250527123000 +0000" stop="20250527151500 +0000" channel="beINSports5.qa">
-    <title lang="en">Olivia GADECKI (AUS) vs Coco GAUFF (USA) - Women's Single</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527112700 +0000" stop="20250527115500 +0000" channel="beINSports.qa">
+    <title lang="en">Tottenham vs Man Utd - Final</title>
+    <category lang="en">Mini Matches</category>
   </programme>
-  <programme start="20250527123000 +0000" stop="20250527151500 +0000" channel="beINSports5.qa">
-    <title lang="ar">Olivia GADECKI (AUS) vs Coco GAUFF (USA) - Women's Single - Philippe-Chatrier Court - Roland Garros</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527115500 +0000" stop="20250527134300 +0000" channel="beINSports.qa">
+    <title lang="ar">Nottingham Forest vs Chelsea - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250527151500 +0000" stop="20250527180000 +0000" channel="beINSports5.qa">
-    <title lang="en">Mackenzie MCDONALD (USA) vs Novak DJOKOVIC (SRB) - Men's Single</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527115500 +0000" stop="20250527134300 +0000" channel="beINSports.qa">
+    <title lang="en">Nottingham Forest vs Chelsea - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250527151500 +0000" stop="20250527180000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Mackenzie MCDONALD (USA) vs Novak DJOKOVIC (SRB) - Men's Single - Philippe-Chatrier Court - Roland G</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527134300 +0000" stop="20250527153700 +0000" channel="beINSports.qa">
+    <title lang="ar">Tottenham Hotspur vs Brighton &amp; Hove Albion - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
   </programme>
-  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beINSports5.qa">
-    <title lang="en">Gael MONFILS (FRA) vs Hugo DELLIEN (BOL) - Men's Single</title>
-    <category lang="en">Tennis</category>
+  <programme start="20250527134300 +0000" stop="20250527153700 +0000" channel="beINSports.qa">
+    <title lang="en">Tottenham Hotspur vs Brighton &amp; Hove Albion - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
   </programme>
-  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Gael MONFILS (FRA) vs Hugo DELLIEN (BOL) - Men's Single - Philippe-Chatrier Court - Roland Garros -</title>
-    <category lang="ar">ØªÙ†Ø³</category>
+  <programme start="20250527153700 +0000" stop="20250527160400 +0000" channel="beINSports.qa">
+    <title lang="ar">Liverpool vs Crystal Palace - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
   </programme>
-  <programme start="20250527200000 +0000" stop="20250527202500 +0000" channel="beINSports5.qa">
-    <title lang="en">Nadal Tribute Ceremony - Mini Matches Roland Garros 2025</title>
-    <category lang="en">Tennis - Grand Slam</category>
+  <programme start="20250527153700 +0000" stop="20250527160400 +0000" channel="beINSports.qa">
+    <title lang="en">Liverpool vs Crystal Palace - Mini Match</title>
+    <category lang="en">Mini Matches</category>
   </programme>
-  <programme start="20250527200000 +0000" stop="20250527202500 +0000" channel="beINSports5.qa">
+  <programme start="20250527160400 +0000" stop="20250527163200 +0000" channel="beINSports.qa">
+    <title lang="ar">Man Utd vs Aston Villa - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527160400 +0000" stop="20250527163200 +0000" channel="beINSports.qa">
+    <title lang="en">Man Utd vs Aston Villa - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527163200 +0000" stop="20250527181500 +0000" channel="beINSports.qa">
+    <title lang="ar">Fulham vs Manchester City - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250527163200 +0000" stop="20250527181500 +0000" channel="beINSports.qa">
+    <title lang="en">Fulham vs Manchester City - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527181500 +0000" stop="20250527200000 +0000" channel="beINSports.qa">
+    <title lang="ar">Manchester United V Aston Villa - English Premier League 2024/25 Week 38</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250527181500 +0000" stop="20250527200000 +0000" channel="beINSports.qa">
+    <title lang="en">Manchester United V Aston Villa - English Premier League 2024/25 Week 38</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSports.qa">
+    <title lang="ar">The Final Story: Champions League</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSports.qa">
+    <title lang="en">The Final Story: Champions League -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports.qa">
+    <title lang="ar">EPL - Best Goals of EPL season 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports.qa">
+    <title lang="en">EPL - Best Goals of EPL season 2024/2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Fulham vs Man City - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Fulham vs Man City - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526220000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Liverpool vs Crystal Palace - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526220000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Liverpool vs Crystal Palace - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250526223000 +0000" channel="beINSportsNews.qa">
     <title lang="ar">Nadal Tribute Ceremony - Mini Matches Roland Garros 2025</title>
     <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
   </programme>
-  <programme start="20250527202500 +0000" stop="20250527205000 +0000" channel="beINSports5.qa">
-    <title lang="en">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Mini Matches Roland Garros 2025</title>
+  <programme start="20250526220000 +0000" stop="20250526223000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Nadal Tribute Ceremony - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
-  <programme start="20250527202500 +0000" stop="20250527205000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Jannik SINNER (ITA) vs Arthur RINDERKNECH (FRA) - Mini Matches Roland Garros 2025</title>
+  <programme start="20250526223000 +0000" stop="20250526224400 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Top Players</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526223000 +0000" stop="20250526224400 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Top Players -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526224400 +0000" stop="20250526230000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">In The Footsteps of Donnarumma</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
+  </programme>
+  <programme start="20250526224400 +0000" stop="20250526230000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">In The Footsteps of Donnarumma -</title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527000000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Libertadores Magazine -Group Stage -M5</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527000000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Libertadores Magazine - Group Stage</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527003000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">NBA Action 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527003000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">NBA Action 2024/2025 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527030000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play-Offs 2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù…ÙŠØ±ÙƒÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527030000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527033000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Nadal Tribute Ceremony - Mini Matches Roland Garros 2025</title>
     <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
   </programme>
-  <programme start="20250527205000 +0000" stop="20250527205000 +0000" channel="beINSports5.qa">
-    <title lang="en">Giulio ZEPPIERI (ITA) vs Carlos ALCARAZ (ESP) - Mini Matches Roland Garros 2025</title>
+  <programme start="20250527030000 +0000" stop="20250527033000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Nadal Tribute Ceremony - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
-  <programme start="20250527205000 +0000" stop="20250527205000 +0000" channel="beINSports5.qa">
-    <title lang="ar">Giulio ZEPPIERI (ITA) vs Carlos ALCARAZ (ESP) - Mini Matches Roland Garros 2025</title>
-    <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
+  <programme start="20250527033000 +0000" stop="20250527040000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Real Madrid vs Real Sociedad - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527040000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Real Madrid vs Real Sociedad - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527045500 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Sudamericana Magazine2025 Magazine-Group Stage M5</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527045500 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Sudamericana Magazine2025 Magazine - Group Stage M5</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527045500 +0000" stop="20250527051000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Top Players</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527045500 +0000" stop="20250527051000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Top Players -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527051000 +0000" stop="20250527052600 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">In The Footsteps of Donnarumma</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
+  </programme>
+  <programme start="20250527051000 +0000" stop="20250527052600 +0000" channel="beINSportsNews.qa">
+    <title lang="en">In The Footsteps of Donnarumma -</title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250527052600 +0000" stop="20250527060400 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Monaco GP - Mini GP - Formula 1 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527052600 +0000" stop="20250527060400 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Monaco GP - Mini GP</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250527060400 +0000" stop="20250527063000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527060400 +0000" stop="20250527063000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527063000 +0000" stop="20250527070000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#1) : Liverpool â€“ PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527063000 +0000" stop="20250527070000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#1) : Liverpool â€“ PSG -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#2) : Aston Villa â€“ PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#2) : Aston Villa â€“ PSG -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">UEFA UCL Magazine 2024/2025 - MD17 Preview PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">UEFA UCL Magazine 2024/2025 - MD17 Preview PSG</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527090000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">NBA Action 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527090000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">NBA Action 2024/2025 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527110000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">New York Knicks vs Indiana Pacers - East NBA Play-Offs 2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù…ÙŠØ±ÙƒÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527110000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">New York Knicks vs Indiana Pacers - East NBA Play</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527130000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play-Offs 2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù…ÙŠØ±ÙƒÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527130000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Athletic Bilbao vs Barcelona - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Athletic Bilbao vs Barcelona - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Real Madrid vs Real Sociedad - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Real Madrid vs Real Sociedad - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527145500 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Libertadores Magazine -Group Stage -M5</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527145500 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Libertadores Magazine - Group Stage</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527145500 +0000" stop="20250527150900 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Top Players</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527145500 +0000" stop="20250527150900 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Top Players -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527150900 +0000" stop="20250527152500 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">In The Footsteps of Donnarumma</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ</category>
+  </programme>
+  <programme start="20250527150900 +0000" stop="20250527152500 +0000" channel="beINSportsNews.qa">
+    <title lang="en">In The Footsteps of Donnarumma -</title>
+    <category lang="en">French League - Ligue 1</category>
+  </programme>
+  <programme start="20250527152500 +0000" stop="20250527160300 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Monaco GP - Mini GP - Formula 1 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527152500 +0000" stop="20250527160300 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Monaco GP - Mini GP</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250527160300 +0000" stop="20250527163000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527160300 +0000" stop="20250527163000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#1) : Liverpool â€“ PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#1) : Liverpool â€“ PSG -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#2) : Aston Villa â€“ PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#2) : Aston Villa â€“ PSG -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">Inside PSG (#3) : PSG - Arsenal</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527183000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">UEFA UCL Magazine 2024/2025 - MD17 Preview PSG</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527183000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">UEFA UCL Magazine 2024/2025 - MD17 Preview PSG</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527193000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">LaLiga Highlights - Week 38</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527193000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">LaLiga Highlights - Week 38</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527203000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">EPL Review 2024/2025</title>
+    <category lang="ar">Ø­ØµÙŠÙ„Ø© Ø§Ù„Ø¯ÙˆØ±ÙŠØ§Øª</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527203000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">EPL Review 2024/2025 -</title>
+    <category lang="en">Leagues Summary</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsNews.qa">
+    <title lang="ar">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsNews.qa">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
   </programme>
   <channel id="Hub.Premier.1.sg">
     <display-name lang="en">Hub Premier 1</display-name>
@@ -9434,976 +9634,5 @@
     <category lang="en">Sports</category>
     <category lang="en">Golf</category>
     <icon src="https://images.metadata.sky.com/pd-image/b0c20252-b4b8-40ea-9d58-b6b12ddab528/16-9" />
-  </programme>
-  <channel id="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <display-name lang="en">beIN_SPORTS1_DIGITAL_Mono_EN</display-name>
-    <url>http://www.bein.com_sports_en</url>
-  </channel>
-  <channel id="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <display-name lang="en">beIN_SPORTS2_DIGITAL_Mono_EN</display-name>
-    <url>http://www.bein.com_sports_en</url>
-  </channel>
-  <channel id="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <display-name lang="en">beIN_SPORTS3_DIGITAL_Mono_EN</display-name>
-    <url>http://www.bein.com_sports_en</url>
-  </channel>
-  <channel id="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <display-name lang="en">beIN_SPORTS4_DIGITAL_Mono_EN</display-name>
-    <url>http://www.bein.com_sports_en</url>
-  </channel>
-  <channel id="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <display-name lang="en">beIN_SPORTS5_DIGITAL_Mono_EN</display-name>
-    <url>http://www.bein.com_sports_en</url>
-  </channel>
-  <programme start="20250525010000 +0100" stop="20250525013000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">The Big Interview 2024/25</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525013000 +0100" stop="20250525022500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1 Season Review</title>
-    <sub-title lang="en">2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525022500 +0100" stop="20250525024500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">In The Footsteps of Donnarumma</title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525024500 +0100" stop="20250525030000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Top Players</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525030000 +0100" stop="20250525032500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">NBA Action 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525032500 +0100" stop="20250525060000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Oklahoma City Thunder vs Minnesota Timberwolves</title>
-    <sub-title lang="en">West NBA Play</sub-title>
-    <category lang="en">Basketball - NBA</category>
-  </programme>
-  <programme start="20250525060000 +0100" stop="20250525063000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">The Big Interview 2024/25</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525063000 +0100" stop="20250525093000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Sheffield Utd vs Sunderland</title>
-    <sub-title lang="en">EFL</sub-title>
-    <category lang="en">English League - Championship</category>
-  </programme>
-  <programme start="20250525093000 +0100" stop="20250525133000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">PSG vs Reims</title>
-    <sub-title lang="en">French Cup Final</sub-title>
-    <category lang="en">French League Cup</category>
-  </programme>
-  <programme start="20250525133000 +0100" stop="20250525134500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Precision Medicine in Substance Use Disorders</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525134500 +0100" stop="20250525140000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Top Players</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525140000 +0100" stop="20250525160000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Oklahoma City Thunder vs Minnesota Timberwolves</title>
-    <sub-title lang="en">West NBA Play</sub-title>
-    <category lang="en">Basketball - NBA</category>
-  </programme>
-  <programme start="20250525160000 +0100" stop="20250525163000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Sheffield Utd vs Sunderland</title>
-    <sub-title lang="en">Championship Final</sub-title>
-    <category lang="en">English League - Championship</category>
-  </programme>
-  <programme start="20250525163000 +0100" stop="20250525170000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">PSG vs Reims</title>
-    <sub-title lang="en">Final</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525170000 +0100" stop="20250525210000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Liverpool vs Crystal Palace</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525210000 +0100" stop="20250526010000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Athletic Bilbao vs Barcelona</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250526210000 +0100" stop="20250527010000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Athletic Bilbao vs Barcelona</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527010000 +0100" stop="20250527030000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Indiana Pacers vs New York Knicks</title>
-    <sub-title lang="en">East NBA Play</sub-title>
-    <category lang="en">Basketball - NBA</category>
-  </programme>
-  <programme start="20250527030000 +0100" stop="20250527053000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">New York Knicks vs Indiana Pacers</title>
-    <sub-title lang="en">East NBA Play</sub-title>
-    <category lang="en">Basketball - NBA</category>
-  </programme>
-  <programme start="20250527053000 +0100" stop="20250527060000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">NBA Action 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527060000 +0100" stop="20250527100000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Liverpool vs Crystal Palace</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527100000 +0100" stop="20250527140000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Athletic Bilbao vs Barcelona</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527140000 +0100" stop="20250527160000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">New York Knicks vs Indiana Pacers</title>
-    <sub-title lang="en">East NBA Play</sub-title>
-    <category lang="en">Basketball - NBA</category>
-  </programme>
-  <programme start="20250527160000 +0100" stop="20250527163000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fulham vs Man City</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527163000 +0100" stop="20250527170000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Liverpool vs Crystal Palace</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527170000 +0100" stop="20250527173000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Man Utd vs Aston Villa</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527173000 +0100" stop="20250527180000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Nottingham vs Chelsea</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527180000 +0100" stop="20250527183000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEFA UCL Magazine 2024/2025</title>
-    <sub-title lang="en">MD17 Preview Tam B</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527183000 +0100" stop="20250527190000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Sheffield Utd vs Sunderland</title>
-    <sub-title lang="en">Championship Final</sub-title>
-    <category lang="en">English League - Championship</category>
-  </programme>
-  <programme start="20250527190000 +0100" stop="20250527193000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">PSG vs Reims</title>
-    <sub-title lang="en">Final</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527193000 +0100" stop="20250527200000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEFA UCL Magazine 2024/2025</title>
-    <sub-title lang="en">MD17 Preview Tam A</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527200000 +0100" stop="20250527210000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1 Season Review</title>
-    <sub-title lang="en">2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527210000 +0100" stop="20250527211500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Top Players</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527211500 +0100" stop="20250527212500 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Precision Medicine in Substance Use Disorders</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527212500 +0100" stop="20250527220000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Monaco GP</title>
-    <sub-title lang="en">Mini GP</sub-title>
-    <category lang="en">Formula One World Championship</category>
-  </programme>
-  <programme start="20250527220000 +0100" stop="20250527223000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEL/UECL Magazine 2024/2025</title>
-    <sub-title lang="en">UECL Final Preview</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527223000 +0100" stop="20250527230000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Inside PSG  (#1) : Liverpool â€“ PSG</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527230000 +0100" stop="20250527233000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Inside PSG (#2) : Aston Villa â€“ PSG</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527233000 +0100" stop="20250528000000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Inside PSG (#3) : PSG</title>
-    <sub-title lang="en">Arsenal</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250528233000 +0100" stop="20250529000000 +0100" channel="beIN_SPORTS1_DIGITAL_Mono_EN.bein">
-    <title lang="en">Inside PSG (#3) : PSG</title>
-    <sub-title lang="en">Arsenal</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525003000 +0100" stop="20250525033000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Mamelodi Sundowns (RSA) vs Pyramids (EGY)</title>
-    <sub-title lang="en">CAF Champions League</sub-title>
-    <category lang="en">CAF Champions league</category>
-  </programme>
-  <programme start="20250525033000 +0100" stop="20250525040000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of Man City season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525040000 +0100" stop="20250525050000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525050000 +0100" stop="20250525055700 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Review 2024/2025</title>
-    <category lang="en">Leagues Summary</category>
-  </programme>
-  <programme start="20250525055700 +0100" stop="20250525074500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Deportivo AlavÃ©s vs Osasuna</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525074500 +0100" stop="20250525093500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Chelsea vs Manchester United</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 37</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525093500 +0100" stop="20250525103100 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525103100 +0100" stop="20250525110000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Netbusters 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525110000 +0100" stop="20250525124400 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Everton vs Southampton</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 37</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525124400 +0100" stop="20250525143000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Crystal Palace vs Wolves</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 37</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525143000 +0100" stop="20250525150000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">The Final Story: Champions League</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525150000 +0100" stop="20250525153000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Arsenal vs Newcastle</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525153000 +0100" stop="20250525160000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Brighton vs Liverpool</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525160000 +0100" stop="20250525163000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Man City vs Bournemouth</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525163000 +0100" stop="20250525170000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Chelsea vs Man Utd</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525170000 +0100" stop="20250525173000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525173000 +0100" stop="20250525175500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Top Players</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525175500 +0100" stop="20250525200000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fulham vs Manchester City</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525200000 +0100" stop="20250525203000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of Man City season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525203000 +0100" stop="20250525210000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEFA UCL Magazine 2024/2025</title>
-    <sub-title lang="en">MD17 Preview Tam B</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525210000 +0100" stop="20250525213000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Chelsea vs Djurgarden</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525213000 +0100" stop="20250525220000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fiorentina vs Betis</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525220000 +0100" stop="20250525223000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525223000 +0100" stop="20250525230000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEFA UCL Magazine 2024/2025</title>
-    <sub-title lang="en">MD17 Preview Tam A</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525230000 +0100" stop="20250525233000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of EPL season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525233000 +0100" stop="20250526000000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">The Final Story: Champions League</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250526233000 +0100" stop="20250527000000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">The Final Story: Champions League</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527000000 +0100" stop="20250527003000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of Man City season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527003000 +0100" stop="20250527010000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527010000 +0100" stop="20250527024500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fulham vs Manchester City</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527024500 +0100" stop="20250527043000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ipswich Town vs West Ham United</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527043000 +0100" stop="20250527053000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Libertadores Magazine</title>
-    <sub-title lang="en">Group Stage</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527053000 +0100" stop="20250527060000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">UEFA UCL Magazine 2024/2025</title>
-    <sub-title lang="en">MD17 Preview Tam B</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527060000 +0100" stop="20250527074500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fulham vs Manchester City</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527074500 +0100" stop="20250527093000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Manchester United V Aston Villa</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527093000 +0100" stop="20250527100000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Tottenham vs Man Utd</title>
-    <sub-title lang="en">Final</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527100000 +0100" stop="20250527120000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Crystal Palace vs Manchester City</title>
-    <sub-title lang="en">FA Cup Final</sub-title>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20250527120000 +0100" stop="20250527123000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of Man City season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527123000 +0100" stop="20250527143000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Charlton Athletic vs Leyton Orient</title>
-    <sub-title lang="en">EFL</sub-title>
-    <category lang="en">English League - League One</category>
-  </programme>
-  <programme start="20250527143000 +0100" stop="20250527165000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Sheffield Utd vs Sunderland</title>
-    <sub-title lang="en">EFL</sub-title>
-    <category lang="en">English League - Championship</category>
-  </programme>
-  <programme start="20250527165000 +0100" stop="20250527190000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">AFC Wimbledon vs Wallsall</title>
-    <sub-title lang="en">EFL</sub-title>
-    <category lang="en">English League - League Two</category>
-  </programme>
-  <programme start="20250527190000 +0100" stop="20250527193000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL Stories  2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527193000 +0100" stop="20250527211500 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Liverpool vs Crystal Palace</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527211500 +0100" stop="20250527230000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Southampton vs Arsenal</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527230000 +0100" stop="20250527233000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Chelsea vs Djurgarden</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527233000 +0100" stop="20250528000000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fiorentina vs Betis</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250528233000 +0100" stop="20250529000000 +0100" channel="beIN_SPORTS2_DIGITAL_Mono_EN.bein">
-    <title lang="en">Fiorentina vs Betis</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250525000500 +0100" stop="20250525003300 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.34</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525003300 +0100" stop="20250525022600 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Real Betis vs Valencia</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525022600 +0100" stop="20250525041200 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Real Madrid vs Real Sociedad</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525041200 +0100" stop="20250525044300 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525044300 +0100" stop="20250525063500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LeganÃ©s vs Real Valladolid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525063500 +0100" stop="20250525082500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Espanyol vs Las Palmas</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525082500 +0100" stop="20250525101000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Deportivo AlavÃ©s vs Osasuna</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525101000 +0100" stop="20250525115800 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LeganÃ©s vs Real Valladolid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525115800 +0100" stop="20250525134500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Getafe vs Celta de Vigo</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525134500 +0100" stop="20250525141500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525141500 +0100" stop="20250525145500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LaLiga Power Ep.8</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525145500 +0100" stop="20250525170000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Girona vs AtlÃ©tico Madrid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525170000 +0100" stop="20250525171500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Precision Medicine in Substance Use Disorders</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525171500 +0100" stop="20250525175500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of EPL season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525175500 +0100" stop="20250525200000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Nottingham Forest vs Chelsea</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525200000 +0100" stop="20250525203000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LaLiga BEST 11</title>
-    <sub-title lang="en">Luis GarcÃ­a</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525203000 +0100" stop="20250525221500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Belgium vs Italy</title>
-    <sub-title lang="en">UEFA  European Under 17 Championship</sub-title>
-    <category lang="en">UEFA U17 Championship</category>
-  </programme>
-  <programme start="20250525221500 +0100" stop="20250526000000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Villarreal vs Sevilla</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250526221500 +0100" stop="20250527000000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Villarreal vs Sevilla</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527000000 +0100" stop="20250527003000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527003000 +0100" stop="20250527021500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Girona vs AtlÃ©tico Madrid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527021500 +0100" stop="20250527040000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Nottingham Forest vs Chelsea</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527040000 +0100" stop="20250527043000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LaLiga Power Ep.8</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527043000 +0100" stop="20250527050000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LaLiga BEST 11</title>
-    <sub-title lang="en">Luis GarcÃ­a</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527050000 +0100" stop="20250527053000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527053000 +0100" stop="20250527071500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LeganÃ©s vs Real Valladolid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527071500 +0100" stop="20250527090000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Real Betis vs Valencia</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527090000 +0100" stop="20250527093000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527093000 +0100" stop="20250527111500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Espanyol vs Las Palmas</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527111500 +0100" stop="20250527130000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Deportivo AlavÃ©s vs Osasuna</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527130000 +0100" stop="20250527133000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.34</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527133000 +0100" stop="20250527151500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Girona vs AtlÃ©tico Madrid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527151500 +0100" stop="20250527170000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Real Betis vs Valencia</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527170000 +0100" stop="20250527173000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">LaLiga Power Ep.8</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527173000 +0100" stop="20250527191500 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Girona vs AtlÃ©tico Madrid</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527191500 +0100" stop="20250527210000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Villarreal vs Sevilla</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250527210000 +0100" stop="20250527212000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Precision Medicine in Substance Use Disorders</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527212000 +0100" stop="20250527233000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">Belgium vs Italy</title>
-    <sub-title lang="en">UEFA  European Under 17 Championship</sub-title>
-    <category lang="en">UEFA U17 Championship</category>
-  </programme>
-  <programme start="20250527233000 +0100" stop="20250528000000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250528233000 +0100" stop="20250529000000 +0100" channel="beIN_SPORTS3_DIGITAL_Mono_EN.bein">
-    <title lang="en">La Liga World 2024/25 Ep.41</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525000000 +0100" stop="20250525010000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">In The Footsteps of Marquinhos</title>
-    <sub-title lang="en">Ligue 1 Documentary 2024/25</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525010000 +0100" stop="20250525024500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Lens vs Monaco</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525024500 +0100" stop="20250525043000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Lille vs Reims</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525043000 +0100" stop="20250525053000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1: Goals PSG 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525053000 +0100" stop="20250525071500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Saint</title>
-    <sub-title lang="en">Ã‰tienne vs Toulouse</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525071500 +0100" stop="20250525090000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Nantes vs Montpellier</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525090000 +0100" stop="20250525100000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1: Goals PSG 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525100000 +0100" stop="20250525114500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Dijion vs Rennes</title>
-    <sub-title lang="en">Coupe Gambardella</sub-title>
-    <category lang="en">French Cup</category>
-  </programme>
-  <programme start="20250525114500 +0100" stop="20250525133000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Strasbourg vs Le Havre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525133000 +0100" stop="20250525140000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">In The Footsteps of Beraldo</title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525140000 +0100" stop="20250525154500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Olympique Lyonnais vs Angers SCO</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525154500 +0100" stop="20250525173000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">PSG vs Auxerre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525173000 +0100" stop="20250525175000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Top Players</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525175000 +0100" stop="20250525200000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Manchester United V Aston Villa</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525200000 +0100" stop="20250525201500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">French Ligue 1 2024/25</title>
-    <sub-title lang="en">Best Goals of Ligue 1</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525201500 +0100" stop="20250525221500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Dijion vs Rennes</title>
-    <sub-title lang="en">Coupe Gambardella</sub-title>
-    <category lang="en">French Cup</category>
-  </programme>
-  <programme start="20250525221500 +0100" stop="20250526000000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Strasbourg vs Le Havre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250526221500 +0100" stop="20250527000000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Strasbourg vs Le Havre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527000000 +0100" stop="20250527014500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Tottenham Hotspur vs Brighton &amp; Hove Albion</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527014500 +0100" stop="20250527024500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Stadium of Fears</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527024500 +0100" stop="20250527043000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Manchester United V Aston Villa</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527043000 +0100" stop="20250527053000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1: Goals PSG 2024/2025</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527053000 +0100" stop="20250527071500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Lens vs Monaco</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527071500 +0100" stop="20250527090000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Lille vs Reims</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527090000 +0100" stop="20250527093000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">French Ligue 1 2024/25</title>
-    <sub-title lang="en">Best Goals of Ligue 1</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527093000 +0100" stop="20250527111500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Saint</title>
-    <sub-title lang="en">Ã‰tienne vs Toulouse</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527111500 +0100" stop="20250527130000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Nantes vs Montpellier</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527130000 +0100" stop="20250527133000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Lens vs Monaco</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527133000 +0100" stop="20250527151500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Strasbourg vs Le Havre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527151500 +0100" stop="20250527170000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Olympique Marseille vs Rennes</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527170000 +0100" stop="20250527173000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">French Ligue 1 2024/25</title>
-    <sub-title lang="en">Best Goals of Ligue 1</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250527173000 +0100" stop="20250527193000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Dijion vs Rennes</title>
-    <sub-title lang="en">Coupe Gambardella</sub-title>
-    <category lang="en">French Cup</category>
-  </programme>
-  <programme start="20250527193000 +0100" stop="20250527211500 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Strasbourg vs Le Havre</title>
-    <sub-title lang="en">French Ligue 1 2024/25 Week 34</sub-title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250527211500 +0100" stop="20250527233000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Czechia  vs England</title>
-    <sub-title lang="en">UEFA  European Under 17 Championship</sub-title>
-    <category lang="en">UEFA U17 Championship</category>
-  </programme>
-  <programme start="20250527233000 +0100" stop="20250528000000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1 Highlights 2024/25 Week 34</title>
-    <category lang="en">Leagues Summary</category>
-  </programme>
-  <programme start="20250528233000 +0100" stop="20250529000000 +0100" channel="beIN_SPORTS4_DIGITAL_Mono_EN.bein">
-    <title lang="en">Ligue 1 Highlights 2024/25 Week 34</title>
-    <category lang="en">Leagues Summary</category>
-  </programme>
-  <programme start="20250525000500 +0100" stop="20250525014500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Hoffenheim vs Bayern MÃ¼nchen</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525014500 +0100" stop="20250525034400 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Mainz 05 vs Bayer Leverkusen</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525034400 +0100" stop="20250525040000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">In The Footsteps of Donnarumma</title>
-    <category lang="en">French League - Ligue 1</category>
-  </programme>
-  <programme start="20250525040000 +0100" stop="20250525054500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Rayo Vallecano vs Mallorca</title>
-    <sub-title lang="en">LaLiga 2024/25 Week 38</sub-title>
-    <category lang="en">Spanish League - Primera DivisiÃ³n</category>
-  </programme>
-  <programme start="20250525054500 +0100" stop="20250525073000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Augsburg vs Union Berlin</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525073000 +0100" stop="20250525083000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga 2024/25</title>
-    <sub-title lang="en">Goals of Bayern Munich</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525083000 +0100" stop="20250525101500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">FC Heidenheim 1846 vs SV Elversberg</title>
-    <sub-title lang="en">Bundesliga 2024/25 Play</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525101500 +0100" stop="20250525120000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">FC SaarbrÃ¼cken vs Eintracht Braunschweig</title>
-    <sub-title lang="en">Bundesliga 2</sub-title>
-    <category lang="en">German League - Bundesliga 2nd Divsion</category>
-  </programme>
-  <programme start="20250525120000 +0100" stop="20250525130000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga Highlights 2024/25 Week 34</title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525130000 +0100" stop="20250525134500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga 2024/25</title>
-    <sub-title lang="en">Goals of Dortmund</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525134500 +0100" stop="20250525153000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Borussia Dortmund vs Holstein Kiel</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525153000 +0100" stop="20250525160000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">EPL</title>
-    <sub-title lang="en">Best Goals of EPL season 2024/2025</sub-title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20250525160000 +0100" stop="20250525175000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Heidenheim vs Werder Bremen</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525175000 +0100" stop="20250525200000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Newcastle United vs Everton</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250525200000 +0100" stop="20250525203000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Special 2024/2025</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250525203000 +0100" stop="20250525220000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Juan Tello (ARG) vs Martin Di Nenno (ARG) vs Alejandro Galan (ESP) vs Federico Chingotto (ARG)</title>
-    <sub-title lang="en">Men'</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250525220000 +0100" stop="20250525233000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Women's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250525233000 +0100" stop="20250526010000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Men's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250526233000 +0100" stop="20250527010000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Men's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250527010000 +0100" stop="20250527013000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Special 2024/2025 Wirtz &amp; Musiala: From Talents to Titans</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527013000 +0100" stop="20250527031500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Newcastle United vs Everton</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527031500 +0100" stop="20250527050000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">AFC Bournemouth vs Leicester City</title>
-    <sub-title lang="en">English Premier League 2024/25 Week 38</sub-title>
-    <category lang="en">English Premier League</category>
-  </programme>
-  <programme start="20250527050000 +0100" stop="20250527053000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Mainz vs Leverkusen</title>
-    <sub-title lang="en">Mini Match</sub-title>
-    <category lang="en">Mini Matches</category>
-  </programme>
-  <programme start="20250527053000 +0100" stop="20250527070000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Women's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250527070000 +0100" stop="20250527083000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Men's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250527083000 +0100" stop="20250527093000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga Highlights 2024/25 Week 34</title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527093000 +0100" stop="20250527111500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Borussia Dortmund vs Holstein Kiel</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527111500 +0100" stop="20250527133000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Mainz 05 vs Bayer Leverkusen</title>
-    <sub-title lang="en">Bundesliga 2024/25 Week 34</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527133000 +0100" stop="20250527151500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">FC Heidenheim 1846 vs SV Elversberg</title>
-    <sub-title lang="en">Bundesliga 2024/25 Play</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527151500 +0100" stop="20250527170000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">FC SaarbrÃ¼cken vs Eintracht Braunschweig</title>
-    <sub-title lang="en">Bundesliga 2</sub-title>
-    <category lang="en">German League - Bundesliga 2nd Divsion</category>
-  </programme>
-  <programme start="20250527170000 +0100" stop="20250527183000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Women's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250527183000 +0100" stop="20250527200000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Final Men's</title>
-    <sub-title lang="en">Premier Padel Assuncion P2</sub-title>
-    <category lang="en">Padel</category>
-  </programme>
-  <programme start="20250527200000 +0100" stop="20250527210000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga 2024/25</title>
-    <sub-title lang="en">Goals of Dortmund</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527210000 +0100" stop="20250527212500 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Special 2024/2025 Wirtz &amp; Musiala: From Talents to Titans</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527212500 +0100" stop="20250527233000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">SV Elversberg vs FC Heidenheim 1846</title>
-    <sub-title lang="en">Bundesliga 2024/25 Play</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250527233000 +0100" stop="20250528000000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Special 2024/2025</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
-  </programme>
-  <programme start="20250528233000 +0100" stop="20250529000000 +0100" channel="beIN_SPORTS5_DIGITAL_Mono_EN.bein">
-    <title lang="en">Bundesliga</title>
-    <sub-title lang="en">Special 2024/2025</sub-title>
-    <category lang="en">Handball - Bundesliga</category>
   </programme>
 </tv>
