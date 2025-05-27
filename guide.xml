@@ -1,5 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="beIN4K.qa">
+    <display-name>15</display-name>
+    <icon src="https://i.imgur.com/TTxh9tZ.png" />
+    <url>https://bein.com</url>
+  </channel>
   <channel id="beINSports1.qa">
     <display-name>3</display-name>
     <icon src="https://i.imgur.com/Vtk2cGI.png" />
@@ -15,9 +20,19 @@
     <icon src="https://i.imgur.com/UYSMao3.png" />
     <url>https://bein.com</url>
   </channel>
+  <channel id="beINSports4.qa">
+    <display-name>6</display-name>
+    <icon src="https://i.imgur.com/vwAgJNi.png" />
+    <url>https://bein.com</url>
+  </channel>
   <channel id="beINSports.qa">
     <display-name>2</display-name>
     <icon src="https://i.imgur.com/RLrMBlm.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <channel id="beINSportsAFC.qa">
+    <display-name>16</display-name>
+    <icon src="https://i.imgur.com/HOj98bH.png" />
     <url>https://bein.com</url>
   </channel>
   <channel id="beINSportsNews.qa">
@@ -25,6 +40,143 @@
     <icon src="https://i.imgur.com/ZNjQzR5.png" />
     <url>https://bein.com</url>
   </channel>
+  <channel id="beINSportsPremium1.qa">
+    <display-name>10</display-name>
+    <icon src="https://i.imgur.com/HELtOAC.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <channel id="beINSportsPremium2.qa">
+    <display-name>11</display-name>
+    <icon src="https://i.imgur.com/6HBpC0r.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <channel id="beINSportsPremium3.qa">
+    <display-name>12</display-name>
+    <icon src="https://i.imgur.com/2vxVwxF.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <channel id="beINSportsXtra1.qa">
+    <display-name>13</display-name>
+    <icon src="https://i.imgur.com/O9lTxQA.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <channel id="beINSportsXtra2.qa">
+    <display-name>14</display-name>
+    <icon src="https://i.imgur.com/08Y2CW1.png" />
+    <url>https://bein.com</url>
+  </channel>
+  <programme start="20250526200000 +0000" stop="20250526223000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Gerone vs Atletico - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526200000 +0000" stop="20250526223000 +0000" channel="beIN4K.qa">
+    <title lang="en">Gerone vs Atletico - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526223000 +0000" stop="20250526230000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Ep 37 Inside Fra - This Is Paris - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526223000 +0000" stop="20250526230000 +0000" channel="beIN4K.qa">
+    <title lang="en">Ep 37 Inside Fra - This Is Paris</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527000000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Salon Vip - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527000000 +0000" channel="beIN4K.qa">
+    <title lang="en">Salon Vip - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527020000 +0000" channel="beIN4K.qa">
+    <title lang="ar">PSG vs Liverpool - Champions league - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527020000 +0000" channel="beIN4K.qa">
+    <title lang="en">PSG vs Liverpool - Champions league</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527040000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Botolat Al Alam Lel Korah Al Ta'era Lel Rejal</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527040000 +0000" channel="beIN4K.qa">
+    <title lang="en">Botolat Al Alam Lel Korah Al Ta'era Lel Rejal -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527060000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Pof A Metz Reims - Ligue 1 - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527060000 +0000" channel="beIN4K.qa">
+    <title lang="en">Pof A Metz Reims - Ligue 1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527080000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Crystal palace vs Man city - Fa Cup - finale - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527080000 +0000" channel="beIN4K.qa">
+    <title lang="en">Crystal palace vs Man city - Fa Cup</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527100000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Madrid vs Sociedad - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527100000 +0000" channel="beIN4K.qa">
+    <title lang="en">Madrid vs Sociedad - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Pof A Tba Clermont Boulogne Sur Mer - Ligue 2 - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527120000 +0000" channel="beIN4K.qa">
+    <title lang="en">Pof A Tba Clermont Boulogne Sur Mer - Ligue 2</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Bilbao vs Barcelone - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527140000 +0000" channel="beIN4K.qa">
+    <title lang="en">Bilbao vs Barcelone - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527160000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Gerone vs Atletico - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527160000 +0000" channel="beIN4K.qa">
+    <title lang="en">Gerone vs Atletico - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527180000 +0000" channel="beIN4K.qa">
+    <title lang="ar">PSG vs Reims - Coupe De France Hommes - finale - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527180000 +0000" channel="beIN4K.qa">
+    <title lang="en">PSG vs Reims - Coupe De France Hommes</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Pof A Metz Reims - Ligue 1 - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beIN4K.qa">
+    <title lang="en">Pof A Metz Reims - Ligue 1</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beIN4K.qa">
+    <title lang="ar">Pof F Shieffeld United Sunderland - Football League - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beIN4K.qa">
+    <title lang="en">Pof F Shieffeld United Sunderland - Football League</title>
+    <category lang="en">Sports General</category>
+  </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports1.qa">
     <title lang="ar">La Liga World 2024/25 Ep.41</title>
     <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
@@ -449,6 +601,158 @@
     <title lang="en">Daniel SANTIGOSA SASTRE ESP Emilio SANCHEZ CHAMERO ESP vs Pablo LIJÃ“ ESP Juan Cruz BELLUATI ARG - Me</title>
     <category lang="en">Padel</category>
   </programme>
+  <programme start="20250526185400 +0000" stop="20250526210000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
+  </programme>
+  <programme start="20250526185400 +0000" stop="20250526210000 +0000" channel="beINSports4.qa">
+    <title lang="en">Netherlands vs Norway - Final</title>
+    <category lang="en">UEFA U17 Championship</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526224900 +0000" channel="beINSports4.qa">
+    <title lang="ar">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League - Final 1ST LEG</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø£Ø¨Ø·Ø§Ù„ Ø£ÙØ±ÙŠÙ‚ÙŠØ§</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526224900 +0000" channel="beINSports4.qa">
+    <title lang="en">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League</title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20250526224900 +0000" stop="20250527003500 +0000" channel="beINSports4.qa">
+    <title lang="ar">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526224900 +0000" stop="20250527003500 +0000" channel="beINSports4.qa">
+    <title lang="en">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527003500 +0000" stop="20250527013000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Asia is Painted Maroon</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527003500 +0000" stop="20250527013000 +0000" channel="beINSports4.qa">
+    <title lang="en">Asia is Painted Maroon -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527013000 +0000" stop="20250527034700 +0000" channel="beINSports4.qa">
+    <title lang="ar">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
+    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø£Ù…Ù… Ø§Ù„Ø£ÙØ±ÙŠÙ‚ÙŠØ©</category>
+  </programme>
+  <programme start="20250527013000 +0000" stop="20250527034700 +0000" channel="beINSports4.qa">
+    <title lang="en">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
+    <category lang="en">African Cup of Nations</category>
+  </programme>
+  <programme start="20250527034700 +0000" stop="20250527055600 +0000" channel="beINSports4.qa">
+    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
+  </programme>
+  <programme start="20250527034700 +0000" stop="20250527055600 +0000" channel="beINSports4.qa">
+    <title lang="en">Netherlands vs Norway - Final</title>
+    <category lang="en">UEFA U17 Championship</category>
+  </programme>
+  <programme start="20250527055600 +0000" stop="20250527062600 +0000" channel="beINSports4.qa">
+    <title lang="ar">The Nashama of Asia</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527055600 +0000" stop="20250527062600 +0000" channel="beINSports4.qa">
+    <title lang="en">The Nashama of Asia -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527062600 +0000" stop="20250527081500 +0000" channel="beINSports4.qa">
+    <title lang="ar">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League - Final 1ST LEG</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø£Ø¨Ø·Ø§Ù„ Ø£ÙØ±ÙŠÙ‚ÙŠØ§</category>
+  </programme>
+  <programme start="20250527062600 +0000" stop="20250527081500 +0000" channel="beINSports4.qa">
+    <title lang="en">Mamelodi Sundowns (RSA) vs Pyramids (EGY) - CAF Champions League</title>
+    <category lang="en">CAF Champions league</category>
+  </programme>
+  <programme start="20250527081500 +0000" stop="20250527100000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527081500 +0000" stop="20250527100000 +0000" channel="beINSports4.qa">
+    <title lang="en">Bodrum FK vs Trabzonspor - Turkish SÃ¼per Lig 2024/25 Week 36</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSports4.qa">
+    <title lang="ar">CAF Confederation Cup 2024/25 - Best Goals</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSports4.qa">
+    <title lang="en">CAF Confederation Cup 2024/25 - Best Goals</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Simba (TAN) vs RS Berkane (MAR) - CAF Confederation Cup 2024/25 - Final 2ND LEG</title>
+    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø¥ØªØ­Ø§Ø¯ Ø§Ù„Ø£ÙØ±ÙŠÙ‚Ù‰</category>
+  </programme>
+  <programme start="20250527103000 +0000" stop="20250527123000 +0000" channel="beINSports4.qa">
+    <title lang="en">Simba (TAN) vs RS Berkane (MAR) - CAF Confederation Cup 2024/25</title>
+    <category lang="en">CAF Confederation Cup</category>
+  </programme>
+  <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Asian Qualifiers to World Cup 2026 Best Goals MD7 &amp; MD8</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527123000 +0000" stop="20250527130000 +0000" channel="beINSports4.qa">
+    <title lang="en">Asian Qualifiers to World Cup 2026 Best Goals MD7 &amp; MD8 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527151600 +0000" channel="beINSports4.qa">
+    <title lang="ar">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
+    <category lang="ar">ÙƒØ£Ø³ Ø§Ù„Ø£Ù…Ù… Ø§Ù„Ø£ÙØ±ÙŠÙ‚ÙŠØ©</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527151600 +0000" channel="beINSports4.qa">
+    <title lang="en">Morocco vs Mali - Final CAF U17 Africa Cup of Nations Morocco 2025</title>
+    <category lang="en">African Cup of Nations</category>
+  </programme>
+  <programme start="20250527151600 +0000" stop="20250527153000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Top Players</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527151600 +0000" stop="20250527153000 +0000" channel="beINSports4.qa">
+    <title lang="en">Top Players -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527153000 +0000" stop="20250527173200 +0000" channel="beINSports4.qa">
+    <title lang="ar">Netherlands vs Norway - Final - UEFA European Women's Under-17 Championship 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø£ÙˆØ±ÙˆØ¨Ø§ Ù„Ù„Ø´Ø¨Ø§Ø¨ ØªØ­Øª 17 Ø¹Ø§Ù…Ø§Ù‹</category>
+  </programme>
+  <programme start="20250527153000 +0000" stop="20250527173200 +0000" channel="beINSports4.qa">
+    <title lang="en">Netherlands vs Norway - Final</title>
+    <category lang="en">UEFA U17 Championship</category>
+  </programme>
+  <programme start="20250527173200 +0000" stop="20250527180000 +0000" channel="beINSports4.qa">
+    <title lang="ar">HL â€“ What Gravity Menâ€™s &amp; Womens 2025</title>
+    <category lang="ar">Ø£Ù„Ø¹Ø§Ø¨ Ø§Ù„Ù‚ÙˆÙ‰</category>
+  </programme>
+  <programme start="20250527173200 +0000" stop="20250527180000 +0000" channel="beINSports4.qa">
+    <title lang="en">HL â€“ What Gravity Menâ€™s &amp; Womens 2025 -</title>
+    <category lang="en">Athletics</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSports4.qa">
+    <title lang="ar">HL â€“ Grand Slam Athletics 2025â€“Miami Round</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSports4.qa">
+    <title lang="en">HL â€“ Grand Slam Athletics 2025â€“Miami Round -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Libertadores Magazine -Group Stage -M5</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527190000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
+    <title lang="en">Libertadores Magazine - Group Stage</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
+    <title lang="ar">Sudamericana Magazine2025 Magazine-Group Stage M5</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSports4.qa">
+    <title lang="en">Sudamericana Magazine2025 Magazine - Group Stage M5</title>
+    <category lang="en">Sports General</category>
+  </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSports.qa">
     <title lang="ar">Fiorentina vs Betis - Mini Match - UEFA Conference League 2024/25</title>
     <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
@@ -616,6 +920,110 @@
   <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSports.qa">
     <title lang="en">EPL - Best Goals of EPL season 2024/2025</title>
     <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526195500 +0000" stop="20250526215700 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Main Race - F1 Monaco Grand Prix - 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250526195500 +0000" stop="20250526215700 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Main Race - F1 Monaco Grand Prix</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250526215700 +0000" stop="20250526235000 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250526215700 +0000" stop="20250526235000 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="en">Basketball - Spanish League</category>
+  </programme>
+  <programme start="20250526235000 +0000" stop="20250527014000 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Liverpool vs Crystal Palace English Premier League 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250526235000 +0000" stop="20250527014000 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Liverpool vs Crystal Palace English Premier League 2024/2025 -</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527014000 +0000" stop="20250527034500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Main Race - F1 Monaco Grand Prix - 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527014000 +0000" stop="20250527034500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Main Race - F1 Monaco Grand Prix</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250527034500 +0000" stop="20250527053500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527034500 +0000" stop="20250527053500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="en">Basketball - Spanish League</category>
+  </programme>
+  <programme start="20250527053500 +0000" stop="20250527072500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Liverpool vs Crystal Palace English Premier League 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250527053500 +0000" stop="20250527072500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Liverpool vs Crystal Palace English Premier League 2024/2025 -</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527072500 +0000" stop="20250527093000 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Main Race - F1 Monaco Grand Prix - 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527072500 +0000" stop="20250527093000 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Main Race - F1 Monaco Grand Prix</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250527093000 +0000" stop="20250527112000 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527093000 +0000" stop="20250527112000 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="en">Basketball - Spanish League</category>
+  </programme>
+  <programme start="20250527112000 +0000" stop="20250527131000 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Liverpool vs Crystal Palace English Premier League 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250527112000 +0000" stop="20250527131000 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Liverpool vs Crystal Palace English Premier League 2024/2025 -</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527131000 +0000" stop="20250527151500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Main Race - F1 Monaco Grand Prix - 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527131000 +0000" stop="20250527151500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Main Race - F1 Monaco Grand Prix</title>
+    <category lang="en">Formula One World Championship</category>
+  </programme>
+  <programme start="20250527151500 +0000" stop="20250527170500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ø³Ø¨Ø§Ù†ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527151500 +0000" stop="20250527170500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Athletic Club vs Barcelona - Spanish La Liga 2024/2025</title>
+    <category lang="en">Basketball - Spanish League</category>
+  </programme>
+  <programme start="20250527170500 +0000" stop="20250527185500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Liverpool vs Crystal Palace English Premier League 2024/2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠ Ø§Ù„Ù…Ù…ØªØ§Ø²</category>
+  </programme>
+  <programme start="20250527170500 +0000" stop="20250527185500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Liverpool vs Crystal Palace English Premier League 2024/2025 -</title>
+    <category lang="en">English Premier League</category>
+  </programme>
+  <programme start="20250527185500 +0000" stop="20250527185500 +0000" channel="beINSportsAFC.qa">
+    <title lang="ar">Main Race - F1 Monaco Grand Prix - 2025</title>
+    <category lang="ar">Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¹Ø§Ù„Ù… Ù„Ù„ÙÙˆØ±Ù…ÙˆÙ„Ø§ ÙˆØ§Ù†</category>
+  </programme>
+  <programme start="20250527185500 +0000" stop="20250527185500 +0000" channel="beINSportsAFC.qa">
+    <title lang="en">Main Race - F1 Monaco Grand Prix</title>
+    <category lang="en">Formula One World Championship</category>
   </programme>
   <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsNews.qa">
     <title lang="ar">Inside PSG (#3) : PSG - Arsenal</title>
@@ -911,6 +1319,1070 @@
   </programme>
   <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsNews.qa">
     <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">All Games - News</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">All Games - News</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Super Monday</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526220000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Super Monday -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Hassad</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Hassad -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526233000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526233000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526233000 +0000" stop="20250526234500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Where Are They ?</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250526233000 +0000" stop="20250526234500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Where Are They ? -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250526234500 +0000" stop="20250527000000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">The summary 1 - 27/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526234500 +0000" stop="20250527000000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">The summary 1 - 27/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527010000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Super Monday</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527010000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Super Monday -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527010000 +0000" stop="20250527020000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Hassad</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527010000 +0000" stop="20250527020000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Hassad -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527023000 +0000" stop="20250527030000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">All Games - News</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527023000 +0000" stop="20250527030000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">All Games - News</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527040000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Hassad</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527040000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Hassad -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527043000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527043000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527043000 +0000" stop="20250527044500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Special Interview - 26/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527043000 +0000" stop="20250527044500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Special Interview - 26/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527044500 +0000" stop="20250527050000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">The summary 1 - 27/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527044500 +0000" stop="20250527050000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">The summary 1 - 27/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527050000 +0000" stop="20250527053000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527050000 +0000" stop="20250527053000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527053000 +0000" stop="20250527053800 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Women Show</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527053000 +0000" stop="20250527053800 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Women Show -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527053800 +0000" stop="20250527054500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Without Restrictions</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527053800 +0000" stop="20250527054500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Without Restrictions -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527054500 +0000" stop="20250527060000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Special Report - 26/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527054500 +0000" stop="20250527060000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Special Report - 26/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527070000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Super Monday</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527070000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Super Monday -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527080000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Hassad</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527080000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Hassad -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527090000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">All Games - News</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527090000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">All Games - News</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527100000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Super Monday</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527100000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Super Monday -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Hassad</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527110000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Hassad -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">beIN Action</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">beIN Action | E299 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Super Monday</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Super Monday -</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - Live Studio @02:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - Live Studio @02:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527134500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Stats - 27/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527134500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Stats - 27/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527134500 +0000" stop="20250527140000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Special Report - 25/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527134500 +0000" stop="20250527140000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Special Report - 25/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - @17:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - @17:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Six O'Clock bulletin</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Six O'Clock bulletin -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527161500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Jawla - Live Studio @19:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527161500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Jawla - Live Studio @19:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527161500 +0000" stop="20250527164500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">beIN Action</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527161500 +0000" stop="20250527164500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">beIN Action | E299 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527164500 +0000" stop="20250527170000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">The summary 1 - 27/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527164500 +0000" stop="20250527170000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">The summary 1 - 27/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Sign Language Bulletin @20:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Sign Language Bulletin @20:00 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Business Show</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Business Show -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Nine O'Clock bulletin - NEWS</title>
+    <category lang="ar">Ø§Ù„Ø£Ø®Ø¨Ø§Ø± Ø§Ù„Ø±ÙŠØ§Ø¶ÙŠØ©</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527190000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Nine O'Clock bulletin - NEWS</title>
+    <category lang="en">Sports News</category>
+  </programme>
+  <programme start="20250527190000 +0000" stop="20250527191500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Al Jawla - Live Studio @23:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527190000 +0000" stop="20250527191500 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Al Jawla - Live Studio @23:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527191500 +0000" stop="20250527193000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Stats - 27/05/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527191500 +0000" stop="20250527193000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Stats - 27/05/25</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527200000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527200000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">UEL/UECL Magazine 2024/2025 - UECL Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">News Bulletin - @23:00</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">News Bulletin - @23:00</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="ar">Business Show</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium1.qa">
+    <title lang="en">Business Show -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">The Outdoor Sports Show 2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">The Outdoor Sports Show 2025 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">beIN Action</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">beIN Action | E299 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Creteil vs Cesson - LNH Division 1 - French Handball Starligue</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Creteil vs Cesson - LNH Division 1</title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527003000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">St Raphael vs Toulouse - LNH Division 1 - French Handball Starligue</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250527003000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">St Raphael vs Toulouse - LNH Division 1</title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527020000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Nimes vs PSG - LNH Division 1 - French Handball Starligue</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527020000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Nimes vs PSG - LNH Division 1</title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">The Outdoor Sports Show 2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527020000 +0000" stop="20250527023000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">The Outdoor Sports Show 2025 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527023000 +0000" stop="20250527033000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Kao/ Lin vs Shinozouka/ Togami - Men's Doubles - Day 9 Session 1 - ITTF World Table Tennis Champions</title>
+    <category lang="ar">ØªÙ†Ø³ Ø·Ø§ÙˆÙ„Ø©</category>
+  </programme>
+  <programme start="20250527023000 +0000" stop="20250527033000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Kao/ Lin vs Shinozouka/ Togami - Men's Doubles</title>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527052000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Sun vs Wang - Women's Singles - Day 9 Session 1 - ITTF World Table Tennis Championships Finals Doha</title>
+    <category lang="ar">ØªÙ†Ø³ Ø·Ø§ÙˆÙ„Ø©</category>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527052000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Sun vs Wang - Women's Singles</title>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20250527052000 +0000" stop="20250527062100 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Calderano vs Wang - Men's Singles - Day 9 Session 2 - ITTF World Table Tennis Championships Finals D</title>
+    <category lang="ar">ØªÙ†Ø³ Ø·Ø§ÙˆÙ„Ø©</category>
+  </programme>
+  <programme start="20250527052000 +0000" stop="20250527062100 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Calderano vs Wang - Men's Singles</title>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20250527062100 +0000" stop="20250527071500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Polcanova/ Szocs vs Wang/ Kuai - Women's Doubles - Day 9 Session 2 - ITTF World Table Tennis Champio</title>
+    <category lang="ar">ØªÙ†Ø³ Ø·Ø§ÙˆÙ„Ø©</category>
+  </programme>
+  <programme start="20250527062100 +0000" stop="20250527071500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Polcanova/ Szocs vs Wang/ Kuai - Women's Doubles</title>
+    <category lang="en">Table Tennis</category>
+  </programme>
+  <programme start="20250527071500 +0000" stop="20250527100000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Al Sadd vs Al Duhail - Qatar Cup 2025 Final</title>
+    <category lang="ar">ÙƒØ§Ø³ Ù‚Ø·Ø±</category>
+  </programme>
+  <programme start="20250527071500 +0000" stop="20250527100000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Al Sadd vs Al Duhail - Qatar Cup 2025 Final</title>
+    <category lang="en">Qatar Cup</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527105500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">CHI Al Shaqab - 2025 â€“ Grand Prix Final Summary</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527105500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">CHI Al Shaqab - 2025 â€“ Grand Prix Final Summary</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527105500 +0000" stop="20250527112000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">World Sailing Show 2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527105500 +0000" stop="20250527112000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">World Sailing Show 2025 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527112000 +0000" stop="20250527132100 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Arsenal vs Barcelona - UEFA Women Champions League 2024/2025 -Final's</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø£Ø¨Ø·Ø§Ù„ Ø£ÙˆØ±ÙˆØ¨Ø§ - Ø³ÙŠØ¯Ø§Øª</category>
+  </programme>
+  <programme start="20250527112000 +0000" stop="20250527132100 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Arsenal vs Barcelona - UEFA Women Champions League 2024/2025</title>
+    <category lang="en">UEFA Champions League - (Women)</category>
+  </programme>
+  <programme start="20250527132100 +0000" stop="20250527143000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Al Duhail vs Qatar Club - SF1- Emir Cup Handball 2025</title>
+    <category lang="ar">ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527132100 +0000" stop="20250527143000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Al Duhail vs Qatar Club - SF1</title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Al Rayyan vs Al Arabi - SF2- Emir Cup Handball 2025</title>
+    <category lang="ar">ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Al Rayyan vs Al Arabi - SF2</title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527174500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Al Duhail vs Al Arabi - Final - Emir Cup Handball 2025</title>
+    <category lang="ar">ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527174500 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Al Duhail vs Al Arabi - Final</title>
+    <category lang="en">Handball</category>
+  </programme>
+  <programme start="20250527174500 +0000" stop="20250527181000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">beIN Action</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527174500 +0000" stop="20250527181000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">beIN Action | E299 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527181000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">St Raphael vs Toulouse - LNH Division 1 - French Handball Starligue</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527181000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">St Raphael vs Toulouse - LNH Division 1</title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="ar">Nimes vs PSG - LNH Division 1 - French Handball Starligue</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„ÙØ±Ù†Ø³ÙŠ Ù„ÙƒØ±Ø© Ø§Ù„ÙŠØ¯</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium2.qa">
+    <title lang="en">Nimes vs PSG - LNH Division 1</title>
+    <category lang="en">Handball - French Handball League</category>
+  </programme>
+  <programme start="20250526200000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Generation XG 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526200000 +0000" stop="20250526210000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Generation XG 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Athletic Bilbao vs Barcelona - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250526210000 +0000" stop="20250526213000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Athletic Bilbao vs Barcelona - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526220000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Charlton vs Leyton Orient - League 1 Final - Mini Match - EFL 2024/25</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠØ© - Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰</category>
+  </programme>
+  <programme start="20250526213000 +0000" stop="20250526220000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Charlton vs Leyton Orient - League 1 Final</title>
+    <category lang="en">English League - Championship</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">La Liga Highlights 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526220000 +0000" stop="20250526230000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">La Liga Highlights 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526233000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Arsenal vs Barcelona - Final - Mini Match - UEFA Women's Champions League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526233000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Arsenal vs Barcelona - Final</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250526233000 +0000" stop="20250527000000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">PSG vs Reims - Final - Mini Match - French Cup 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250526233000 +0000" stop="20250527000000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">PSG vs Reims - Final</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527003000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Fantasy League Show 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527000000 +0000" stop="20250527003000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Fantasy League Show 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527030000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play-Offs 2025</title>
+    <category lang="ar">Ø§Ù„Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø£Ù…ÙŠØ±ÙƒÙŠ Ù„ÙƒØ±Ø© Ø§Ù„Ø³Ù„Ø©</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527030000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Oklahoma City Thunder vs Minnesota Timberwolves - West NBA Play</title>
+    <category lang="en">Basketball - NBA</category>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527033000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Fulham vs Man City - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527033000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Fulham vs Man City - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527040000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Liverpool vs Crystal Palace - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527033000 +0000" stop="20250527040000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Liverpool vs Crystal Palace - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527050000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">La Liga Highlights 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527050000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">La Liga Highlights 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527050000 +0000" stop="20250527053000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Man Utd vs Aston Villa - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527050000 +0000" stop="20250527053000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Man Utd vs Aston Villa - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527053000 +0000" stop="20250527060000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Nottingham vs Chelsea - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527053000 +0000" stop="20250527060000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Nottingham vs Chelsea - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527070000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UEL Magazine 2024/25 - Season Review</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527070000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UEL Magazine 2024/25 - Season Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Real Madrid vs Real Sociedad - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Real Madrid vs Real Sociedad - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Arsenal vs Barcelona - Final - Mini Match - UEFA Women's Champions League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Arsenal vs Barcelona - Final</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Review 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527090000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Review 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527093000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">PSG vs Reims - Final - Mini Match - French Cup 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527090000 +0000" stop="20250527093000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">PSG vs Reims - Final</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527093000 +0000" stop="20250527100000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Sheffield Utd vs Sunderland - Championship Final - Mini Match - EFL 2024/25</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠØ© - Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰</category>
+  </programme>
+  <programme start="20250527093000 +0000" stop="20250527100000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Sheffield Utd vs Sunderland - Championship Final</title>
+    <category lang="en">English League - Championship</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UECL Magazine 2024/25 - Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527100000 +0000" stop="20250527103000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UECL Magazine 2024/25 - Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UCL Magazine 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527103000 +0000" stop="20250527110000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UCL Magazine 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Athletic Bilbao vs Barcelona - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527113000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Athletic Bilbao vs Barcelona - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Charlton vs Leyton Orient - League 1 Final - Mini Match - EFL 2024/25</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠØ© - Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527120000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Charlton vs Leyton Orient - League 1 Final</title>
+    <category lang="en">English League - Championship</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UEL Magazine 2024/25 - Season Review</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527120000 +0000" stop="20250527130000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UEL Magazine 2024/25 - Season Review</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Fulham vs Man City - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527133000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Fulham vs Man City - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Liverpool vs Crystal Palace - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Liverpool vs Crystal Palace - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UEFA Nations League 2024/25 - All Goals Show</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527143000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UEFA Nations League 2024/25 - All Goals Show</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL The Big Interview 2024/25 - Morato</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527143000 +0000" stop="20250527150000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL The Big Interview 2024/25 - Morato</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Man Utd vs Aston Villa - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527153000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Man Utd vs Aston Villa - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527153000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Nottingham vs Chelsea - Mini Match - English Premier League 2024/25</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527153000 +0000" stop="20250527160000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Nottingham vs Chelsea - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527163000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">This is Paris 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527163000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">This is Paris 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">The Final Story 2025 - UEFA Champions League</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">The Final Story 2025 - UEFA Champions League</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Real Madrid vs Real Sociedad - Mini Match - La Liga 2024/2025</title>
+    <category lang="ar">Ù…Ø¨Ø§Ø±ÙŠØ§Øª Ù‚ØµÙŠØ±Ø©</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527173000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Real Madrid vs Real Sociedad - Mini Match</title>
+    <category lang="en">Mini Matches</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">Wimbledon vs Walsall - League 2 Final - Mini Match - EFL 2024/25</title>
+    <category lang="ar">Ø¯ÙˆØ±ÙŠ Ø§Ù„Ø¨Ø·ÙˆÙ„Ø© Ø§Ù„Ø¥Ù†Ø¬Ù„ÙŠØ²ÙŠØ© - Ø§Ù„Ø¯Ø±Ø¬Ø© Ø§Ù„Ø£ÙˆÙ„Ù‰</category>
+  </programme>
+  <programme start="20250527173000 +0000" stop="20250527180000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">Wimbledon vs Walsall - League 2 Final</title>
+    <category lang="en">English League - Championship</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527183000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Net Busters 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527183000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Net Busters 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Moments - Steve McManaman</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527193000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Moments - Steve McManaman</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527200000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UECL Magazine 2024/25 - Final Preview</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527193000 +0000" stop="20250527200000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UECL Magazine 2024/25 - Final Preview</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">UCL Magazine 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">UCL Magazine 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="ar">EPL Fantasy League Show 2024/25</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527203000 +0000" stop="20250527203000 +0000" channel="beINSportsPremium3.qa">
+    <title lang="en">EPL Fantasy League Show 2024/25 -</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526183000 +0000" stop="20250526211500 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 5/D2 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250526183000 +0000" stop="20250526211500 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 5/D2 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250526211500 +0000" stop="20250526231700 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 1/D2 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250526211500 +0000" stop="20250526231700 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 1/D2 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250526231700 +0000" stop="20250527014900 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 2/D2 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250526231700 +0000" stop="20250527014900 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 2/D2 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527014900 +0000" stop="20250527042500 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 3/D2 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527014900 +0000" stop="20250527042500 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 3/D2 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527042500 +0000" stop="20250527070000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 4/D2 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527042500 +0000" stop="20250527070000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 4/D2 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Roland Garros - Best of Novak Djokovic</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527070000 +0000" stop="20250527073000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Roland Garros - Best of Novak Djokovic</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Aryna SABALENKA vs Kamilla RAKHIMOVA - Mini Matches Roland Garros 2025</title>
+    <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
+  </programme>
+  <programme start="20250527073000 +0000" stop="20250527080000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Aryna SABALENKA vs Kamilla RAKHIMOVA - Mini Matches Roland Garros 2025</title>
+    <category lang="en">Tennis - Grand Slam</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Lorenzo MUSETTI (ITA) vs Yannick HANFMANN (GER) - Mini Matches Roland Garros 2025</title>
+    <category lang="ar">Ø§Ù„Ø¨Ø·ÙˆÙ„Ø§Øª Ø§Ù„ÙƒØ¨Ø±Ù‰ Ù„ÙƒØ±Ø© Ø§Ù„Ù…Ø¶Ø±Ø¨</category>
+  </programme>
+  <programme start="20250527080000 +0000" stop="20250527083000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Lorenzo MUSETTI (ITA) vs Yannick HANFMANN (GER) - Mini Matches Roland Garros 2025</title>
+    <category lang="en">Tennis - Grand Slam</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527110000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 1/D3 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527083000 +0000" stop="20250527110000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 1/D3 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527133000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 2/D3 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527110000 +0000" stop="20250527133000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 2/D3 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527160000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 3/D3 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527160000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 3/D3 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 4/D3 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527160000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 4/D3 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="ar">Match 5/D3 - World Feed- Roland Garros - 2025</title>
+    <category lang="ar">ØªÙ†Ø³</category>
+  </programme>
+  <programme start="20250527183000 +0000" stop="20250527183000 +0000" channel="beINSportsXtra1.qa">
+    <title lang="en">Match 5/D3 - World Feed</title>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526223000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Al Dawry Al Frensy - Al Daragah Al Thanyah</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526203000 +0000" stop="20250526223000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Al Dawry Al Frensy - Al Daragah Al Thanyah</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526223000 +0000" stop="20250526230000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Football - Football 2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526223000 +0000" stop="20250526230000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Football - Football 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526234500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">United vs Lille - Magazine - Football</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526230000 +0000" stop="20250526234500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">United vs Lille - Magazine</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250526234500 +0000" stop="20250527003000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Nba Extra - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250526234500 +0000" stop="20250527003000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Nba Extra - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527040000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Pof Fo M04 Thunder Timberwolves - Nba - Basketball 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527003000 +0000" stop="20250527040000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Pof Fo M04 Thunder Timberwolves - Nba</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527060000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Bilbao vs Barcelone - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527040000 +0000" stop="20250527060000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Bilbao vs Barcelone - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527064500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Liga Extra - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527060000 +0000" stop="20250527064500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Liga Extra - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527064500 +0000" stop="20250527084500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Pof Fe M03 Knicks Pacers - Nba - Basketball 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527064500 +0000" stop="20250527084500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Pof Fe M03 Knicks Pacers - Nba</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527084500 +0000" stop="20250527104500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Pof Fo M04 Thunder Timberwolves - Nba - Basketball 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527084500 +0000" stop="20250527104500 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Pof Fo M04 Thunder Timberwolves - Nba</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527104500 +0000" stop="20250527113000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Nba Extra - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527104500 +0000" stop="20250527113000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Nba Extra - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527133000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Madrid vs Sociedad - Liga - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527113000 +0000" stop="20250527133000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Madrid vs Sociedad - Liga</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">United vs Lille - Magazine - Football</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">United vs Lille - Magazine</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527163000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Pof F Shieffeld United Sunderland - Football League - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527163000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Pof F Shieffeld United Sunderland - Football League</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Liga Extra - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527163000 +0000" stop="20250527170000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Liga Extra - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527180000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Salon Vip - Magazine 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527180000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Salon Vip - Magazine 2024</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Crystal palace vs Man city - Fa Cup - finale - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527180000 +0000" stop="20250527200000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Crystal palace vs Man city - Fa Cup</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="ar">Ep 37 Inside Fra - This Is Paris - Football 2024-2025</title>
+    <category lang="ar">Ø§Ù„Ø±ÙŠØ§Ø¶Ø© Ø§Ù„Ø¹Ø§Ù…</category>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527200000 +0000" channel="beINSportsXtra2.qa">
+    <title lang="en">Ep 37 Inside Fra - This Is Paris</title>
     <category lang="en">Sports General</category>
   </programme>
   <channel id="Hub.Premier.1.sg">
