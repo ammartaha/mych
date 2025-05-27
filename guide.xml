@@ -7782,6 +7782,10 @@
     <display-name>TNT Sports 4 HD</display-name>
     <url>https://epgshare01.online</url>
   </channel>
+  <channel id="TNT.Sports.Ultimate.uk">
+    <display-name>TNT Sport Ultimate</display-name>
+    <url>https://epgshare01.online</url>
+  </channel>
   <programme start="20250527000000 +0000" stop="20250527010000 +0000" channel="Premier.Sports.1.HD.uk">
     <title lang="en">LaLiga Highlights</title>
     <desc lang="en">All the football action from the latest round of Spain&amp;apos;s LALIGA.</desc>
@@ -10043,5 +10047,81 @@
   </programme>
   <programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="TNT.Sports.4.HD.uk">
     <title lang="en">Serie A - Full Impact</title>
+  </programme>
+  <programme start="20250527030000 +0000" stop="20250527031500 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">The best bits from TNT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+  </programme>
+  <programme start="20250527130000 +0000" stop="20250527131500 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">The best bits from TNT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+  </programme>
+  <programme start="20250527131500 +0000" stop="20250527133000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">A taste of the Ultimate and unrivalled rugby coverage we show.</desc>
+  </programme>
+  <programme start="20250527133000 +0000" stop="20250527140000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Court Side</title>
+    <desc lang="en">Analysis ahead of the third day of the French Open.</desc>
+  </programme>
+  <programme start="20250527140000 +0000" stop="20250527150000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250527150000 +0000" stop="20250527170000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250527170000 +0000" stop="20250527200000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250527200000 +0000" stop="20250527220000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250527220000 +0000" stop="20250527230000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250527230000 +0000" stop="20250528030000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the third day of round one of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250528030000 +0000" stop="20250528031500 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">A taste of the Ultimate and unrivalled rugby coverage we show.</desc>
+  </programme>
+  <programme start="20250528130000 +0000" stop="20250528131500 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">A taste of the Ultimate and unrivalled rugby coverage we show.</desc>
+  </programme>
+  <programme start="20250528131500 +0000" stop="20250528133000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">TNT Sports Ultimate Reload</title>
+    <desc lang="en">The best bits from TNT Sport over the last week, including exclusive interviews, the best action and so much more.</desc>
+  </programme>
+  <programme start="20250528133000 +0000" stop="20250528140000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Court Side</title>
+    <desc lang="en">Analysis ahead of the fourth day of the French Open.</desc>
+  </programme>
+  <programme start="20250528140000 +0000" stop="20250528150000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Coverage of the first day of round two of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250528150000 +0000" stop="20250528170000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the first day of round two of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250528170000 +0000" stop="20250528200000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the first day of round two of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250528200000 +0000" stop="20250528223000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live: Roland Garros</title>
+    <desc lang="en">Further coverage of the first day of round two of the tournament, which takes place at Stade Roland Garros in Paris.</desc>
+  </programme>
+  <programme start="20250528223000 +0000" stop="20250529030000 +0000" channel="TNT.Sports.Ultimate.uk">
+    <title lang="en">Live UEFA Conference League</title>
+    <desc lang="en">Real Betis v Chelsea (Kick-off 8.00pm). Coverage of the final from Stadion Miejski we Wroclawiu in Wroclaw, Poland. This is just the fifth meeting between these two clubs and the first since they last met in the Champions League group stages back in 2005. Chelsea finished top of the league phase of this tournament after winning all six of their league games, while their opponents finished 15th overall with three wins to make it through to the knockout phase play-offs.</desc>
   </programme>
 </tv>
