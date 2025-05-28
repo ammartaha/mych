@@ -1751,11 +1751,11 @@
     <title lang="en">FOOTBALL REVIEW. -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528190000 +0000" stop="20250529020000 +0000" channel="AlkassOne.qa">
+  <programme start="20250528190000 +0000" stop="20250528190000 +0000" channel="AlkassOne.qa">
     <title lang="en">Amir Cup Al - Ahli vs. Al</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528190000 +0000" stop="20250528190000 +0000" channel="AlkassOne.qa">
+  <programme start="20250528190000 +0000" stop="20250529020000 +0000" channel="AlkassOne.qa">
     <title lang="en">Amir Cup Al - Ahli vs. Al</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -1891,11 +1891,11 @@
     <title lang="en">THE Referee. -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528202500 +0000" stop="20250529020000 +0000" channel="AlkassTwo.qa">
+  <programme start="20250528202500 +0000" stop="20250528202500 +0000" channel="AlkassTwo.qa">
     <title lang="en">women. -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528202500 +0000" stop="20250528202500 +0000" channel="AlkassTwo.qa">
+  <programme start="20250528202500 +0000" stop="20250529020000 +0000" channel="AlkassTwo.qa">
     <title lang="en">women. -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -2011,11 +2011,11 @@
     <title lang="en">Dodgers Guardians - Mlb</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528200000 +0000" stop="20250528220000 +0000" channel="beIN4K.qa">
+  <programme start="20250528200000 +0000" stop="20250528200000 +0000" channel="beIN4K.qa">
     <title lang="en">Dodgers Mets - Mlb</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528200000 +0000" stop="20250528200000 +0000" channel="beIN4K.qa">
+  <programme start="20250528200000 +0000" stop="20250528220000 +0000" channel="beIN4K.qa">
     <title lang="en">Dodgers Mets - Mlb</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -7451,11 +7451,11 @@
     <title lang="en">Championnat Du Monde Masculin - Handball 2025</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528200000 +0000" stop="20250528214500 +0000" channel="beINSportsXtra2.qa">
+  <programme start="20250528200000 +0000" stop="20250528200000 +0000" channel="beINSportsXtra2.qa">
     <title lang="en">Sous vs Pression - Magazine</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250528200000 +0000" stop="20250528200000 +0000" channel="beINSportsXtra2.qa">
+  <programme start="20250528200000 +0000" stop="20250528214500 +0000" channel="beINSportsXtra2.qa">
     <title lang="en">Sous vs Pression - Magazine</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -21921,9 +21921,6 @@
   <programme start="20250530160000 +0000" stop="20250530163000 +0000" channel="nowSports2.hk">
     <title lang="en">LaLiga Power 2024/2025 E9</title>
   </programme>
-  <programme start="20250528190000 +0000" stop="20250528200000 +0000" channel="nowSports3.hk">
-    <title lang="en">LALIGA EA SPORTS Highlights 24/25 E38</title>
-  </programme>
   <programme start="20250528200000 +0000" stop="20250528201500 +0000" channel="nowSports3.hk">
     <title lang="en">Century Break 2025 E91</title>
   </programme>
@@ -22115,9 +22112,6 @@
   </programme>
   <programme start="20250530160000 +0000" stop="20250530180000 +0000" channel="nowSports3.hk">
     <title lang="en">LALIGA EA SPORTS 24/25 -Leganes Vs Real Valladolid</title>
-  </programme>
-  <programme start="20250528180000 +0000" stop="20250528200000 +0000" channel="nowSports4.hk">
-    <title lang="en">WTA 25 Credit One Charleston Open -Final</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250528201500 +0000" channel="nowSports4.hk">
     <title lang="en">Century Break 2025 E161</title>
@@ -22322,9 +22316,6 @@
   </programme>
   <programme start="20250530151500 +0000" stop="20250530183000 +0000" channel="nowSports5.hk">
     <title lang="en">Sevilla Marathon '25 E1 -Sevilla Marathon '25</title>
-  </programme>
-  <programme start="20250528180000 +0000" stop="20250528200000 +0000" channel="nowSports6.hk">
-    <title lang="en">ATP 25 Millennium Estoril Open -QF (3)</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250528213000 +0000" channel="nowSports6.hk">
     <title lang="en">ATP 25 Internazionali BNL d'Italia -QF (4)</title>
@@ -22662,9 +22653,6 @@
   <programme start="20250530160000 +0000" stop="20250530180000 +0000" channel="nowSportsPremierLeague1.hk">
     <title lang="en">Premier League 24/25 -Fulham vs Manchester City</title>
   </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague2.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -22702,9 +22690,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague2.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague3.hk">
@@ -22746,9 +22731,6 @@
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague3.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague4.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -22786,9 +22768,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague4.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague5.hk">
@@ -22830,9 +22809,6 @@
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague5.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague6.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
@@ -22870,9 +22846,6 @@
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague6.hk">
-    <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20250528160000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250529000000 +0000" channel="nowSportsPremierLeague7.hk">
@@ -22913,9 +22886,6 @@
   </programme>
   <programme start="20250530160000 +0000" stop="20250530200000 +0000" channel="nowSportsPremierLeague7.hk">
     <title lang="en">Stay tuned for the next broadcast</title>
-  </programme>
-  <programme start="20250528190000 +0000" stop="20250528200000 +0000" channel="nowSportsPremierLeagueTV.hk">
-    <title lang="en">THE CATCH-UP SHOW E41</title>
   </programme>
   <programme start="20250528200000 +0000" stop="20250528203000 +0000" channel="nowSportsPremierLeagueTV.hk">
     <title lang="en">NETBUSTERS E38</title>
@@ -24569,7 +24539,7 @@
   </programme>
   <programme start="20250530073000 +0000" stop="20250530080000 +0000" channel="SkySp.PL.HD.uk">
     <title lang="en">Best Premier League Goals</title>
-    <desc lang="en">Classic goals from the 2018/19 season which was dominated by Manchster City and Liverpool.</desc>
+    <desc lang="en">A selection of the best goals from Premier League fixtures between Newcastle United and Liverpool over the years.</desc>
   </programme>
   <programme start="20250530080000 +0000" stop="20250530083000 +0000" channel="SkySp.PL.HD.uk">
     <title lang="en">PL 100 Club</title>
@@ -29941,6 +29911,20 @@
     <country lang="nl">NL</country>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
+  </programme>
+  <programme start="20250529060000 +0000" stop="20250529062500 +0000" channel="ZS1.NL">
+    <title lang="nl">The Inside Line</title>
+    <desc lang="nl">Wekelijkse magazine met het laatste nieuws en achtergronden uit de Formule 1.</desc>
+    <credits>
+      <director>Tim Nelson</director>
+      <producer>Tim Nelson</producer>
+    </credits>
+    <date>20250101</date>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Motorsport</category>
+    <country lang="nl">AU</country>
+    <episode-num system="xmltv_ns">102024.45.0/1</episode-num>
+    <episode-num system="onscreen">S102025E46</episode-num>
   </programme>
   <programme start="20250529060000 +0000" stop="20250529062500 +0000" channel="ZS1.NL">
     <title lang="nl">The Inside Line</title>
