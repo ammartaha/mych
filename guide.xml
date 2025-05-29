@@ -1743,11 +1743,11 @@
     <title lang="en">AFC U - 20 Championship / Iraq x North Korea</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="AlkassOne.qa">
+  <programme start="20250529203000 +0000" stop="20250530000000 +0000" channel="AlkassOne.qa">
     <title lang="en">TAWAASL -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250530000000 +0000" channel="AlkassOne.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="AlkassOne.qa">
     <title lang="en">TAWAASL -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -1851,11 +1851,11 @@
     <title lang="en">AFC U - 20 Championship / Iraq x North Korea</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="AlkassTwo.qa">
+  <programme start="20250529203000 +0000" stop="20250530021500 +0000" channel="AlkassTwo.qa">
     <title lang="en">TAWAASL -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250530021500 +0000" channel="AlkassTwo.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="AlkassTwo.qa">
     <title lang="en">TAWAASL -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -1999,11 +1999,11 @@
     <title lang="en">Remise De Coupe Psg Reims - Coupe De France Hommes</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beIN4K.qa">
+  <programme start="20250529200000 +0000" stop="20250529220000 +0000" channel="beIN4K.qa">
     <title lang="en">Pof A Tba Clermont Boulogne Sur Mer - Ligue 2</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529220000 +0000" channel="beIN4K.qa">
+  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beIN4K.qa">
     <title lang="en">Pof A Tba Clermont Boulogne Sur Mer - Ligue 2</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -2188,15 +2188,15 @@
     <category lang="en">Copa Sudamericana</category>
   </programme>
   <programme start="20250530023000 +0000" stop="20250530030000 +0000" channel="beINSports1.qa">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.35 -</title>
+    <title lang="en">La Liga Chronicles 2024/25 Ep.34 -</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250530030000 +0000" stop="20250530044500 +0000" channel="beINSports1.qa">
-    <title lang="en">SF1 - UEFA European Under 17 Championship</title>
+    <title lang="en">France vs Belgium - SF1</title>
     <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250530044500 +0000" stop="20250530063000 +0000" channel="beINSports1.qa">
-    <title lang="en">SF2 - UEFA European Under 17 Championship</title>
+    <title lang="en">Italy vs Portugal - SF2</title>
     <category lang="en">UEFA U17 Championship</category>
   </programme>
   <programme start="20250530063000 +0000" stop="20250530070000 +0000" channel="beINSports1.qa">
@@ -2244,7 +2244,7 @@
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250530203000 +0000" stop="20250530203000 +0000" channel="beINSports1.qa">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.35 -</title>
+    <title lang="en">La Liga Chronicles 2024/25 Ep.34 -</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250528203000 +0000" stop="20250528210000 +0000" channel="beINSports2.qa">
@@ -2635,47 +2635,47 @@
     <title lang="en">Indiana Pacers vs New York Knicks - East NBA Play</title>
     <category lang="en">Basketball - NBA</category>
   </programme>
-  <programme start="20250530023000 +0000" stop="20250530030000 +0000" channel="beINSports4.qa">
+  <programme start="20250530023000 +0000" stop="20250530031500 +0000" channel="beINSports4.qa">
     <title lang="en">Monaco GP - Mini GP</title>
     <category lang="en">Formula One World Championship</category>
   </programme>
-  <programme start="20250530030000 +0000" stop="20250530033000 +0000" channel="beINSports4.qa">
+  <programme start="20250530031500 +0000" stop="20250530034500 +0000" channel="beINSports4.qa">
     <title lang="en">EPL Netbusters 2024/2025 -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530033000 +0000" stop="20250530040000 +0000" channel="beINSports4.qa">
+  <programme start="20250530034500 +0000" stop="20250530041500 +0000" channel="beINSports4.qa">
     <title lang="en">La Liga World 2024/25 Ep.41 -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530040000 +0000" stop="20250530060000 +0000" channel="beINSports4.qa">
+  <programme start="20250530041500 +0000" stop="20250530061000 +0000" channel="beINSports4.qa">
     <title lang="en">Real Betis vs Chelsea - UEFA Europa Conference League 2024/25</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530060000 +0000" stop="20250530063000 +0000" channel="beINSports4.qa">
+  <programme start="20250530061000 +0000" stop="20250530064500 +0000" channel="beINSports4.qa">
     <title lang="en">Fast Zone 2025 -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530063000 +0000" stop="20250530073000 +0000" channel="beINSports4.qa">
+  <programme start="20250530064500 +0000" stop="20250530074500 +0000" channel="beINSports4.qa">
     <title lang="en">UEL/UECL Magazine 2024/2025 - UEL Season Review</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530073000 +0000" stop="20250530093000 +0000" channel="beINSports4.qa">
+  <programme start="20250530074500 +0000" stop="20250530093000 +0000" channel="beINSports4.qa">
     <title lang="en">Minnesota Timberwolves vs Oklahoma City Thunder - West NBA Play</title>
     <category lang="en">Basketball - NBA</category>
   </programme>
-  <programme start="20250530093000 +0000" stop="20250530113000 +0000" channel="beINSports4.qa">
+  <programme start="20250530093000 +0000" stop="20250530111500 +0000" channel="beINSports4.qa">
     <title lang="en">Indiana Pacers vs New York Knicks - East NBA Play</title>
     <category lang="en">Basketball - NBA</category>
   </programme>
-  <programme start="20250530113000 +0000" stop="20250530120000 +0000" channel="beINSports4.qa">
+  <programme start="20250530111500 +0000" stop="20250530114500 +0000" channel="beINSports4.qa">
     <title lang="en">HL â€“ What Gravity Menâ€™s &amp; Womens 2025 -</title>
     <category lang="en">Athletics</category>
   </programme>
-  <programme start="20250530120000 +0000" stop="20250530130000 +0000" channel="beINSports4.qa">
+  <programme start="20250530114500 +0000" stop="20250530124500 +0000" channel="beINSports4.qa">
     <title lang="en">HL â€“ Grand Slam Athletics 2025â€“Miami Round -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250530130000 +0000" stop="20250530133000 +0000" channel="beINSports4.qa">
+  <programme start="20250530124500 +0000" stop="20250530133000 +0000" channel="beINSports4.qa">
     <title lang="en">CAF Confederation Cup 2024/25 - Best Goals</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -2772,11 +2772,11 @@
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250529210000 +0000" stop="20250529213000 +0000" channel="beINSports5.qa">
-    <title lang="en">MM1D4 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Fabian MAROZSAN (HUN) vs Carlos ALCARAZ (ESP) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250529213000 +0000" stop="20250529220000 +0000" channel="beINSports5.qa">
-    <title lang="en">MM2D4 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Emma RADUCANU (GBR) vs Iga SWIATEK (POL) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="beINSports5.qa">
@@ -2784,31 +2784,31 @@
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250529223000 +0000" stop="20250530003000 +0000" channel="beINSports5.qa">
-    <title lang="en">M1 - Philippe</title>
+    <title lang="en">Ann Li (USA) vs Jessica Pegula (USA) - Women's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530003000 +0000" stop="20250530023000 +0000" channel="beINSports5.qa">
-    <title lang="en">M2 - Philippe</title>
+    <title lang="en">Jannik Sinner (ITA) vs Richard Gasquet (FRA) - Men's Singles</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530023000 +0000" stop="20250530043000 +0000" channel="beINSports5.qa">
-    <title lang="en">M3 - Philippe</title>
+    <title lang="en">Madison Keys (USA) vs Katie Boulter (GBR) - Women's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530043000 +0000" stop="20250530063000 +0000" channel="beINSports5.qa">
-    <title lang="en">M4 - Philippe</title>
+    <title lang="en">Gael Monfils (FRA) vs Jack Draper (GBR) - Men's Singles</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530063000 +0000" stop="20250530070000 +0000" channel="beINSports5.qa">
-    <title lang="en">MM2D5 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Gael MONFILS (FRA) vs Jack DRAPER (GBR) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250530070000 +0000" stop="20250530073000 +0000" channel="beINSports5.qa">
-    <title lang="en">MM3D5 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Corentin MOUTET (FRA) vs Novak DJOKOVIC (SRB) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250530073000 +0000" stop="20250530094500 +0000" channel="beINSports5.qa">
-    <title lang="en">M1 - Philippe</title>
+    <title lang="en">Ann Li (USA) vs Jessica Pegula (USA) - Women's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530094500 +0000" stop="20250530123000 +0000" channel="beINSports5.qa">
@@ -3060,35 +3060,35 @@
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250529210000 +0000" stop="20250529213000 +0000" channel="beINSports7.qa">
-    <title lang="en">MM1D4 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Fabian MAROZSAN (HUN) vs Carlos ALCARAZ (ESP) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250529213000 +0000" stop="20250529233000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 1/D5 - Suzanne Lenglen Court</title>
+    <title lang="en">Jaume Munar (ESP) vs Arthur Fils (FRA) - Men's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250529233000 +0000" stop="20250530013000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 2/D5 - Suzanne Lenglen Court</title>
+    <title lang="en">Tereza Valentova (CZE) vs Coco Gauff (USA) - Women's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530013000 +0000" stop="20250530033000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 3 /D5 - Suzanne Lenglen Court</title>
+    <title lang="en">Corentin Moutet (FRA) vs Novak Djokovic (SRB) - Men's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530033000 +0000" stop="20250530053000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 4/D5 - Suzanne Lenglen Court</title>
+    <title lang="en">Daria Kasatkina (AUS) vs Leolia Jeanjean (FRA) - Women's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530053000 +0000" stop="20250530060000 +0000" channel="beINSports7.qa">
-    <title lang="en">MM1D5 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Jannik SINNER (ITA) vs Richard GASQUET (FRA) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250530060000 +0000" stop="20250530063000 +0000" channel="beINSports7.qa">
-    <title lang="en">MM2D5 - Mini Matches Roland Garros 2025</title>
+    <title lang="en">Gael MONFILS (FRA) vs Jack DRAPER (GBR) - Mini Matches Roland Garros 2025</title>
     <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250530063000 +0000" stop="20250530084500 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 1/D5 - Suzanne Lenglen Court</title>
+    <title lang="en">Jaume Munar (ESP) vs Arthur Fils (FRA) - Men's Single</title>
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530084500 +0000" stop="20250530114500 +0000" channel="beINSports7.qa">
@@ -3108,12 +3108,12 @@
     <category lang="en">Tennis</category>
   </programme>
   <programme start="20250530200000 +0000" stop="20250530203000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 1/D5 Mini Match - Suzanne Lenglen Court</title>
-    <category lang="en">Tennis</category>
+    <title lang="en">Jannik SINNER (ITA) vs Richard GASQUET (FRA) - Mini Matches Roland Garros 2025</title>
+    <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250530203000 +0000" stop="20250530203000 +0000" channel="beINSports7.qa">
-    <title lang="en">Match 2/D5 Mini Match - Suzanne Lenglen Court</title>
-    <category lang="en">Tennis</category>
+    <title lang="en">Gael MONFILS (FRA) vs Jack DRAPER (GBR) - Mini Matches Roland Garros 2025</title>
+    <category lang="en">Tennis - Grand Slam</category>
   </programme>
   <programme start="20250528203300 +0000" stop="20250528210000 +0000" channel="beINSports.qa">
     <title lang="en">Man Utd vs Aston Villa - Mini Match</title>
@@ -3371,11 +3371,11 @@
     <title lang="en">Jacob Fearnley (GBR) vs Ugo Humbert (FRA) - Men's Single</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsAFC1.qa">
+  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsAFC1.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsAFC1.qa">
+  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsAFC1.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -3751,11 +3751,11 @@
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsAFC3.qa">
+  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsAFC3.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsAFC3.qa">
+  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsAFC3.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -5047,11 +5047,11 @@
     <title lang="en">Open Court -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsFrench3.qa">
+  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsFrench3.qa">
     <title lang="en">Playoff Playbacks (S2025) -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsFrench3.qa">
+  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsFrench3.qa">
     <title lang="en">Playoff Playbacks (S2025) -</title>
     <category lang="en">Entertainment</category>
   </programme>
@@ -5215,11 +5215,11 @@
     <title lang="en">The Football Review -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsMax1.qa">
+  <programme start="20250529203000 +0000" stop="20250530013000 +0000" channel="beINSportsMax1.qa">
     <title lang="en">Tawasol -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250530013000 +0000" channel="beINSportsMax1.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsMax1.qa">
     <title lang="en">Tawasol -</title>
     <category lang="en">Entertainment</category>
   </programme>
@@ -5375,11 +5375,11 @@
     <title lang="en">Golmania -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsMax2.qa">
+  <programme start="20250529203000 +0000" stop="20250530020000 +0000" channel="beINSportsMax2.qa">
     <title lang="en">Marine Magazine -</title>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250530020000 +0000" channel="beINSportsMax2.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsMax2.qa">
     <title lang="en">Marine Magazine -</title>
     <category lang="en">Entertainment</category>
   </programme>
@@ -5883,11 +5883,11 @@
     <title lang="en">The 13th Katara Traditional Bearing Festival -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529204500 +0000" stop="20250529204500 +0000" channel="beINSportsMax5.qa">
+  <programme start="20250529204500 +0000" stop="20250530043000 +0000" channel="beINSportsMax5.qa">
     <title lang="en">Auto mundial -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529204500 +0000" stop="20250530043000 +0000" channel="beINSportsMax5.qa">
+  <programme start="20250529204500 +0000" stop="20250529204500 +0000" channel="beINSportsMax5.qa">
     <title lang="en">Auto mundial -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -6015,11 +6015,11 @@
     <title lang="en">NEWS. -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529183000 +0000" stop="20250529183000 +0000" channel="beINSportsMax6.qa">
+  <programme start="20250529183000 +0000" stop="20250530000000 +0000" channel="beINSportsMax6.qa">
     <title lang="en">Murbat Al - faras</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529183000 +0000" stop="20250530000000 +0000" channel="beINSportsMax6.qa">
+  <programme start="20250529183000 +0000" stop="20250529183000 +0000" channel="beINSportsMax6.qa">
     <title lang="en">Murbat Al - faras</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -6195,11 +6195,11 @@
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsNBA.qa">
+  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsNBA.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529200000 +0000" stop="20250529210000 +0000" channel="beINSportsNBA.qa">
+  <programme start="20250529200000 +0000" stop="20250529200000 +0000" channel="beINSportsNBA.qa">
     <title lang="en">beIN SPORTS XTRA For Live And Exclusive Coverage of Premuim Sporting Events -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -6360,7 +6360,7 @@
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250529133000 +0000" stop="20250529140000 +0000" channel="beINSportsNews.qa">
-    <title lang="en">La Liga Chronicles 2024/25 Ep.35 -</title>
+    <title lang="en">La Liga Chronicles 2024/25 Ep.34 -</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20250529140000 +0000" stop="20250529160000 +0000" channel="beINSportsNews.qa">
@@ -6711,11 +6711,11 @@
     <title lang="en">News Bulletin - @23:00</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsPremium1.qa">
+  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="beINSportsPremium1.qa">
     <title lang="en">Number 1 -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="beINSportsPremium1.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsPremium1.qa">
     <title lang="en">Number 1 -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -6903,11 +6903,11 @@
     <title lang="en">Al Arabi vs Al Duhail - Final Qatar Cup</title>
     <category lang="en">Handball</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="beINSportsPremium2.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsPremium2.qa">
     <title lang="en">beIN Action | E299 -</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsPremium2.qa">
+  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="beINSportsPremium2.qa">
     <title lang="en">beIN Action | E299 -</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -7407,11 +7407,11 @@
     <title lang="en">Pof R Metz Reims - Ligue 1</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsXtra2.qa">
+  <programme start="20250529203000 +0000" stop="20250529211500 +0000" channel="beINSportsXtra2.qa">
     <title lang="en">Apres Match Pof R Metz Reims - Ligue 1</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20250529203000 +0000" stop="20250529211500 +0000" channel="beINSportsXtra2.qa">
+  <programme start="20250529203000 +0000" stop="20250529203000 +0000" channel="beINSportsXtra2.qa">
     <title lang="en">Apres Match Pof R Metz Reims - Ligue 1</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -10878,7 +10878,7 @@
   </programme>
   <programme start="20250529130000 +0000" stop="20250529133500 +0000" channel="C+S.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250529133500 +0000" stop="20250529154500 +0000" channel="C+S.PL">
     <title lang="fr">Girona FC - Atletico Madryt</title>
@@ -10938,7 +10938,7 @@
   </programme>
   <programme start="20250530025000 +0000" stop="20250530035000 +0000" channel="C+S.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250530040000 +0000" stop="20250530044500 +0000" channel="C+S.PL">
     <title lang="fr">Kroniki LaLiga</title>
@@ -11066,11 +11066,11 @@
   </programme>
   <programme start="20250529143000 +0000" stop="20250529153000 +0000" channel="CX1.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250529153000 +0000" stop="20250529164500 +0000" channel="CX1.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250529164500 +0000" stop="20250529191000 +0000" channel="CX1.PL">
     <title lang="fr">Paris Saint-Germain - Arsenal FC</title>
@@ -11127,15 +11127,15 @@
   </programme>
   <programme start="20250530091000 +0000" stop="20250530095000 +0000" channel="CX1.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250530095000 +0000" stop="20250530105500 +0000" channel="CX1.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250530105500 +0000" stop="20250530120000 +0000" channel="CX1.PL">
     <title lang="fr">Ligomistrzowe historie</title>
-    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11180000/A_11187634</image>
+    <image>https://thumb.canalplus.pro/http/unsafe/{resolutionXY}/filters:quality({imageQualityPercentage})/r.dcs.redcdn.pl/http/o2/n/edytorEPG/mycanal/11190000/A_11195637</image>
   </programme>
   <programme start="20250530120000 +0000" stop="20250530124000 +0000" channel="CX1.PL">
     <title lang="fr">Magazyn Ligi MistrzÃ³w UEFA z 23 maja</title>
@@ -22158,9 +22158,6 @@
   <programme start="20250530160000 +0000" stop="20250530173000 +0000" channel="nowSports1.hk">
     <title lang="en">HSBC BWF World Tour 2025 KFF SINGAPORE BADMINTON OPEN 2025 Match of The Day -QFs (B)</title>
   </programme>
-  <programme start="20250529043000 +0000" stop="20250529063000 +0000" channel="nowSports2.hk">
-    <title lang="en">LALIGA EA SPORTS 2024/2025 MD38 -Girona FC - AtlÃ©tico de Madrid</title>
-  </programme>
   <programme start="20250529063000 +0000" stop="20250529080000 +0000" channel="nowSports2.hk">
     <title lang="en">Viva LaLiga 2024/2025</title>
   </programme>
@@ -26427,12 +26424,12 @@
     <episode-num system="xmltv_ns">0.1253.0/1</episode-num>
     <episode-num system="onscreen">S01E1254</episode-num>
   </programme>
-  <programme start="20250529193000 +0000" stop="20250529205959 +0000" channel="SSC1.AR">
-    <title lang="en">TV guide is not available</title>
-  </programme>
   <programme start="20250529193000 +0000" stop="20250529211500 +0000" channel="SSC1.AR">
     <title lang="en">Saudi Pro League</title>
     <desc lang="en">This is Sport - Football Category</desc>
+  </programme>
+  <programme start="20250529193000 +0000" stop="20250529205959 +0000" channel="SSC1.AR">
+    <title lang="en">TV guide is not available</title>
   </programme>
   <programme start="20250529211500 +0000" stop="20250529230000 +0000" channel="SSC1.AR">
     <title lang="en">Saudi Pro League</title>
@@ -26807,11 +26804,11 @@
     <episode-num system="xmltv_ns">0.1253.0/1</episode-num>
     <episode-num system="onscreen">S01E1254</episode-num>
   </programme>
-  <programme start="20250529192300 +0000" stop="20250529205959 +0000" channel="SSC4.AR">
-    <title lang="en">TV guide is not available</title>
-  </programme>
   <programme start="20250529192300 +0000" stop="20250530033300 +0000" channel="SSC4.AR">
     <title lang="en">SSC</title>
+  </programme>
+  <programme start="20250529192300 +0000" stop="20250529205959 +0000" channel="SSC4.AR">
+    <title lang="en">TV guide is not available</title>
   </programme>
   <programme start="20250530033300 +0000" stop="20250530205959 +0000" channel="SSC4.AR">
     <title lang="en">TV guide is not available</title>
@@ -27110,14 +27107,14 @@
     <episode-num system="xmltv_ns">0.46.0/1</episode-num>
     <episode-num system="onscreen">S01E47</episode-num>
   </programme>
-  <programme start="20250529204600 +0000" stop="20250529205959 +0000" channel="SSCN.AR">
-    <title lang="en">TV guide is not available</title>
-  </programme>
   <programme start="20250529204600 +0000" stop="20250529213100 +0000" channel="SSCN.AR">
     <title lang="en">Formula E Preview 2024/25: Round 10 &amp; 11 - Shanghai</title>
     <desc lang="en">A preview of the thrilling 11th season of the Formula E World Championship.</desc>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
+  </programme>
+  <programme start="20250529204600 +0000" stop="20250529205959 +0000" channel="SSCN.AR">
+    <title lang="en">TV guide is not available</title>
   </programme>
   <programme start="20250529213100 +0000" stop="20250529220100 +0000" channel="SSCN.AR">
     <title lang="en">Roshn Saudi League H/L 2024/25: Al-Fateh X Al Hilal</title>
@@ -27300,103 +27297,51 @@
     <display-name>Sky Sport Top Event HD</display-name>
     <url>https://sky.de</url>
   </channel>
-  <programme start="20250528220000 +0000" stop="20250529060000 +0000" channel="D1.DE">
+  <programme start="20250529220000 +0000" stop="20250529221000 +0000" channel="D1.DE">
     <title lang="de">Sendepause</title>
     <category lang="de">Sendepause</category>
   </programme>
-  <programme start="20250529060000 +0000" stop="20250529080000 +0000" channel="D1.DE">
-    <title lang="de">Serie A: SSC Neapel - Cagliari Calcio</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529080000 +0000" stop="20250529084000 +0000" channel="D1.DE">
+  <programme start="20250529221000 +0000" stop="20250530060000 +0000" channel="D1.DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529084000 +0000" stop="20250529103000 +0000" channel="D1.DE">
-    <title lang="de">Primera DivisiÃ³n: Real Madrid - Real Sociedad San Sebastian</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529103000 +0000" stop="20250529111500 +0000" channel="D1.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529111500 +0000" stop="20250529131000 +0000" channel="D1.DE">
-    <title lang="de">UEFA Women's Champions League: FC Arsenal - FC Barcelona</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529131000 +0000" stop="20250529150500 +0000" channel="D1.DE">
-    <title lang="de">Primera DivisiÃ³n: Real Madrid - Real Sociedad San Sebastian</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529150500 +0000" stop="20250529170500 +0000" channel="D1.DE">
-    <title lang="de">Primera DivisiÃ³n: Athletic Bilbao - FC Barcelona</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529170500 +0000" stop="20250529172500 +0000" channel="D1.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529172500 +0000" stop="20250529175000 +0000" channel="D1.DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Zusammen</title>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250529175000 +0000" stop="20250529182000 +0000" channel="D1.DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: Matchplan</title>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250529182000 +0000" stop="20250529203000 +0000" channel="D1.DE">
-    <title lang="de">Play-offs 1/2: Stade Reims - FC Metz</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529203000 +0000" stop="20250529212000 +0000" channel="D1.DE">
-    <title lang="de">VfB in Team - Exklusive Blicke hinter die Kulissen des VfB Stuttgart: VfB Familie</title>
-    <category lang="de">Dokumentation</category>
-  </programme>
-  <programme start="20250529212000 +0000" stop="20250529220000 +0000" channel="D1.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529220000 +0000" stop="20250530060000 +0000" channel="D1.DE">
-    <title lang="de">Sendepause</title>
-    <category lang="de">Sendepause</category>
   </programme>
   <programme start="20250530060000 +0000" stop="20250530080000 +0000" channel="D1.DE">
-    <title lang="de">Primera DivisiÃ³n: Athletic Bilbao - FC Barcelona</title>
+    <title lang="de">Primera DivisiÃ³n: Real Madrid - Real Sociedad San Sebastian</title>
     <category lang="de">FuÃŸball</category>
   </programme>
   <programme start="20250530080000 +0000" stop="20250530083000 +0000" channel="D1.DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250530083000 +0000" stop="20250530102000 +0000" channel="D1.DE">
+  <programme start="20250530083000 +0000" stop="20250530103000 +0000" channel="D1.DE">
     <title lang="de">Serie A: SSC Neapel - Cagliari Calcio</title>
     <category lang="de">FuÃŸball</category>
   </programme>
-  <programme start="20250530102000 +0000" stop="20250530105000 +0000" channel="D1.DE">
+  <programme start="20250530103000 +0000" stop="20250530110000 +0000" channel="D1.DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <category lang="de">Sport (allgemein)</category>
   </programme>
-  <programme start="20250530105000 +0000" stop="20250530124000 +0000" channel="D1.DE">
-    <title lang="de">Premier League Darts: Playoffs - London</title>
-    <category lang="de">Darts</category>
+  <programme start="20250530110000 +0000" stop="20250530125000 +0000" channel="D1.DE">
+    <title lang="de">Primera DivisiÃ³n: Athletic Bilbao - FC Barcelona</title>
+    <category lang="de">FuÃŸball</category>
   </programme>
-  <programme start="20250530124000 +0000" stop="20250530134500 +0000" channel="D1.DE">
+  <programme start="20250530125000 +0000" stop="20250530130000 +0000" channel="D1.DE">
+    <title lang="de">Best of DAZN: Highlights</title>
+    <category lang="de">Sport (allgemein)</category>
+  </programme>
+  <programme start="20250530130000 +0000" stop="20250530145000 +0000" channel="D1.DE">
+    <title lang="de">UEFA Women's Champions League: FC Arsenal - FC Barcelona</title>
+    <category lang="de">FuÃŸball</category>
+  </programme>
+  <programme start="20250530145000 +0000" stop="20250530160000 +0000" channel="D1.DE">
     <title lang="de">Bundesliga Gameweek Highlights: 34. Spieltag</title>
     <category lang="de">Bundesliga</category>
   </programme>
-  <programme start="20250530134500 +0000" stop="20250530161500 +0000" channel="D1.DE">
-    <title lang="de">UEFA Champions League: Ultimate Champions Legend Tournament (Nur in DE verfÃ¼gbar)</title>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250530161500 +0000" stop="20250530164500 +0000" channel="D1.DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 38. Spieltag</title>
+  <programme start="20250530160000 +0000" stop="20250530170000 +0000" channel="D1.DE">
+    <title lang="de">3. Liga Highlightshow 2024/25: 38. Spieltag</title>
     <category lang="de">FuÃŸball</category>
   </programme>
-  <programme start="20250530164500 +0000" stop="20250530171500 +0000" channel="D1.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530171500 +0000" stop="20250530174500 +0000" channel="D1.DE">
+  <programme start="20250530170000 +0000" stop="20250530174500 +0000" channel="D1.DE">
     <title lang="de">UEFA Champions League: Highlights (Nur in DE verfÃ¼gbar)</title>
     <category lang="de">Sport (allgemein)</category>
   </programme>
@@ -27471,92 +27416,6 @@
   <programme start="20250529213000 +0000" stop="20250529220000 +0000" channel="D2.DE">
     <title lang="de">Best of DAZN: Highlights</title>
     <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529220000 +0000" stop="20250530060000 +0000" channel="D2.DE">
-    <title lang="de">Sendepause</title>
-    <category lang="de">Sendepause</category>
-  </programme>
-  <programme start="20250530060000 +0000" stop="20250530075000 +0000" channel="D2.DE">
-    <title lang="de">UEFA Women's Champions League: FC Arsenal - FC Barcelona</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250530075000 +0000" stop="20250530080000 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530080000 +0000" stop="20250530095000 +0000" channel="D2.DE">
-    <title lang="de">Primera DivisiÃ³n: Athletic Bilbao - FC Barcelona</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250530095000 +0000" stop="20250530103000 +0000" channel="D2.DE">
-    <title lang="de">Club Profile: International Darts Open Finale: Martin Schindler - Gerwyn Price</title>
-    <category lang="de">Sportmagazin</category>
-  </programme>
-  <programme start="20250530103000 +0000" stop="20250530104500 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530104500 +0000" stop="20250530114500 +0000" channel="D2.DE">
-    <title lang="de">Bundesliga Gameweek Highlights: 34. Spieltag</title>
-    <category lang="de">Bundesliga</category>
-  </programme>
-  <programme start="20250530114500 +0000" stop="20250530121500 +0000" channel="D2.DE">
-    <title lang="de">Serie A Highlightshow 2024/25: 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250530121500 +0000" stop="20250530124500 +0000" channel="D2.DE">
-    <title lang="de">Ligue 1 Highlightshow 2024/25: 31. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250530124500 +0000" stop="20250530130000 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530130000 +0000" stop="20250530145500 +0000" channel="D2.DE">
-    <title lang="de">Premier League Darts: Playoffs - London</title>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250530145500 +0000" stop="20250530153000 +0000" channel="D2.DE">
-    <title lang="de">PDC World Darts Championship 2025: Features: Pietreczko - Williams (3. Runde)</title>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250530153000 +0000" stop="20250530164500 +0000" channel="D2.DE">
-    <title lang="de">PDC World Darts Championship 2025: Features: Heta - Woodhouse (3. Runde)</title>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250530164500 +0000" stop="20250530170000 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530170000 +0000" stop="20250530203000 +0000" channel="D2.DE">
-    <title lang="de">European Darts Open: 1. Tag - 2. Session</title>
-    <category lang="de">Darts</category>
-  </programme>
-  <programme start="20250530203000 +0000" stop="20250530210000 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: Highlights</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250530210000 +0000" stop="20250530220000 +0000" channel="D2.DE">
-    <title lang="de">Best of DAZN: FightZone</title>
-    <category lang="de">Sport (allgemein)</category>
-  </programme>
-  <programme start="20250529154000 +0000" stop="20250529160000 +0000" channel="SS1.DE">
-    <title lang="de">Es folgt: LIVE Golf</title>
-    <category lang="de">Golf</category>
-  </programme>
-  <programme start="20250529160000 +0000" stop="20250530020000 +0000" channel="SS1.DE">
-    <title lang="de">Live Golf: US Women's Open, 1. Tag in Erin, WI (USA)</title>
-    <category lang="de">Golf</category>
-    <image>http://sky.de/static/img/program_guide/15331217_s.jpg</image>
-  </programme>
-  <programme start="20250530154000 +0000" stop="20250530160000 +0000" channel="SS1.DE">
-    <title lang="de">Es folgt: LIVE Golf</title>
-    <category lang="de">Golf</category>
-  </programme>
-  <programme start="20250530160000 +0000" stop="20250531000000 +0000" channel="SS1.DE">
-    <title lang="de">Live Golf: US Women's Open, 2. Tag in Erin, WI (USA)</title>
-    <category lang="de">Golf</category>
-    <image>http://sky.de/static/img/program_guide/15331218_s.jpg</image>
   </programme>
   <programme start="20250529000000 +0000" stop="20250529004000 +0000" channel="SSB.DE">
     <title lang="de">BL: RB Leipzig - Saison 24-25</title>
@@ -27686,446 +27545,7 @@
     <category lang="de">FuÃŸball</category>
     <image>http://sky.de/static/img/program_guide/15179855_s.jpg</image>
   </programme>
-  <programme start="20250529234000 +0000" stop="20250529235000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Best of Fernschuss-Tore</title>
-    <category lang="de">FuÃŸball</category>
-  </programme>
-  <programme start="20250529235000 +0000" stop="20250530015000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: Eintracht Braunschweig - 1. FC SaarbrÃ¼cken, Relegation, RÃ¼ckspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179856_s.jpg</image>
-  </programme>
-  <programme start="20250530015000 +0000" stop="20250530020000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Best of Jamal Musiala</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14844483_s.jpg</image>
-  </programme>
-  <programme start="20250530020000 +0000" stop="20250530040000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SV Elversberg - 1. FC Heidenheim, Relegation, RÃ¼ckspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179855_s.jpg</image>
-  </programme>
-  <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250530050000 +0000" stop="20250530070000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: 1. FC SaarbrÃ¼cken - Eintracht Braunschweig, Relegation, Hinspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179854_s.jpg</image>
-  </programme>
-  <programme start="20250530070000 +0000" stop="20250530090000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: Eintracht Braunschweig - 1. FC SaarbrÃ¼cken, Relegation, RÃ¼ckspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179856_s.jpg</image>
-  </programme>
-  <programme start="20250530090000 +0000" stop="20250530094000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: Eintracht Braunschweig - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369578_s.jpg</image>
-  </programme>
-  <programme start="20250530094000 +0000" stop="20250530104000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250530104000 +0000" stop="20250530112000 +0000" channel="SSB.DE">
-    <title lang="de">BL: 1. FC Heidenheim - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369541_s.jpg</image>
-  </programme>
-  <programme start="20250530112000 +0000" stop="20250530120000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: SV Elversberg - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369580_s.jpg</image>
-  </programme>
-  <programme start="20250530120000 +0000" stop="20250530140000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SV Elversberg - 1. FC Heidenheim, Relegation, RÃ¼ckspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179855_s.jpg</image>
-  </programme>
-  <programme start="20250530140000 +0000" stop="20250530143000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: Fortuna fÃ¼r alle. Wem gehÃ¶rt der FuÃŸball?</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15426219_s.jpg</image>
-  </programme>
-  <programme start="20250530143000 +0000" stop="20250530151000 +0000" channel="SSB.DE">
-    <title lang="de">BL: RB Leipzig - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369517_s.jpg</image>
-  </programme>
-  <programme start="20250530151000 +0000" stop="20250530155000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Borussia M'gladbach - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369524_s.jpg</image>
-  </programme>
-  <programme start="20250530155000 +0000" stop="20250530165000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250530165000 +0000" stop="20250530173000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Werder Bremen - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369527_s.jpg</image>
-  </programme>
-  <programme start="20250530173000 +0000" stop="20250530180000 +0000" channel="SSB.DE">
-    <title lang="de">FuÃŸball: Spielmacher - Der FuÃŸball-Vodcast mit Sebastian Hellmann (Gast: Matthias Sammer)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15070197_s.jpg</image>
-  </programme>
-  <programme start="20250530180000 +0000" stop="20250530183000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Das Ruhrgebiet - Herz des deutschen FuÃŸballs (3)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15100195_s.jpg</image>
-  </programme>
-  <programme start="20250530183000 +0000" stop="20250530190000 +0000" channel="SSB.DE">
-    <title lang="de">BL: Das Ruhrgebiet - Herz des deutschen FuÃŸballs (4)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15100229_s.jpg</image>
-  </programme>
-  <programme start="20250530190000 +0000" stop="20250530210000 +0000" channel="SSB.DE">
-    <title lang="de">BL: SV Elversberg - 1. FC Heidenheim, Relegation, RÃ¼ckspiel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15179855_s.jpg</image>
-  </programme>
-  <programme start="20250530210000 +0000" stop="20250530214000 +0000" channel="SSB.DE">
-    <title lang="de">BL: 1. FC Heidenheim - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369541_s.jpg</image>
-  </programme>
-  <programme start="20250530214000 +0000" stop="20250530222000 +0000" channel="SSB.DE">
-    <title lang="de">2. BL: SV Elversberg - Saison 24-25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15369580_s.jpg</image>
-  </programme>
-  <programme start="20250528221500 +0000" stop="20250528231500 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15075054_s.jpg</image>
-  </programme>
-  <programme start="20250528231500 +0000" stop="20250528233000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Series Rewind FLA-TBL (1. Runde)</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15464053_s.jpg</image>
-  </programme>
-  <programme start="20250528233000 +0000" stop="20250529000000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Series Rewind FLA-TOR (2. Runde)</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15464042_s.jpg</image>
-  </programme>
-  <programme start="20250529000000 +0000" stop="20250529030500 +0000" channel="SSM.DE">
-    <title lang="de">Live NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186656_s.jpg</image>
-  </programme>
-  <programme start="20250529030500 +0000" stop="20250529033000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Polen! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074851_s.jpg</image>
-  </programme>
-  <programme start="20250529033000 +0000" stop="20250529041500 +0000" channel="SSM.DE">
-    <title lang="de">World Surf League: Replay: Bonsoy Gold Coast Pro Finals Day</title>
-    <category lang="de">Surfen</category>
-    <image>http://sky.de/static/img/program_guide/15068068_s.jpg</image>
-  </programme>
-  <programme start="20250529041500 +0000" stop="20250529050000 +0000" channel="SSM.DE">
-    <title lang="de">World Surf League: Highlights 2025 Rip Curl Pro Bells Beach</title>
-    <category lang="de">Talk</category>
-    <image>http://sky.de/static/img/program_guide/14923654_s.jpg</image>
-  </programme>
-  <programme start="20250529050000 +0000" stop="20250529070000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186656_s.jpg</image>
-  </programme>
-  <programme start="20250529070000 +0000" stop="20250529073000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Niederlande! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074847_s.jpg</image>
-  </programme>
-  <programme start="20250529073000 +0000" stop="20250529080000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Portugal! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074854_s.jpg</image>
-  </programme>
-  <programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Polen! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074851_s.jpg</image>
-  </programme>
-  <programme start="20250529083000 +0000" stop="20250529090000 +0000" channel="SSM.DE">
-    <title lang="de">Frauen-BL: Alle Spiele, alle Tore, 22. Spieltag, komplett - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15046719_s.jpg</image>
-  </programme>
-  <programme start="20250529090000 +0000" stop="20250529091500 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Highlights FLA@CAR, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186705_s.jpg</image>
-  </programme>
-  <programme start="20250529091500 +0000" stop="20250529094500 +0000" channel="SSM.DE">
-    <title lang="de">Meine Geschichte: Das Leben von Fredi Bobic</title>
-    <category lang="de">Dokumentation</category>
-    <image>http://sky.de/static/img/program_guide/14906250_s.jpg</image>
-  </programme>
-  <programme start="20250529094500 +0000" stop="20250529114500 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186656_s.jpg</image>
-  </programme>
-  <programme start="20250529114500 +0000" stop="20250529120000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Highlights FLA@CAR, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186705_s.jpg</image>
-  </programme>
-  <programme start="20250529120000 +0000" stop="20250529130000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15075055_s.jpg</image>
-  </programme>
-  <programme start="20250529130000 +0000" stop="20250529140000 +0000" channel="SSM.DE">
-    <title lang="de">3. Liga: Alle Spiele, alle Tore, 38. Spieltag komplett - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15101091_s.jpg</image>
-  </programme>
-  <programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Portugal! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074854_s.jpg</image>
-  </programme>
-  <programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Polen! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074851_s.jpg</image>
-  </programme>
-  <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Argentinien! Alle Tore</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15392858_s.jpg</image>
-  </programme>
-  <programme start="20250529153000 +0000" stop="20250529163000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15075055_s.jpg</image>
-  </programme>
-  <programme start="20250529163000 +0000" stop="20250529173000 +0000" channel="SSM.DE">
-    <title lang="de">MotoGP: Rennen - GP GroÃŸbritannien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180285_s.jpg</image>
-  </programme>
-  <programme start="20250529173000 +0000" stop="20250529200000 +0000" channel="SSM.DE">
-    <title lang="de">DFB-Pokal: Arminia Bielefeld - VfB Stuttgart, Finale 2025 in Berlin</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14906262_s.jpg</image>
-  </programme>
-  <programme start="20250529200000 +0000" stop="20250529203000 +0000" channel="SSM.DE">
-    <title lang="de">DFB-Pokal: Arminia - von der Alm nach Berlin</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15429428_s.jpg</image>
-  </programme>
-  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Argentinien! Alle Tore</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15392858_s.jpg</image>
-  </programme>
-  <programme start="20250529210000 +0000" stop="20250529230000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Carolina Hurricanes - Florida Panthers, Eastern Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186656_s.jpg</image>
-  </programme>
-  <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15075055_s.jpg</image>
-  </programme>
-  <programme start="20250530000000 +0000" stop="20250530030000 +0000" channel="SSM.DE">
-    <title lang="de">Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250530030000 +0000" stop="20250530040000 +0000" channel="SSM.DE">
-    <title lang="de">MotoGP: Sprint - GP GroÃŸbritannien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180314_s.jpg</image>
-  </programme>
-  <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="SSM.DE">
-    <title lang="de">MotoGP: Rennen - GP GroÃŸbritannien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180285_s.jpg</image>
-  </programme>
-  <programme start="20250530050000 +0000" stop="20250530070000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250530070000 +0000" stop="20250530080000 +0000" channel="SSM.DE">
-    <title lang="de">WRC: Highlights: Vodafone Rally de Portugal</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15106428_s.jpg</image>
-  </programme>
-  <programme start="20250530080000 +0000" stop="20250530090000 +0000" channel="SSM.DE">
-    <title lang="de">MotoGP: Highlights: GP GroÃŸbritannien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15026666_s.jpg</image>
-  </programme>
-  <programme start="20250530090000 +0000" stop="20250530091500 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Highlights EDM@DAL, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186706_s.jpg</image>
-  </programme>
-  <programme start="20250530091500 +0000" stop="20250530100000 +0000" channel="SSM.DE">
-    <title lang="de">World Surf League: Highlights 2025 Rip Curl Pro Bells Beach</title>
-    <category lang="de">Talk</category>
-    <image>http://sky.de/static/img/program_guide/14923654_s.jpg</image>
-  </programme>
-  <programme start="20250530100000 +0000" stop="20250530120000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250530120000 +0000" stop="20250530130000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186683_s.jpg</image>
-  </programme>
-  <programme start="20250530130000 +0000" stop="20250530153000 +0000" channel="SSM.DE">
-    <title lang="de">DFB-Pokal Frauen: FC Bayern MÃ¼nchen - Werder Bremen, Finale 2025 in KÃ¶ln</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14931997_s.jpg</image>
-  </programme>
-  <programme start="20250530153000 +0000" stop="20250530173000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250530173000 +0000" stop="20250530183000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186683_s.jpg</image>
-  </programme>
-  <programme start="20250530183000 +0000" stop="20250530190000 +0000" channel="SSM.DE">
-    <title lang="de">FuÃŸball: scooore Polen! Alle Tore - letzter Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15074851_s.jpg</image>
-  </programme>
-  <programme start="20250530190000 +0000" stop="20250530200000 +0000" channel="SSM.DE">
-    <title lang="de">WRC: Highlights: Vodafone Rally de Portugal</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15106428_s.jpg</image>
-  </programme>
-  <programme start="20250530200000 +0000" stop="20250530210000 +0000" channel="SSM.DE">
-    <title lang="de">MotoGP: Highlights: GP GroÃŸbritannien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15026666_s.jpg</image>
-  </programme>
-  <programme start="20250530210000 +0000" stop="20250530230000 +0000" channel="SSM.DE">
-    <title lang="de">NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250529000000 +0000" stop="20250529003000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: Primetime Spezial - Trainer-Roulette: Wer Ã¼bernimmt wen?</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/15446952_s.jpg</image>
-  </programme>
-  <programme start="20250529003000 +0000" stop="20250529010000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: Nightline</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094135_s.jpg</image>
-  </programme>
-  <programme start="20250529010000 +0000" stop="20250529013000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: So denken die Fans.... Das FuÃŸball-Barometer</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/15180274_s.jpg</image>
-  </programme>
-  <programme start="20250529013000 +0000" stop="20250529020000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: Nightline</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094135_s.jpg</image>
-  </programme>
-  <programme start="20250529020000 +0000" stop="20250529040000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: Nightline</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094135_s.jpg</image>
-  </programme>
-  <programme start="20250529040000 +0000" stop="20250529090000 +0000" channel="SSN.DE">
-    <title lang="de">Sky Sport News: Der Morgen</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094126_s.jpg</image>
-  </programme>
-  <programme start="20250529090000 +0000" stop="20250529100000 +0000" channel="SSN.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250529100000 +0000" stop="20250529130000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Der Mittag</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094127_s.jpg</image>
-  </programme>
-  <programme start="20250529130000 +0000" stop="20250529143000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Der Nachmittag</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094128_s.jpg</image>
-  </programme>
-  <programme start="20250529143000 +0000" stop="20250529144500 +0000" channel="SSN.DE">
-    <title lang="de">Live F1: Warm Up - Das Motorsport Spezial</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/15180236_s.jpg</image>
-  </programme>
-  <programme start="20250529144500 +0000" stop="20250529150000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Der Nachmittag</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094128_s.jpg</image>
-  </programme>
-  <programme start="20250529150000 +0000" stop="20250529160000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Der Nachmittag</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094128_s.jpg</image>
-  </programme>
-  <programme start="20250529160000 +0000" stop="20250529180000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Primetime</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094132_s.jpg</image>
-  </programme>
-  <programme start="20250529180000 +0000" stop="20250529190000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Guten Abend Fans!</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094134_s.jpg</image>
-  </programme>
-  <programme start="20250529190000 +0000" stop="20250529200000 +0000" channel="SSN.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250529200000 +0000" stop="20250529203000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Guten Abend Fans!</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094134_s.jpg</image>
-  </programme>
-  <programme start="20250529203000 +0000" stop="20250529204500 +0000" channel="SSN.DE">
-    <title lang="de">F1: Warm Up - Das Motorsport Spezial</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/15180236_s.jpg</image>
-  </programme>
-  <programme start="20250529204500 +0000" stop="20250529210000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Guten Abend Fans!</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/14094134_s.jpg</image>
-  </programme>
-  <programme start="20250529210000 +0000" stop="20250529220000 +0000" channel="SSN.DE">
-    <title lang="de">Live Sky Sport News: Late Night News</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/12442501_s.jpg</image>
-  </programme>
-  <programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="SSN.DE">
-    <title lang="de">FuÃŸball: Spielmacher - Der FuÃŸball-Vodcast mit Sebastian Hellmann (Gast: Toni Kroos)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15346005_s.jpg</image>
-  </programme>
-  <programme start="20250529223000 +0000" stop="20250530040000 +0000" channel="SSN.DE">
+  <programme start="20250529220000 +0000" stop="20250530040000 +0000" channel="SSN.DE">
     <title lang="de">Sky Sport News: Nightline</title>
     <category lang="de">Sport (allgemein)</category>
     <image>http://sky.de/static/img/program_guide/14094135_s.jpg</image>
@@ -28145,15 +27565,10 @@
     <category lang="de">Sport (allgemein)</category>
     <image>http://sky.de/static/img/program_guide/14094126_s.jpg</image>
   </programme>
-  <programme start="20250530090000 +0000" stop="20250530093000 +0000" channel="SSN.DE">
+  <programme start="20250530090000 +0000" stop="20250530100000 +0000" channel="SSN.DE">
     <title lang="de">Sky Sport News: Der Morgen</title>
     <category lang="de">Sport (allgemein)</category>
     <image>http://sky.de/static/img/program_guide/14094126_s.jpg</image>
-  </programme>
-  <programme start="20250530093000 +0000" stop="20250530100000 +0000" channel="SSN.DE">
-    <title lang="de">FuÃŸball: Spielmacher - Der FuÃŸball-Vodcast mit Sebastian Hellmann (Gast: Toni Kroos)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15346005_s.jpg</image>
   </programme>
   <programme start="20250530100000 +0000" stop="20250530130000 +0000" channel="SSN.DE">
     <title lang="de">Live Sky Sport News: Der Mittag</title>
@@ -28229,221 +27644,6 @@
     <title lang="de">Live Sky Sport News: Late Night News</title>
     <category lang="de">Sport (allgemein)</category>
     <image>http://sky.de/static/img/program_guide/12442501_s.jpg</image>
-  </programme>
-  <programme start="20250528220000 +0000" stop="20250528223000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Box2Box - Dein RÃ¼ckblick</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183393_s.jpg</image>
-  </programme>
-  <programme start="20250528223000 +0000" stop="20250528233000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Champion's Story)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15406500_s.jpg</image>
-  </programme>
-  <programme start="20250528233000 +0000" stop="20250529003000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Moments: Thierry Henry's Top 10</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14572448_s.jpg</image>
-  </programme>
-  <programme start="20250529003000 +0000" stop="20250529013000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: GOATS (Wayne Rooney)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14562596_s.jpg</image>
-  </programme>
-  <programme start="20250529013000 +0000" stop="20250529023000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: GOATS (German Stars)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14758874_s.jpg</image>
-  </programme>
-  <programme start="20250529023000 +0000" stop="20250529033000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: GOATS (Alan Shearer's Top 10 Strikers)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14428050_s.jpg</image>
-  </programme>
-  <programme start="20250529033000 +0000" stop="20250529040000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Club 100: Ian Wright</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/13308431_s.jpg</image>
-  </programme>
-  <programme start="20250529040000 +0000" stop="20250529050000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Review, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183405_s.jpg</image>
-  </programme>
-  <programme start="20250529050000 +0000" stop="20250529053000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: FUL - MCI, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183394_s.jpg</image>
-  </programme>
-  <programme start="20250529053000 +0000" stop="20250529060000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Goodbye Goodison)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183056_s.jpg</image>
-  </programme>
-  <programme start="20250529060000 +0000" stop="20250529063000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: NFO - CHE, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183399_s.jpg</image>
-  </programme>
-  <programme start="20250529063000 +0000" stop="20250529064500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Last Gasp - S. Aguero wins Manchester City's first Title</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/13478297_s.jpg</image>
-  </programme>
-  <programme start="20250529064500 +0000" stop="20250529071500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: NEW - EVE, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183400_s.jpg</image>
-  </programme>
-  <programme start="20250529071500 +0000" stop="20250529073000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Under the Skin (Ipswich Town)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14676927_s.jpg</image>
-  </programme>
-  <programme start="20250529073000 +0000" stop="20250529080000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Box2Box - Dein RÃ¼ckblick</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183393_s.jpg</image>
-  </programme>
-  <programme start="20250529080000 +0000" stop="20250529083000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: MUN - AVL, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183401_s.jpg</image>
-  </programme>
-  <programme start="20250529083000 +0000" stop="20250529084500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Under the Skin (Brighton &amp; Hove Albion)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14353979_s.jpg</image>
-  </programme>
-  <programme start="20250529084500 +0000" stop="20250529091500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Chris Wood)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15057763_s.jpg</image>
-  </programme>
-  <programme start="20250529091500 +0000" stop="20250529094500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: BOU - LEI, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183406_s.jpg</image>
-  </programme>
-  <programme start="20250529094500 +0000" stop="20250529101500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: IPS - WHU, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183407_s.jpg</image>
-  </programme>
-  <programme start="20250529101500 +0000" stop="20250529103000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Under the Skin (Aston Villa)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14572229_s.jpg</image>
-  </programme>
-  <programme start="20250529103000 +0000" stop="20250529110000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Arsene Who?)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15048023_s.jpg</image>
-  </programme>
-  <programme start="20250529110000 +0000" stop="20250529113000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: SOU - ARS, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183408_s.jpg</image>
-  </programme>
-  <programme start="20250529113000 +0000" stop="20250529120000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: TOT - BRI, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183409_s.jpg</image>
-  </programme>
-  <programme start="20250529120000 +0000" stop="20250529121500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Under the Skin (Tottenham Hotspur)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/14866095_s.jpg</image>
-  </programme>
-  <programme start="20250529121500 +0000" stop="20250529124500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Box2Box - Dein RÃ¼ckblick</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183393_s.jpg</image>
-  </programme>
-  <programme start="20250529124500 +0000" stop="20250529131500 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: WOL - BRE, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183410_s.jpg</image>
-  </programme>
-  <programme start="20250529131500 +0000" stop="20250529133000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Raw: Champions!</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15373893_s.jpg</image>
-  </programme>
-  <programme start="20250529133000 +0000" stop="20250529140000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: FUL - MCI, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183394_s.jpg</image>
-  </programme>
-  <programme start="20250529140000 +0000" stop="20250529143000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: NFO - CHE, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183399_s.jpg</image>
-  </programme>
-  <programme start="20250529143000 +0000" stop="20250529150000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Rewind: Les Ferdinand (Newcastle 1995/96)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15037105_s.jpg</image>
-  </programme>
-  <programme start="20250529150000 +0000" stop="20250529153000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Goodbye Goodison)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183056_s.jpg</image>
-  </programme>
-  <programme start="20250529153000 +0000" stop="20250529160000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: LIV - CRY, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183335_s.jpg</image>
-  </programme>
-  <programme start="20250529160000 +0000" stop="20250529163000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: MUN - AVL, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183401_s.jpg</image>
-  </programme>
-  <programme start="20250529163000 +0000" stop="20250529170000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: SOU - ARS, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183408_s.jpg</image>
-  </programme>
-  <programme start="20250529170000 +0000" stop="20250529173000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Box2Box - Dein RÃ¼ckblick</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183393_s.jpg</image>
-  </programme>
-  <programme start="20250529173000 +0000" stop="20250529183000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Review, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183405_s.jpg</image>
-  </programme>
-  <programme start="20250529183000 +0000" stop="20250529190000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: LIV - CRY, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183335_s.jpg</image>
-  </programme>
-  <programme start="20250529190000 +0000" stop="20250529200000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Stories (Champion's Story)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15406500_s.jpg</image>
-  </programme>
-  <programme start="20250529200000 +0000" stop="20250529203000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: 90in30: SOU - ARS, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183408_s.jpg</image>
-  </programme>
-  <programme start="20250529203000 +0000" stop="20250529210000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: Box2Box - Dein RÃ¼ckblick</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183393_s.jpg</image>
-  </programme>
-  <programme start="20250529210000 +0000" stop="20250529213000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Rewind: Peter Schmeichel</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15073078_s.jpg</image>
-  </programme>
-  <programme start="20250529213000 +0000" stop="20250529220000 +0000" channel="SSPL.DE">
-    <title lang="de">PL: PL Rewind: Slaven Bilic - My West Ham Years</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15026640_s.jpg</image>
   </programme>
   <programme start="20250529220000 +0000" stop="20250529223000 +0000" channel="SSPL.DE">
     <title lang="de">PL: PL Rewind: Dimitar Berbatov (Man United 2010/11)</title>
@@ -28720,116 +27920,6 @@
     <title lang="de">Live Golf: The Memorial Tournament presented by Workday, 1. Tag in Dublin, OH (USA)</title>
     <category lang="de">Golf</category>
     <image>http://sky.de/static/img/program_guide/15325779_s.jpg</image>
-  </programme>
-  <programme start="20250529220000 +0000" stop="20250529230000 +0000" channel="SSTE.DE">
-    <title lang="de">PL: PL Stories (Champion's Story)</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15406500_s.jpg</image>
-  </programme>
-  <programme start="20250529230000 +0000" stop="20250530000000 +0000" channel="SSTE.DE">
-    <title lang="de">NHL: NHL Tonight - Stanley Cup Conference Final Edition</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15075055_s.jpg</image>
-  </programme>
-  <programme start="20250530000000 +0000" stop="20250530030000 +0000" channel="SSTE.DE">
-    <title lang="de">Live NHL: Dallas Stars - Edmonton Oilers, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186675_s.jpg</image>
-  </programme>
-  <programme start="20250530030000 +0000" stop="20250530040000 +0000" channel="SSTE.DE">
-    <title lang="de">Ferrari Challenge Europe: Coppa Shell &amp; 488 - 1. Rennen in Hockenheim</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180230_s.jpg</image>
-  </programme>
-  <programme start="20250530040000 +0000" stop="20250530050000 +0000" channel="SSTE.DE">
-    <title lang="de">Ferrari Challenge Europe: Coppa Shell &amp; 488 - 2. Rennen in Hockenheim</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180233_s.jpg</image>
-  </programme>
-  <programme start="20250530050000 +0000" stop="20250530060000 +0000" channel="SSTE.DE">
-    <title lang="de">PMSC: Rennen - GP Monaco</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180184_s.jpg</image>
-  </programme>
-  <programme start="20250530060000 +0000" stop="20250530065500 +0000" channel="SSTE.DE">
-    <title lang="de">PL: Review, 38. Spieltag</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15183405_s.jpg</image>
-  </programme>
-  <programme start="20250530065500 +0000" stop="20250530075500 +0000" channel="SSTE.DE">
-    <title lang="de">BL: SaisonrÃ¼ckblick 2024/25</title>
-    <category lang="de">FuÃŸball</category>
-    <image>http://sky.de/static/img/program_guide/15202229_s.jpg</image>
-  </programme>
-  <programme start="20250530075500 +0000" stop="20250530085000 +0000" channel="SSTE.DE">
-    <title lang="de">Live F3: Training - GP Spanien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180275_s.jpg</image>
-  </programme>
-  <programme start="20250530085000 +0000" stop="20250530090500 +0000" channel="SSTE.DE">
-    <title lang="de">Chasing the Dream: 5. Episode</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15013636_s.jpg</image>
-  </programme>
-  <programme start="20250530090500 +0000" stop="20250530100000 +0000" channel="SSTE.DE">
-    <title lang="de">Live F2: Training - GP Spanien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180276_s.jpg</image>
-  </programme>
-  <programme start="20250530100000 +0000" stop="20250530101500 +0000" channel="SSTE.DE">
-    <title lang="de">F1: Warm Up - Das Motorsport Spezial</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/15180236_s.jpg</image>
-  </programme>
-  <programme start="20250530101500 +0000" stop="20250530103000 +0000" channel="SSTE.DE">
-    <title lang="de">NHL: Highlights EDM@DAL, Western Conference Final, Spiel 5</title>
-    <category lang="de">Eishockey</category>
-    <image>http://sky.de/static/img/program_guide/15186706_s.jpg</image>
-  </programme>
-  <programme start="20250530103000 +0000" stop="20250530111500 +0000" channel="SSTE.DE">
-    <title lang="de">Live Golf: Austrian Alpine Open presented by SalzburgerLand, 2. Tag in Salzburg (Ã–sterreich)</title>
-    <category lang="de">Sport (allgemein)</category>
-    <image>http://sky.de/static/img/program_guide/15325745_s.jpg</image>
-  </programme>
-  <programme start="20250530111500 +0000" stop="20250530130000 +0000" channel="SSTE.DE">
-    <title lang="de">Live F1: 1. Freies Training - GP Spanien</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/15180277_s.jpg</image>
-  </programme>
-  <programme start="20250530130000 +0000" stop="20250530134000 +0000" channel="SSTE.DE">
-    <title lang="de">Live F3: Qualifying - GP Spanien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180279_s.jpg</image>
-  </programme>
-  <programme start="20250530134000 +0000" stop="20250530135500 +0000" channel="SSTE.DE">
-    <title lang="de">Chasing the Dream: 5. Episode</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15013636_s.jpg</image>
-  </programme>
-  <programme start="20250530135500 +0000" stop="20250530143500 +0000" channel="SSTE.DE">
-    <title lang="de">Live F2: Qualifying - GP Spanien</title>
-    <category lang="de">Motorsport</category>
-    <image>http://sky.de/static/img/program_guide/15180280_s.jpg</image>
-  </programme>
-  <programme start="20250530143500 +0000" stop="20250530144500 +0000" channel="SSTE.DE">
-    <title lang="de">F1: Greatest Races: G. Berger / Deutschland 1994</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/12148922_s.jpg</image>
-  </programme>
-  <programme start="20250530144500 +0000" stop="20250530163000 +0000" channel="SSTE.DE">
-    <title lang="de">Live F1: 2. Freies Training - GP Spanien</title>
-    <category lang="de">Formel 1</category>
-    <image>http://sky.de/static/img/program_guide/15180281_s.jpg</image>
-  </programme>
-  <programme start="20250530163000 +0000" stop="20250530180000 +0000" channel="SSTE.DE">
-    <title lang="de">Live Golf: The Memorial Tournament presented by Workday, 2. Tag (Early Coverage)</title>
-    <category lang="de">Golf</category>
-    <image>http://sky.de/static/img/program_guide/15325780_s.jpg</image>
-  </programme>
-  <programme start="20250530180000 +0000" stop="20250530220000 +0000" channel="SSTE.DE">
-    <title lang="de">Live Golf: The Memorial Tournament presented by Workday, 2. Tag in Dublin, OH (USA)</title>
-    <category lang="de">Golf</category>
-    <image>http://sky.de/static/img/program_guide/15325781_s.jpg</image>
   </programme>
   <channel id="HubPremier1.sg">
     <display-name>Hub Premier 1</display-name>
