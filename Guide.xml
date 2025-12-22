@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
+  <channel id="5555">
+    <display-name lang="en">beIN SPORTS MAX 1</display-name>
+  </channel>
+  <programme start="20251222054500 +0300" stop="20251222061500 +0300" channel="5555">
+    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Mini Match</title>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222061500 +0300" stop="20251222063000 +0300" channel="5555">
+    <title lang="en">"ADLENE GUEDIOURAChampions" - Afcon 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222063000 +0300" stop="20251222113000 +0300" channel="5555">
+    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">This will be the second meeting between Morocco and Comoros at the CAF Africa Cup of Nations. Their only previous encounter produced a 2-0 Morocco victory, in the group stages in January 2022. This is Comoros’ second appearance at the CAF Africa Cup of Nations. Their inaugural participation was in 2022 – they lost three of their four matches but nevertheless reached the round of 16 where they were knocked out by hosts Cameroon.</desc>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222113000 +0300" stop="20251222130000 +0300" channel="5555">
+    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222130000 +0300" stop="20251222133000 +0300" channel="5555">
+    <title lang="en">Stadium Prince Moulay Abdellah, the New Jewel - Afcon 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222133000 +0300" stop="20251222134500 +0300" channel="5555">
+    <title lang="en">"AHMED ELMOHAMADYThe Three Peat" - Afcon 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222134500 +0300" stop="20251222140000 +0300" channel="5555">
+    <title lang="en">"ADLENE GUEDIOURAChampions" - Afcon 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222140000 +0300" stop="20251222143000 +0300" channel="5555">
+    <title lang="en">Teams Egypt</title>
+    <desc lang="en">What are the ambitions of Egypt for AFCON 2025 ?</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222143000 +0300" stop="20251222150000 +0300" channel="5555">
+    <title lang="en">Teams Morocco</title>
+    <desc lang="en">What are the ambitions of Morocco for AFCON 2025 ?</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222150000 +0300" stop="20251222153000 +0300" channel="5555">
+    <title lang="en">Road to Afcon Egypt</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222153000 +0300" stop="20251222170000 +0300" channel="5555">
+    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222170000 +0300" stop="20251222173000 +0300" channel="5555">
+    <title lang="en">Teams Algeria</title>
+    <desc lang="en">What are the ambitions of Algeria for AFCON 2025 ?</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222173000 +0300" stop="20251222180000 +0300" channel="5555">
+    <title lang="en">Stadium Prince Moulay Abdellah, the New Jewel - Afcon 2025</title>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222180000 +0300" stop="20251222183000 +0300" channel="5555">
+    <title lang="en">Teams Egypt</title>
+    <desc lang="en">What are the ambitions of Egypt for AFCON 2025 ?</desc>
+    <category lang="en">Sports General</category>
+  </programme>
+  <programme start="20251222183000 +0300" stop="20251222190000 +0300" channel="5555">
+    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Mini Match</title>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222190000 +0300" stop="20251222223000 +0300" channel="5555">
+    <title lang="en">Mali vs Zambia - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">Mali conceded only one goal in their six qualifying matches for the 2025 AFCON, the joint-best defensive total alongside Senegal. This is Zambia’s 19th appearance at the CAF Africa Cup of Nations. The Chipolopolo won the title in 2012, beating Côte d’Ivoire on penalties after a goalless final..</desc>
+    <category lang="en">Live</category>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251222223000 +0300" stop="20251223011500 +0300" channel="5555">
+    <title lang="en">South Africa vs Angola - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">South Africa are unbeaten against Angola at the CAF Africa Cup of Nations. They will be meeting for the fifth time at the tournament, all in the group stages. This is South Africa’s 12th participation in the CAF Africa Cup of Nations. They won AFCON on their debut, back in 1996.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251223011500 +0300" stop="20251223043000 +0300" channel="5555">
+    <title lang="en">Egypt vs Zimbabwe - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">This will be the third AFCON encounter between Egypt and Zimbabwe, with each of them taking place in North Africa. The two previous meetings produced Egyptian victories, both in the group stages: 2004 and 2019. This is Egypt’s 27th appearance at the CAF Africa Cup of Nations, a record in the history of the tournament. They have won it seven times – more than any other side – and have also reached the final in five of their last seven participations.</desc>
+    <category lang="en">Live</category>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+  <programme start="20251223043000 +0300" stop="20251223060000 +0300" channel="5555">
+    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
+    <desc lang="en">Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+    <category lang="en">Live</category>
+    <category lang="en">African Cup Of Nations</category>
+  </programme>
+</tv>
