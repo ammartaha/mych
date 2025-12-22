@@ -1,120 +1,278 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="Tempest EPG Generator (made by Kvanc)" generator-info-url="https://github.com/K-vanc/Tempest-EPG-Generator.git">
   <channel id="5555">
-    <display-name lang="en">beIN SPORTS MAX 1</display-name>
+    <display-name lang="fr">BEIN SPORTS 1</display-name>
   </channel>
-  <programme start="20251222054500 +0300" stop="20251222061500 +0300" channel="5555">
-    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Mini Match</title>
-    <desc lang="en">African Cup Of Nations
+  <programme start="20251222080000 +0300" stop="20251222100000 +0300" channel="5555">
+    <title lang="fr">Lyon / FC Saint-Cyr Collonges</title>
+    <desc lang="fr">Competition : Coupe de France - 32e de finale.
+Category : Sport-Football
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-</desc>
+Deux divisions- deux réalités- un même terrain : le Groupama Stadium s’apprête à accueillir un face-à-face aussi déséquilibré que symbolique en Coupe de France. Cinquième de Ligue 1 et leader de la phase de ligue de l’Europa League- l’Olympique Lyonnais avance avec constance et confiance. Quelques ajustements sont attendus- notamment dans les cages où Descamps pourrait suppléer Greif. Mais le socle restera solide- avec des cadres offensifs comme Sulc et Tolisso- En face- Saint-Cyr Collonges savoure avant tout l’événement. Pensionnaire de Régional 1- le club lyonnais vit déjà une aventure exceptionnelle en foulant la pelouse du Groupama Stadium. L’écart de niveau est immense et le groupe apparaît logiquement limité face à l’armada lyonnaise. Le défenseur Lionel Zouma- frère de Kurt- constitue l’un des rares noms identifiables côté visiteurs- mais la mission s’annonce avant tout symbolique : résister- apprendre et profiter d’un moment unique face à un cador du football français.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502583/canal-ouah/STD169/myCANAL_16x9_sport_1920x1080-2025-12-09T102954.200-M9fp"/>
   </programme>
-  <programme start="20251222061500 +0300" stop="20251222063000 +0300" channel="5555">
-    <title lang="en">"ADLENE GUEDIOURAChampions" - Afcon 2025</title>
-    <desc lang="en">Sports General
+  <programme start="20251222100000 +0300" stop="20251222120000 +0300" channel="5555">
+    <title lang="fr">Maroc / Comores</title>
+    <desc lang="fr">Competition : Coupe d'Afrique des nations - 1r....
+Category : Sport-Football
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-</desc>
+Cinquante ans après son unique sacre- le Maroc débute sa CAN face aux Comores. Portés par un public incandescent et une dynamique exceptionnelle- les Lions de l’Atlas ont une seule idée en tête : transformer l’attente en délivrance et inscrire 2025 dans la légende du football marocain. Walid Regragui a construit une équipe parfaitement équilibrée entre vétérans et jeunes loups. Yassine Bounou- Achraf Hakimi- meilleur latéral droit du monde- Sofyan Amrabat- guerrier du milieu- et Youssef En-Nesyri- attaquant fétiche- incarnent l’expérience et le leadership. À leurs côtés- Bilal El Khannouss- Neil El Aynaoui- Azzedine Ounahi et Brahim Diaz apportent fraîcheur et audace. En face- les Comores abordent cette CAN avec humilité. Rafiki Saïd apporte son explosivité tandis que Yannick Pandor et Youssouf M’Changama incarnent la solidité. Face à son public et pour lancer idéalement la compétition- le Maroc n’a pas droit à l’erreur- alors que les Comores rêvent de créer la surprise.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502643/canal-ouah/STD169/1313724_1_S16_CAFAfricaCupofNations2025-2026-J1Maroc-Comores-21-12-25-N6Fc"/>
   </programme>
-  <programme start="20251222063000 +0300" stop="20251222113000 +0300" channel="5555">
-    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">African Cup Of Nations
+  <programme start="20251222120000 +0300" stop="20251222123000 +0300" channel="5555">
+    <title lang="fr">Terrains d'espoirs</title>
+    <desc lang="fr">Competition : FOOTBALL - TERRAINS D'ESPOIRS.
+Category : Sport-Doc Sport
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-This will be the second meeting between Morocco and Comoros at the CAF Africa Cup of Nations. Their only previous encounter produced a 2-0 Morocco victory, in the group stages in January 2022. This is Comoros’ second appearance at the CAF Africa Cup of Nations. Their inaugural participation was in 2022 – they lost three of their four matches but nevertheless reached the round of 16 where they were knocked out by hosts Cameroon.</desc>
+beIN SPORTS- le plus grand des spectacles</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/media.prod.hawc.canal.aws.io-cplus.net/f6c5819ea83c1e4517c7bd6ffbaf7ef9.jpg"/>
   </programme>
-  <programme start="20251222113000 +0300" stop="20251222130000 +0300" channel="5555">
-    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">African Cup Of Nations
-
-Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+  <programme start="20251222123000 +0300" stop="20251222124500 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Sport
+Quality : Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/27568567/canal-ouah_50009/STD169/CSPS-brK8"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222130000 +0300" stop="20251222133000 +0300" channel="5555">
-    <title lang="en">Stadium Prince Moulay Abdellah, the New Jewel - Afcon 2025</title>
-    <desc lang="en">Sports General
+  <programme start="20251222124500 +0300" stop="20251222144500 +0300" channel="5555">
+    <title lang="fr">New York Knicks / Miami Heat</title>
+    <desc lang="fr">Competition : NBA - Saison régulière.
+Category : Sport-Basket-ball
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-</desc>
+Deuxième à l’Est avec 19 victoires- septième avec une dynamique en chute libre : au Madison Square Garden- Knicks et Heat se présentent avec des trajectoires opposées. Sacrés en NBA Cup après leur succès face aux Spurs- les Knicks s’appuient sur une structure solide et des individualités en pleine maîtrise. Jalen Brunson- MVP de la NBA Cup- tourne à 28-7 points de moyenne et dicte le tempo- pendant que Karl-Anthony Towns impose sa loi sous le cercle. Intraitables à domicile- les Knicks ont toutes les cartes en main pour rester au contact des Pistons au sommet de l’Est. À l'inverse- le Heat marque le pas avec 6 défaites sur ses 7 derniers matchs. Privée de Tyler Herro et Andrew Wiggins- Miami se raccroche à l’impact de Bam Adebayo dans la raquette- à la puissance de Norman Powell et à l’insouciance de Kasparas Jakucionis. Entre une équipe sûre de ses forces et une autre en quête de repères- ce match pourrait soit confirmer une dynamique- soit offrir au Heat l’élan qui lui manque cruellement.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502571/canal-ouah/STD169/1312030_393_S16_NBA2025-2026-RegularSeason-NewYorkKnicks-MiamiHeat-21-12-25-qzQK"/>
+    <last-chance lang="fr">29/12/2025</last-chance>
   </programme>
-  <programme start="20251222133000 +0300" stop="20251222134500 +0300" channel="5555">
-    <title lang="en">"AHMED ELMOHAMADYThe Three Peat" - Afcon 2025</title>
-    <desc lang="en">Sports General
+  <programme start="20251222144500 +0300" stop="20251222153000 +0300" channel="5555">
+    <title lang="fr">NBA Extra</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Basket-ball
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-</desc>
+Toute l'actualité de la NBA- les résultats de la nuit et le Top 10. NBA Extra est le rendez-vous incontournable des fans de basket proposé du lundi au vendredi à 12h45 sur beIN SPORTS. L'équipe composée de Mary Patrux- Xavier Vaution- Rémi Reverchon- Jacques Monclar- Eric Micoud et Chris Singleton décrypte l'actualité NBA.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/27596106/canal-ouah/STD169/NBA-EXTRA-1920x1080px-h-W4"/>
   </programme>
-  <programme start="20251222134500 +0300" stop="20251222140000 +0300" channel="5555">
-    <title lang="en">"ADLENE GUEDIOURAChampions" - Afcon 2025</title>
-    <desc lang="en">Sports General
-
-</desc>
+  <programme start="20251222153000 +0300" stop="20251222160000 +0300" channel="5555">
+    <title lang="fr">beIN Zap</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Sport
+Quality : Les images de sport les plus marquantes des derniers jours dans toutes les disciplines sur les antennes de beIN SPORTS- sous la forme d'un zapping.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363987"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222140000 +0300" stop="20251222143000 +0300" channel="5555">
-    <title lang="en">Teams Egypt</title>
-    <desc lang="en">Sports General
+  <programme start="20251222160000 +0300" stop="20251222163000 +0300" channel="5555">
+    <title lang="fr">This is Paris</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Football
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-What are the ambitions of Egypt for AFCON 2025 ?</desc>
+This is Paris est le magazine dédié à toute l'actualité du Paris Saint-Germain : dernières news des vestiaires- reportages et interviews de ceux qui font le club- tout est passé en revue ainsi que les derniers résultats et les prochaines échéances à venir.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100418477"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222143000 +0300" stop="20251222150000 +0300" channel="5555">
-    <title lang="en">Teams Morocco</title>
-    <desc lang="en">Sports General
+  <programme start="20251222163000 +0300" stop="20251222164500 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Mag. Sport.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-What are the ambitions of Morocco for AFCON 2025 ?</desc>
+Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119537338"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222150000 +0300" stop="20251222153000 +0300" channel="5555">
-    <title lang="en">Road to Afcon Egypt</title>
-    <desc lang="en">Sports General
+  <programme start="20251222164500 +0300" stop="20251222170000 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Mag. Sport.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-</desc>
+Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119537338"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222153000 +0300" stop="20251222170000 +0300" channel="5555">
-    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">African Cup Of Nations
+  <programme start="20251222170000 +0300" stop="20251222190000 +0300" channel="5555">
+    <title lang="fr">Mali / Zambie</title>
+    <desc lang="fr">Competition : Coupe d'Afrique des nations - 1r....
+Category : Sport-Football
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+Retransmission d'un match de la Coupe d'Afrique des nations de football. La CAN- organisée par la CAF- a lieu tous les deux ans- depuis 1957. Les 24 meilleurs pays africains se battent pour devenir la meilleure nation d'Afrique.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502646/canal-ouah/STD169/1313724_2_S16_CAFAfricaCupofNations2025-2026-J1Mali-Zambie-22-12-25-zz1L"/>
   </programme>
-  <programme start="20251222170000 +0300" stop="20251222173000 +0300" channel="5555">
-    <title lang="en">Teams Algeria</title>
-    <desc lang="en">Sports General
+  <programme start="20251222190000 +0300" stop="20251222191500 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Mag. Sport.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-What are the ambitions of Algeria for AFCON 2025 ?</desc>
+Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119537338"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222173000 +0300" stop="20251222180000 +0300" channel="5555">
-    <title lang="en">Stadium Prince Moulay Abdellah, the New Jewel - Afcon 2025</title>
-    <desc lang="en">Sports General
+  <programme start="20251222191500 +0300" stop="20251222194500 +0300" channel="5555">
+    <title lang="fr">Salon VIP</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-</desc>
+Dans le Salon VIP de beIN SPORTS- Clara Paban accueille un invité- sportif ou non- qui fait partager sa passion du sport. Dans une ambiance décontractée- les dernières news de l'actualité sportive sont passées en revue- ainsi que les résultats marquants des jours précédents.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/27596110/canal-ouah/STD169/SalonVIP--j3L"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222180000 +0300" stop="20251222183000 +0300" channel="5555">
-    <title lang="en">Teams Egypt</title>
-    <desc lang="en">Sports General
+  <programme start="20251222194500 +0300" stop="20251222200000 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Mag. Sport.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-What are the ambitions of Egypt for AFCON 2025 ?</desc>
+Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119537338"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251222183000 +0300" stop="20251222190000 +0300" channel="5555">
-    <title lang="en">Morocco vs Comoros - African Cup of Nations - Morocco 2025 - Mini Match</title>
-    <desc lang="en">African Cup Of Nations
+  <programme start="20251222200000 +0300" stop="20251222220000 +0300" channel="5555">
+    <title lang="fr">Afrique du Sud / Angola</title>
+    <desc lang="fr">Competition : Coupe d'Afrique des nations - 1r....
+Category : Sport-Football
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-</desc>
+Retransmission d'un match de la Coupe d'Afrique des nations de football. La CAN- organisée par la CAF- a lieu tous les deux ans- depuis 1957. Les 24 meilleurs pays africains se battent pour devenir la meilleure nation d'Afrique.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502647/canal-ouah/STD169/1313724_7_S16_CAFAfricaCupofNations2025-2026-J1Nigeria-Tanzanie-23-12-25-0_Ke"/>
   </programme>
-  <programme start="20251222190000 +0300" stop="20251222223000 +0300" channel="5555">
-    <title lang="en">Mali vs Zambia - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">Live African Cup Of Nations
+  <programme start="20251222220000 +0300" stop="20251222223000 +0300" channel="5555">
+    <title lang="fr">Terrains d'espoirs</title>
+    <desc lang="fr">Competition : FOOTBALL - TERRAINS D'ESPOIRS.
+Category : Sport-Doc Sport
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-Mali conceded only one goal in their six qualifying matches for the 2025 AFCON, the joint-best defensive total alongside Senegal. This is Zambia’s 19th appearance at the CAF Africa Cup of Nations. The Chipolopolo won the title in 2012, beating Côte d’Ivoire on penalties after a goalless final..</desc>
+beIN SPORTS- le plus grand des spectacles</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/media.prod.hawc.canal.aws.io-cplus.net/f6c5819ea83c1e4517c7bd6ffbaf7ef9.jpg"/>
   </programme>
-  <programme start="20251222223000 +0300" stop="20251223011500 +0300" channel="5555">
-    <title lang="en">South Africa vs Angola - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">Live African Cup Of Nations
+  <programme start="20251222223000 +0300" stop="20251222224500 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Mag. Sport.
+Category : Sport-Mag Sport
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-South Africa are unbeaten against Angola at the CAF Africa Cup of Nations. They will be meeting for the fifth time at the tournament, all in the group stages. This is South Africa’s 12th participation in the CAF Africa Cup of Nations. They won AFCON on their debut, back in 1996.</desc>
+Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/119537338"/>
+    <country lang="fr">France</country>
   </programme>
-  <programme start="20251223011500 +0300" stop="20251223043000 +0300" channel="5555">
-    <title lang="en">Egypt vs Zimbabwe - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">Live African Cup Of Nations
+  <programme start="20251222224500 +0300" stop="20251222230000 +0300" channel="5555">
+    <title lang="fr">Club CAN</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Football
+Quality : HD
+Audio : Stereo
+Langugae : Français
 
-This will be the third AFCON encounter between Egypt and Zimbabwe, with each of them taking place in North Africa. The two previous meetings produced Egyptian victories, both in the group stages: 2004 and 2019. This is Egypt’s 27th appearance at the CAF Africa Cup of Nations, a record in the history of the tournament. They have won it seven times – more than any other side – and have also reached the final in five of their last seven participations.</desc>
+Avant et après les matches- l'actualité de la CAN- Coupe d'Afrique des Nations- les dernières informations en provenance des terrains et des différentes sélections nationales.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/17883013/canal-ouah_50009/STD169/MonDec22202509_28_09GMT0100heurenormaledEuropecentrale-JMJR"/>
   </programme>
-  <programme start="20251223043000 +0300" stop="20251223060000 +0300" channel="5555">
-    <title lang="en">Evening Show - African Cup of Nations - Morocco 2025</title>
-    <desc lang="en">Live African Cup Of Nations
+  <programme start="20251222230000 +0300" stop="20251223010000 +0300" channel="5555">
+    <title lang="fr">Egypte / Zimbabwe</title>
+    <desc lang="fr">Competition : Coupe d'Afrique des nations - 1r....
+Category : Sport-Football
+Quality : HD
+Audio : Mono
+Langugae : Français
 
-Every evening, following the last game of the day, the AFCON Evening Show will review the day’s action and preview the upcoming matches and talking points from Morocco. All matches from AFCON are live and exclusive only on beIN</desc>
+La Coupe d'Afrique des Nations effectue son retour avec cette rencontre de la 1re journée entre l'Egypte- détenteur du record de titres sur le continent- et le Zimbabwe. Il s'agit probablement de la dernière possibilité pour Mohamed Salah de remporter un titre avec son équipe nationale.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30502645/canal-ouah/STD169/1313724_8_S16_CAFAfricaCupofNations2025-2026-J1Tunisie-Ouganda-23-12-25-_7DG"/>
+  </programme>
+  <programme start="20251223010000 +0300" stop="20251223013000 +0300" channel="5555">
+    <title lang="fr">This is Paris</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Football
+Quality : HD
+Audio : Stereo
+Langugae : Français
+
+This is Paris est le magazine dédié à toute l'actualité du Paris Saint-Germain : dernières news des vestiaires- reportages et interviews de ceux qui font le club- tout est passé en revue ainsi que les derniers résultats et les prochaines échéances à venir.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100418477"/>
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251223013000 +0300" stop="20251223014500 +0300" channel="5555">
+    <title lang="fr">Ça se passe sur beIN SPORTS</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Sport
+Quality : Ça se passe sur beIN SPORTS est un condensé de l'actualité sportive- des résultats et des meilleures images des derniers jours : football- tennis- basket- rugby- handball ou encore les sports US (NBA- MLB- NFL)- toutes les compétitions sont passées en revue.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/27568567/canal-ouah_50009/STD169/CSPS-brK8"/>
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251223014500 +0300" stop="20251223021500 +0300" channel="5555">
+    <title lang="fr">beIN Zap</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Sport
+Quality : Les images de sport les plus marquantes des derniers jours dans toutes les disciplines sur les antennes de beIN SPORTS- sous la forme d'un zapping.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/100363987"/>
+    <country lang="fr">France</country>
+  </programme>
+  <programme start="20251223021500 +0300" stop="20251223030000 +0300" channel="5555">
+    <title lang="fr">NBA Extra</title>
+    <desc lang="fr">Competition : Emission du 22 déc. 2025.
+Category : Sport-Mag Basket-ball
+Quality : HD
+Audio : Stereo
+Langugae : Français
+
+Toute l'actualité de la NBA- les résultats de la nuit et le Top 10. NBA Extra est le rendez-vous incontournable des fans de basket proposé du lundi au vendredi à 12h45 sur beIN SPORTS. L'équipe composée de Mary Patrux- Xavier Vaution- Rémi Reverchon- Jacques Monclar- Eric Micoud et Chris Singleton décrypte l'actualité NBA.</desc>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/season/27596106/canal-ouah/STD169/NBA-EXTRA-1920x1080px-h-W4"/>
+  </programme>
+  <programme start="20251223030000 +0300" stop="20251223053000 +0300" channel="5555">
+    <title lang="fr">Cleveland Cavaliers / Charlotte Hornets</title>
+    <desc lang="fr">Competition : NBA - Saison régulière.
+Category : Sport-Basket-ball
+Quality : HD
+Audio : Mono
+Langugae : Français
+
+Un Donovan Mitchell en état de grâce et des Hornets privés de leurs chefs d’orchestre : les ingrédients d’un match à sens unique sont réunis. À Cleveland- l’objectif est clair : enchaîner enfin un 2e succès consécutif à domicile. Sans être totalement en phase avec les attentes placées en eux (15-11)- les Cavaliers restent largement au-dessus de leur adversaire du soir. D’autant que Donovan Mitchell marche sur l’eau. Sauveur in extremis face à Washington- le leader des Cavs a livré une démonstration rare : 48 points au total- dont 35 en seconde mi-temps. En face- Charlotte traverse une période sombre. Une seule victoire sur les 5 derniers matchs- et surtout une infirmerie qui ne désemplit pas. Et dans ce chaos- Kon Knueppel s’affirme. L’arrière formé à Duke a profité de ces responsabilités accrues pour briller malgré la défaite contre Chicago avec 33 points. Talent individuel- profondeur d’effectif- rigueur défensive : Cleveland possède trop d’arguments pour se laisser surprendre à la Rocket Arena.</desc>
+    <date>2025</date>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/854x480/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/unit/30494650/canal-ouah/STD169/1312030_398_S16_NBA2025-2026-RegularSeason-ClevelandCavaliers-Charlotte-23-12-25-44St"/>
   </programme>
 </tv>
