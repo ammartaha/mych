@@ -4,16 +4,15 @@
     <display-name lang="en">[United Kingdom (extended) - National] Sky Sports uHD</display-name>
   </channel>
   <programme start="20251223040000 +0300" stop="20251223073000 +0300" channel="5555">
-    <title lang="en">San Francisco 49ers at Indianapolis Colts</title>
-    <sub-title lang="en">NFL Football	LIVE</sub-title>
+    <title lang="en">NFL Football	LIVE</title>
+    <sub-title lang="en">San Francisco 49ers at Indianapolis Colts</sub-title>
     <desc lang="en">The Indianapolis Colts take on the San Francisco 49ers in the NFL.</desc>
     <category lang="en">Live</category>
     <category lang="en">American Football</category>
     <icon src="https://jrsy.tmsimg.com/assets/p8401939_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223073000 +0300" stop="20251223080000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Through the Night</sub-title>
+    <title lang="en">Through the Night</title>
     <desc lang="en">A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
     <category lang="en">News</category>
     <category lang="en">Football</category>
@@ -21,8 +20,7 @@
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251223080000 +0300" stop="20251223100000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Through the Night</sub-title>
+    <title lang="en">Through the Night</title>
     <desc lang="en">A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
     <category lang="en">News</category>
     <category lang="en">Football</category>
@@ -30,31 +28,29 @@
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251223100000 +0300" stop="20251223110000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Sky Sports Breakfast	LIVE</sub-title>
+    <title lang="en">Sky Sports Breakfast	LIVE</title>
     <desc lang="en">Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
     <category lang="en">Live</category>
     <category lang="en">Multi-Sport Event</category>
     <icon src="https://jrsy.tmsimg.com/assets/p30809670_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223110000 +0300" stop="20251223111000 +0300" channel="5555">
-    <title lang="en">Sydney Sixers v Adelaide Strikers</title>
-    <sub-title lang="en">Women's Big Bash</sub-title>
+    <title lang="en">Women's Big Bash</title>
+    <sub-title lang="en">Sydney Sixers v Adelaide Strikers</sub-title>
     <desc lang="en">In the Women's Big Bash League, the Sydney Sixers face the Adelaide Strikers at the North Sydney Oval.</desc>
     <category lang="en">Cricket</category>
     <icon src="https://jrsy.tmsimg.com/assets/p13556473_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223111000 +0300" stop="20251223143000 +0300" channel="5555">
-    <title lang="en">Adelaide Strikers v Melbourne Stars</title>
-    <sub-title lang="en">Big Bash	LIVE</sub-title>
+    <title lang="en">Big Bash	LIVE</title>
+    <sub-title lang="en">Adelaide Strikers v Melbourne Stars</sub-title>
     <desc lang="en">Adelaide Strikers face Melbourne Stars in the BBL.</desc>
     <category lang="en">Live</category>
     <category lang="en">Cricket</category>
     <icon src="https://jrsy.tmsimg.com/assets/p9580484_i_h9_ac.jpg"/>
   </programme>
   <programme start="20251223143000 +0300" stop="20251223150000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Sky Sports FC	LIVE</sub-title>
+    <title lang="en">Sky Sports FC	LIVE</title>
     <desc lang="en">Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
     <credits>
       <actor role="Guest">Tim Sherwood</actor>
@@ -69,8 +65,7 @@
     <icon src="https://jrsy.tmsimg.com/assets/p30809797_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223150000 +0300" stop="20251223153000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Lunchtime Live	LIVE</sub-title>
+    <title lang="en">Lunchtime Live	LIVE</title>
     <desc lang="en">Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
     <category lang="en">Live</category>
     <category lang="en">News</category>
@@ -78,64 +73,58 @@
     <icon src="https://jrsy.tmsimg.com/assets/p25528143_i_h9_ab.jpg"/>
   </programme>
   <programme start="20251223153000 +0300" stop="20251223193000 +0300" channel="5555">
-    <title lang="en">Day 13</title>
-    <sub-title lang="en">PDC World Darts Championship	LIVE</sub-title>
+    <title lang="en">PDC World Darts Championship	LIVE</title>
+    <sub-title lang="en">Day 13</sub-title>
     <desc lang="en">The afternoon session of day 13 at the 2025 World Darts Championship.</desc>
     <category lang="en">Live</category>
     <category lang="en">Darts</category>
     <icon src="https://jrsy.tmsimg.com/assets/p8947313_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223193000 +0300" stop="20251223200000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Sports Desk	LIVE</sub-title>
+    <title lang="en">Sports Desk	LIVE</title>
     <desc lang="en">Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
     <category lang="en">Live</category>
     <category lang="en">News</category>
     <icon src="https://jrsy.tmsimg.com/assets/p25348307_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223200000 +0300" stop="20251223210000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">The Premier League Show	LIVE</sub-title>
+    <title lang="en">The Premier League Show	LIVE</title>
     <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
     <category lang="en">Live</category>
     <category lang="en">Football</category>
     <icon src="https://jrsy.tmsimg.com/assets/p30839165_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223210000 +0300" stop="20251223220000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">The Premier League Show	LIVE</sub-title>
+    <title lang="en">The Premier League Show	LIVE</title>
     <desc lang="en">Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
     <category lang="en">Live</category>
     <category lang="en">Football</category>
     <icon src="https://jrsy.tmsimg.com/assets/p30839165_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223220000 +0300" stop="20251223223000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Sports Centre	LIVE</sub-title>
+    <title lang="en">Sports Centre	LIVE</title>
     <desc lang="en">Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
     <category lang="en">Live</category>
     <category lang="en">Multi-Sport Event</category>
     <icon src="https://jrsy.tmsimg.com/assets/p31998246_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223223000 +0300" stop="20251224014500 +0300" channel="5555">
-    <title lang="en">Quarter-Final: Arsenal v Crystal Palace</title>
-    <sub-title lang="en">EFL Cup	LIVE</sub-title>
+    <title lang="en">EFL Cup	LIVE</title>
+    <sub-title lang="en">Quarter-Final: Arsenal v Crystal Palace</sub-title>
     <desc lang="en">For a place in the final four of this season's Carabao Cup, Arsenal and Crystal Palace meet in an all-Premier League quarter-final at the Emirates Stadium.</desc>
     <category lang="en">Live</category>
     <category lang="en">Football</category>
     <icon src="https://jrsy.tmsimg.com/assets/p9362980_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251224014500 +0300" stop="20251224020000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Back Pages Tonight	LIVE</sub-title>
+    <title lang="en">Back Pages Tonight	LIVE</title>
     <desc lang="en">A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
     <category lang="en">Live</category>
     <category lang="en">News</category>
     <icon src="https://jrsy.tmsimg.com/assets/p23664127_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251224020000 +0300" stop="20251224030000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Through the Night	LIVE</sub-title>
+    <title lang="en">Through the Night	LIVE</title>
     <desc lang="en">A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
     <category lang="en">Live</category>
     <category lang="en">News</category>
@@ -144,8 +133,7 @@
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251224030000 +0300" stop="20251224033000 +0300" channel="5555">
-    <title lang="en"/>
-    <sub-title lang="en">Through the Night</sub-title>
+    <title lang="en">Through the Night</title>
     <desc lang="en">A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
     <category lang="en">News</category>
     <category lang="en">Football</category>
