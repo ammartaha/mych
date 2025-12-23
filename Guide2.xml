@@ -6,51 +6,58 @@
   <programme start="20251223040000 +0300" stop="20251223073000 +0300" channel="5555">
     <title lang="en">NFL Football	LIVE</title>
     <desc lang="en">SAN FRANCISCO 49ERS AT INDIANAPOLIS COLTS
-Category: [LIVE-AMERICAN FOOTBALL]
-The Indianapolis Colts take on the San Francisco 49ers in the NFL.</desc>
+[LIVE-AMERICAN FOOTBALL]
+
+THE INDIANAPOLIS COLTS TAKE ON THE SAN FRANCISCO 49ERS IN THE NFL.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8401939_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223073000 +0300" stop="20251223080000 +0300" channel="5555">
     <title lang="en">Through the Night</title>
     <desc lang="en">
-Category: [NEWS-FOOTBALL-SPORTS TALK]
-A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
+[NEWS-FOOTBALL-SPORTS TALK]
+
+A COMPREHENSIVE REVIEW OF ALL THE FOOTBALL NEWS, PLUS A LOOK AT THE HEADLINES AND A FULL ROUND-UP OF SPORTS NEWS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251223080000 +0300" stop="20251223100000 +0300" channel="5555">
     <title lang="en">Through the Night</title>
     <desc lang="en">
-Category: [NEWS-FOOTBALL-SPORTS TALK]
-A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
+[NEWS-FOOTBALL-SPORTS TALK]
+
+A COMPREHENSIVE REVIEW OF ALL THE FOOTBALL NEWS, PLUS A LOOK AT THE HEADLINES AND A FULL ROUND-UP OF SPORTS NEWS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251223100000 +0300" stop="20251223110000 +0300" channel="5555">
     <title lang="en">Sky Sports Breakfast	LIVE</title>
     <desc lang="en">
-Category: [LIVE-MULTI-SPORT EVENT]
-Stay across the biggest sports stories this morning with a wrap-up of the headlines.</desc>
+[LIVE-MULTI-SPORT EVENT]
+
+STAY ACROSS THE BIGGEST SPORTS STORIES THIS MORNING WITH A WRAP-UP OF THE HEADLINES.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p30809670_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223110000 +0300" stop="20251223111000 +0300" channel="5555">
     <title lang="en">Women's Big Bash</title>
     <desc lang="en">SYDNEY SIXERS V ADELAIDE STRIKERS
-Category: [CRICKET]
-In the Women's Big Bash League, the Sydney Sixers face the Adelaide Strikers at the North Sydney Oval.</desc>
+[CRICKET]
+
+IN THE WOMEN'S BIG BASH LEAGUE, THE SYDNEY SIXERS FACE THE ADELAIDE STRIKERS AT THE NORTH SYDNEY OVAL.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p13556473_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223111000 +0300" stop="20251223143000 +0300" channel="5555">
     <title lang="en">Big Bash	LIVE</title>
     <desc lang="en">ADELAIDE STRIKERS V MELBOURNE STARS
-Category: [LIVE-CRICKET]
-Adelaide Strikers face Melbourne Stars in the BBL.</desc>
+[LIVE-CRICKET]
+
+ADELAIDE STRIKERS FACE MELBOURNE STARS IN THE BBL.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p9580484_i_h9_ac.jpg"/>
   </programme>
   <programme start="20251223143000 +0300" stop="20251223150000 +0300" channel="5555">
     <title lang="en">Sky Sports FC	LIVE</title>
     <desc lang="en">
-Category: [LIVE-MULTI-SPORT EVENT]
-Presenter: Tom White
-Have your say on the big talking points in this interactive show covering the major football headlines.</desc>
+[LIVE-MULTI-SPORT EVENT]
+PRESENTER: Tom White
+
+HAVE YOUR SAY ON THE BIG TALKING POINTS IN THIS INTERACTIVE SHOW COVERING THE MAJOR FOOTBALL HEADLINES.</desc>
     <credits>
       <actor role="Guest">Tim Sherwood</actor>
       <actor role="Guest">Charlie Austin</actor>
@@ -63,71 +70,81 @@ Have your say on the big talking points in this interactive show covering the ma
   <programme start="20251223150000 +0300" stop="20251223153000 +0300" channel="5555">
     <title lang="en">Lunchtime Live	LIVE</title>
     <desc lang="en">
-Category: [LIVE-NEWS-SPORTS TALK]
-Sit down with Sky Sports News as the team break down all the sports stories making the headlines this lunchtime.</desc>
+[LIVE-NEWS-SPORTS TALK]
+
+SIT DOWN WITH SKY SPORTS NEWS AS THE TEAM BREAK DOWN ALL THE SPORTS STORIES MAKING THE HEADLINES THIS LUNCHTIME.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p25528143_i_h9_ab.jpg"/>
   </programme>
   <programme start="20251223153000 +0300" stop="20251223193000 +0300" channel="5555">
     <title lang="en">PDC World Darts Championship	LIVE</title>
     <desc lang="en">DAY 13
-Category: [LIVE-DARTS]
-The afternoon session of day 13 at the 2025 World Darts Championship.</desc>
+[LIVE-DARTS]
+
+THE AFTERNOON SESSION OF DAY 13 AT THE 2025 WORLD DARTS CHAMPIONSHIP.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8947313_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223193000 +0300" stop="20251223200000 +0300" channel="5555">
     <title lang="en">Sports Desk	LIVE</title>
     <desc lang="en">
-Category: [LIVE-NEWS]
-Keep across all the very latest sports news - including breaking news, live updates and interviews with all the big names.</desc>
+[LIVE-NEWS]
+
+KEEP ACROSS ALL THE VERY LATEST SPORTS NEWS - INCLUDING BREAKING NEWS, LIVE UPDATES AND INTERVIEWS WITH ALL THE BIG NAMES.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p25348307_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223200000 +0300" stop="20251223210000 +0300" channel="5555">
     <title lang="en">The Premier League Show	LIVE</title>
     <desc lang="en">
-Category: [LIVE-FOOTBALL]
-Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+[LIVE-FOOTBALL]
+
+YOUR ESSENTIAL DAILY GUIDE TO THE PREMIER LEAGUE. WITH EXCLUSIVE INTERVIEWS, TOPICAL DEBATE AND THE LATEST NEWS FROM ALL 20 TOP-FLIGHT CLUBS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p30839165_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223210000 +0300" stop="20251223220000 +0300" channel="5555">
     <title lang="en">The Premier League Show	LIVE</title>
     <desc lang="en">
-Category: [LIVE-FOOTBALL]
-Your essential daily guide to the Premier League. With exclusive interviews, topical debate and the latest news from all 20 top-flight clubs.</desc>
+[LIVE-FOOTBALL]
+
+YOUR ESSENTIAL DAILY GUIDE TO THE PREMIER LEAGUE. WITH EXCLUSIVE INTERVIEWS, TOPICAL DEBATE AND THE LATEST NEWS FROM ALL 20 TOP-FLIGHT CLUBS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p30839165_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223220000 +0300" stop="20251223223000 +0300" channel="5555">
     <title lang="en">Sports Centre	LIVE</title>
     <desc lang="en">
-Category: [LIVE-MULTI-SPORT EVENT]
-Round-up of the sports news with live analysis and comments, plus extended interviews with the headline makers.</desc>
+[LIVE-MULTI-SPORT EVENT]
+
+ROUND-UP OF THE SPORTS NEWS WITH LIVE ANALYSIS AND COMMENTS, PLUS EXTENDED INTERVIEWS WITH THE HEADLINE MAKERS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p31998246_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251223223000 +0300" stop="20251224014500 +0300" channel="5555">
     <title lang="en">EFL Cup	LIVE</title>
     <desc lang="en">QUARTER-FINAL: ARSENAL V CRYSTAL PALACE
-Category: [LIVE-FOOTBALL]
-For a place in the final four of this season's Carabao Cup, Arsenal and Crystal Palace meet in an all-Premier League quarter-final at the Emirates Stadium.</desc>
+[LIVE-FOOTBALL]
+
+FOR A PLACE IN THE FINAL FOUR OF THIS SEASON'S CARABAO CUP, ARSENAL AND CRYSTAL PALACE MEET IN AN ALL-PREMIER LEAGUE QUARTER-FINAL AT THE EMIRATES STADIUM.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p9362980_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251224014500 +0300" stop="20251224020000 +0300" channel="5555">
     <title lang="en">Back Pages Tonight	LIVE</title>
     <desc lang="en">
-Category: [LIVE-NEWS]
-A look at the big stories dominating the news headlines, with discussion and analysis of sport's major topics.</desc>
+[LIVE-NEWS]
+
+A LOOK AT THE BIG STORIES DOMINATING THE NEWS HEADLINES, WITH DISCUSSION AND ANALYSIS OF SPORT'S MAJOR TOPICS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p23664127_i_h9_aa.jpg"/>
   </programme>
   <programme start="20251224020000 +0300" stop="20251224030000 +0300" channel="5555">
     <title lang="en">Through the Night	LIVE</title>
     <desc lang="en">
-Category: [LIVE-NEWS-FOOTBALL-SPORTS TALK]
-A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
+[LIVE-NEWS-FOOTBALL-SPORTS TALK]
+
+A COMPREHENSIVE REVIEW OF ALL THE FOOTBALL NEWS, PLUS A LOOK AT THE HEADLINES AND A FULL ROUND-UP OF SPORTS NEWS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
   <programme start="20251224030000 +0300" stop="20251224033000 +0300" channel="5555">
     <title lang="en">Through the Night</title>
     <desc lang="en">
-Category: [NEWS-FOOTBALL-SPORTS TALK]
-A comprehensive review of all the football news, plus a look at the headlines and a full round-up of sports news.</desc>
+[NEWS-FOOTBALL-SPORTS TALK]
+
+A COMPREHENSIVE REVIEW OF ALL THE FOOTBALL NEWS, PLUS A LOOK AT THE HEADLINES AND A FULL ROUND-UP OF SPORTS NEWS.</desc>
     <icon src="https://jrsy.tmsimg.com/assets/p8488364_i_h6_aa.jpg"/>
   </programme>
 </tv>
